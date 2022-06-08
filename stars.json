@@ -7,13 +7,13 @@
   },
   {
     "full_name": "rustdesk/rustdesk-server",
-    "stargazers_count": 985,
+    "stargazers_count": 987,
     "open_issues_count": 5,
     "forks_count": 197
   },
   {
     "full_name": "samwillis/tetra",
-    "stargazers_count": 315,
+    "stargazers_count": 317,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "xonsh/xonsh",
-    "stargazers_count": 6046,
+    "stargazers_count": 6048,
     "open_issues_count": 274,
     "forks_count": 561
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "MarketingPipeline/Markdown-Tag",
-    "stargazers_count": 245,
+    "stargazers_count": 246,
     "open_issues_count": 3,
     "forks_count": 6
   },
   {
     "full_name": "infrahq/infra",
-    "stargazers_count": 728,
-    "open_issues_count": 126,
-    "forks_count": 22
+    "stargazers_count": 729,
+    "open_issues_count": 123,
+    "forks_count": 23
   },
   {
     "full_name": "Sh4d1/scaleway-k8s-node-coffee",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "onceupon/Bash-Oneliner",
-    "stargazers_count": 6120,
+    "stargazers_count": 6122,
     "open_issues_count": 13,
     "forks_count": 407
   },
   {
     "full_name": "thecodingmachine/workadventure",
-    "stargazers_count": 2546,
-    "open_issues_count": 393,
+    "stargazers_count": 2547,
+    "open_issues_count": 395,
     "forks_count": 411
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 11256,
-    "open_issues_count": 27,
-    "forks_count": 250
+    "stargazers_count": 11264,
+    "open_issues_count": 26,
+    "forks_count": 251
   },
   {
     "full_name": "denisrosset/configpile",
@@ -85,20 +85,20 @@
   },
   {
     "full_name": "growthbook/growthbook",
-    "stargazers_count": 3118,
-    "open_issues_count": 71,
+    "stargazers_count": 3121,
+    "open_issues_count": 72,
     "forks_count": 149
   },
   {
     "full_name": "ekzhang/bore",
-    "stargazers_count": 4824,
+    "stargazers_count": 4826,
     "open_issues_count": 2,
     "forks_count": 124
   },
   {
     "full_name": "helmfile/helmfile",
-    "stargazers_count": 398,
-    "open_issues_count": 8,
+    "stargazers_count": 400,
+    "open_issues_count": 9,
     "forks_count": 35
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "python/typeshed",
-    "stargazers_count": 2887,
+    "stargazers_count": 2888,
     "open_issues_count": 185,
     "forks_count": 1330
   },
@@ -127,55 +127,55 @@
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 21870,
+    "stargazers_count": 21874,
     "open_issues_count": 108,
-    "forks_count": 3675
+    "forks_count": 3674
   },
   {
     "full_name": "singularity-data/risingwave",
-    "stargazers_count": 2643,
-    "open_issues_count": 422,
+    "stargazers_count": 2646,
+    "open_issues_count": 423,
     "forks_count": 186
   },
   {
     "full_name": "project-zot/zot",
     "stargazers_count": 111,
-    "open_issues_count": 97,
+    "open_issues_count": 96,
     "forks_count": 34
   },
   {
     "full_name": "danielfoehrKn/kubeswitch",
-    "stargazers_count": 236,
+    "stargazers_count": 242,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "cdk8s-team/cdk8s",
-    "stargazers_count": 2965,
-    "open_issues_count": 30,
+    "stargazers_count": 2967,
+    "open_issues_count": 31,
     "forks_count": 224
   },
   {
     "full_name": "kris-nova/kaar",
-    "stargazers_count": 125,
+    "stargazers_count": 126,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "grafana/mimir",
     "stargazers_count": 2078,
-    "open_issues_count": 209,
+    "open_issues_count": 212,
     "forks_count": 98
   },
   {
     "full_name": "gopasspw/gopass",
-    "stargazers_count": 4645,
-    "open_issues_count": 80,
+    "stargazers_count": 4644,
+    "open_issues_count": 79,
     "forks_count": 413
   },
   {
     "full_name": "SpectralOps/teller",
-    "stargazers_count": 884,
+    "stargazers_count": 885,
     "open_issues_count": 19,
     "forks_count": 119
   }

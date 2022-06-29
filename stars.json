@@ -7,19 +7,19 @@
   },
   {
     "full_name": "slsa-framework/slsa",
-    "stargazers_count": 759,
+    "stargazers_count": 760,
     "open_issues_count": 116,
     "forks_count": 116
   },
   {
     "full_name": "multiprocessio/datastation",
-    "stargazers_count": 2313,
+    "stargazers_count": 2323,
     "open_issues_count": 36,
-    "forks_count": 74
+    "forks_count": 76
   },
   {
     "full_name": "superbrothers/kubectl-view-serviceaccount-kubeconfig-plugin",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -31,38 +31,38 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 41812,
-    "open_issues_count": 362,
-    "forks_count": 3109
+    "stargazers_count": 41828,
+    "open_issues_count": 365,
+    "forks_count": 3110
   },
   {
     "full_name": "faif/python-patterns",
-    "stargazers_count": 33932,
+    "stargazers_count": 34071,
     "open_issues_count": 11,
-    "forks_count": 6438
+    "forks_count": 6447
   },
   {
     "full_name": "defenseunicorns/zarf",
-    "stargazers_count": 334,
-    "open_issues_count": 70,
+    "stargazers_count": 335,
+    "open_issues_count": 72,
     "forks_count": 39
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 635,
-    "open_issues_count": 428,
-    "forks_count": 33
+    "stargazers_count": 642,
+    "open_issues_count": 430,
+    "forks_count": 34
   },
   {
     "full_name": "julienXX/terminal-notifier",
-    "stargazers_count": 5903,
+    "stargazers_count": 5902,
     "open_issues_count": 34,
-    "forks_count": 338
+    "forks_count": 339
   },
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 313,
-    "open_issues_count": 43,
+    "stargazers_count": 318,
+    "open_issues_count": 36,
     "forks_count": 14
   },
   {
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "rustdesk/rustdesk-server",
-    "stargazers_count": 1305,
-    "open_issues_count": 14,
+    "stargazers_count": 1318,
+    "open_issues_count": 13,
     "forks_count": 260
   },
   {
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "norwoodj/helm-docs",
-    "stargazers_count": 691,
+    "stargazers_count": 693,
     "open_issues_count": 42,
     "forks_count": 105
   },
   {
     "full_name": "xonsh/xonsh",
-    "stargazers_count": 6096,
+    "stargazers_count": 6097,
     "open_issues_count": 272,
     "forks_count": 570
   },
   {
     "full_name": "senthilrch/kube-fledged",
-    "stargazers_count": 728,
+    "stargazers_count": 729,
     "open_issues_count": 14,
     "forks_count": 83
   },
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "infrahq/infra",
-    "stargazers_count": 806,
-    "open_issues_count": 121,
+    "stargazers_count": 807,
+    "open_issues_count": 125,
     "forks_count": 26
   },
   {
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "onceupon/Bash-Oneliner",
-    "stargazers_count": 6211,
+    "stargazers_count": 6213,
     "open_issues_count": 13,
     "forks_count": 415
   },
   {
     "full_name": "thecodingmachine/workadventure",
-    "stargazers_count": 2600,
-    "open_issues_count": 428,
+    "stargazers_count": 2604,
+    "open_issues_count": 430,
     "forks_count": 423
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 12947,
-    "open_issues_count": 47,
-    "forks_count": 309
+    "stargazers_count": 12979,
+    "open_issues_count": 51,
+    "forks_count": 312
   },
   {
     "full_name": "denisrosset/configpile",
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "growthbook/growthbook",
-    "stargazers_count": 3273,
-    "open_issues_count": 93,
+    "stargazers_count": 3278,
+    "open_issues_count": 89,
     "forks_count": 156
   },
   {
     "full_name": "ekzhang/bore",
-    "stargazers_count": 4919,
+    "stargazers_count": 4921,
     "open_issues_count": 3,
     "forks_count": 124
   },
   {
     "full_name": "helmfile/helmfile",
-    "stargazers_count": 513,
+    "stargazers_count": 518,
     "open_issues_count": 10,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "mazzy89/k3os",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "rancher/k3os",
-    "stargazers_count": 3099,
+    "stargazers_count": 3098,
     "open_issues_count": 209,
-    "forks_count": 374
+    "forks_count": 375
   }
 ]

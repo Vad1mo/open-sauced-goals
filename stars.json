@@ -1,8 +1,8 @@
 [
   {
     "full_name": "mito-ds/monorepo",
-    "stargazers_count": 817,
-    "open_issues_count": 95,
+    "stargazers_count": 822,
+    "open_issues_count": 96,
     "forks_count": 47
   },
   {
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "slsa-framework/slsa",
-    "stargazers_count": 761,
-    "open_issues_count": 116,
+    "stargazers_count": 763,
+    "open_issues_count": 117,
     "forks_count": 116
   },
   {
     "full_name": "multiprocessio/datastation",
-    "stargazers_count": 2340,
+    "stargazers_count": 2347,
     "open_issues_count": 36,
     "forks_count": 76
   },
@@ -37,26 +37,26 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 41855,
-    "open_issues_count": 364,
-    "forks_count": 3112
+    "stargazers_count": 41869,
+    "open_issues_count": 357,
+    "forks_count": 3111
   },
   {
     "full_name": "faif/python-patterns",
-    "stargazers_count": 34249,
+    "stargazers_count": 34266,
     "open_issues_count": 11,
     "forks_count": 6457
   },
   {
     "full_name": "defenseunicorns/zarf",
-    "stargazers_count": 336,
-    "open_issues_count": 75,
+    "stargazers_count": 337,
+    "open_issues_count": 78,
     "forks_count": 40
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 655,
-    "open_issues_count": 458,
+    "stargazers_count": 672,
+    "open_issues_count": 463,
     "forks_count": 39
   },
   {
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 323,
-    "open_issues_count": 46,
+    "stargazers_count": 325,
+    "open_issues_count": 39,
     "forks_count": 14
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "rustdesk/rustdesk-server",
-    "stargazers_count": 1334,
-    "open_issues_count": 14,
-    "forks_count": 265
+    "stargazers_count": 1340,
+    "open_issues_count": 11,
+    "forks_count": 266
   },
   {
     "full_name": "samwillis/tetra",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "norwoodj/helm-docs",
-    "stargazers_count": 694,
+    "stargazers_count": 695,
     "open_issues_count": 36,
     "forks_count": 105
   },
   {
     "full_name": "xonsh/xonsh",
-    "stargazers_count": 6101,
-    "open_issues_count": 273,
-    "forks_count": 570
+    "stargazers_count": 6100,
+    "open_issues_count": 275,
+    "forks_count": 569
   },
   {
     "full_name": "senthilrch/kube-fledged",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "infrahq/infra",
-    "stargazers_count": 809,
+    "stargazers_count": 811,
     "open_issues_count": 128,
     "forks_count": 26
   },
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "onceupon/Bash-Oneliner",
-    "stargazers_count": 6221,
+    "stargazers_count": 6224,
     "open_issues_count": 13,
     "forks_count": 416
   },
   {
     "full_name": "thecodingmachine/workadventure",
-    "stargazers_count": 2605,
-    "open_issues_count": 434,
+    "stargazers_count": 2606,
+    "open_issues_count": 435,
     "forks_count": 423
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 13000,
+    "stargazers_count": 13008,
     "open_issues_count": 52,
-    "forks_count": 318
+    "forks_count": 321
   },
   {
     "full_name": "denisrosset/configpile",
@@ -157,20 +157,20 @@
   },
   {
     "full_name": "growthbook/growthbook",
-    "stargazers_count": 3291,
-    "open_issues_count": 92,
+    "stargazers_count": 3295,
+    "open_issues_count": 94,
     "forks_count": 156
   },
   {
     "full_name": "ekzhang/bore",
-    "stargazers_count": 4924,
+    "stargazers_count": 4925,
     "open_issues_count": 3,
-    "forks_count": 124
+    "forks_count": 123
   },
   {
     "full_name": "helmfile/helmfile",
-    "stargazers_count": 533,
-    "open_issues_count": 11,
+    "stargazers_count": 536,
+    "open_issues_count": 10,
     "forks_count": 41
   },
   {

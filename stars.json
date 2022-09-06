@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "kyberorg/wait_for_harbor",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "kyberorg/harbor-scan-report",
+    "stargazers_count": 1,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
     "full_name": "maintainer-org/maintainer",
     "stargazers_count": 200,
     "open_issues_count": 15,
@@ -7,32 +19,32 @@
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 3030,
+    "stargazers_count": 3361,
     "open_issues_count": 25,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "Ramilito/kubesess",
-    "stargazers_count": 91,
+    "stargazers_count": 93,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "fcoury/oxide",
-    "stargazers_count": 196,
-    "open_issues_count": 10,
+    "stargazers_count": 202,
+    "open_issues_count": 11,
     "forks_count": 7
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 3727,
-    "open_issues_count": 15,
-    "forks_count": 82
+    "stargazers_count": 3834,
+    "open_issues_count": 20,
+    "forks_count": 86
   },
   {
     "full_name": "goharbor/terraform-provider-harbor",
-    "stargazers_count": 64,
-    "open_issues_count": 32,
+    "stargazers_count": 65,
+    "open_issues_count": 33,
     "forks_count": 58
   },
   {
@@ -43,33 +55,33 @@
   },
   {
     "full_name": "keyval-dev/odigos",
-    "stargazers_count": 113,
+    "stargazers_count": 115,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "pixie-io/pixie",
-    "stargazers_count": 3755,
+    "stargazers_count": 3769,
     "open_issues_count": 148,
-    "forks_count": 261
+    "forks_count": 262
   },
   {
     "full_name": "charmbracelet/gum",
-    "stargazers_count": 9942,
+    "stargazers_count": 10004,
     "open_issues_count": 24,
-    "forks_count": 161
+    "forks_count": 162
   },
   {
     "full_name": "kubewharf/kubezoo",
-    "stargazers_count": 426,
-    "open_issues_count": 7,
-    "forks_count": 33
+    "stargazers_count": 428,
+    "open_issues_count": 8,
+    "forks_count": 34
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 9348,
-    "open_issues_count": 31,
-    "forks_count": 300
+    "stargazers_count": 9733,
+    "open_issues_count": 32,
+    "forks_count": 318
   },
   {
     "full_name": "manhtukhang/vault-plugin-harbor",
@@ -79,39 +91,39 @@
   },
   {
     "full_name": "loft-sh/jspolicy",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 15,
     "forks_count": 19
   },
   {
     "full_name": "microsoft/sbom-tool",
-    "stargazers_count": 790,
+    "stargazers_count": 797,
     "open_issues_count": 20,
-    "forks_count": 39
+    "forks_count": 41
   },
   {
     "full_name": "sachaos/viddy",
-    "stargazers_count": 3627,
-    "open_issues_count": 21,
+    "stargazers_count": 3641,
+    "open_issues_count": 22,
     "forks_count": 61
   },
   {
     "full_name": "jeroenpardon/sui",
-    "stargazers_count": 1119,
+    "stargazers_count": 1120,
     "open_issues_count": 5,
     "forks_count": 145
   },
   {
     "full_name": "toboshii/hajimari",
     "stargazers_count": 444,
-    "open_issues_count": 28,
-    "forks_count": 15
+    "open_issues_count": 29,
+    "forks_count": 16
   },
   {
     "full_name": "mito-ds/monorepo",
-    "stargazers_count": 1125,
-    "open_issues_count": 111,
-    "forks_count": 75
+    "stargazers_count": 1194,
+    "open_issues_count": 109,
+    "forks_count": 77
   },
   {
     "full_name": "mcfunley/pugsql",
@@ -121,13 +133,13 @@
   },
   {
     "full_name": "slsa-framework/slsa",
-    "stargazers_count": 819,
-    "open_issues_count": 129,
+    "stargazers_count": 822,
+    "open_issues_count": 128,
     "forks_count": 133
   },
   {
     "full_name": "multiprocessio/datastation",
-    "stargazers_count": 2471,
+    "stargazers_count": 2476,
     "open_issues_count": 31,
     "forks_count": 83
   },
@@ -145,38 +157,26 @@
   },
   {
     "full_name": "localstack/localstack",
-    "stargazers_count": 43243,
-    "open_issues_count": 328,
-    "forks_count": 3195
+    "stargazers_count": 43285,
+    "open_issues_count": 316,
+    "forks_count": 3202
   },
   {
     "full_name": "faif/python-patterns",
-    "stargazers_count": 34946,
+    "stargazers_count": 34976,
     "open_issues_count": 11,
-    "forks_count": 6543
+    "forks_count": 6549
   },
   {
     "full_name": "defenseunicorns/zarf",
-    "stargazers_count": 355,
-    "open_issues_count": 58,
-    "forks_count": 51
+    "stargazers_count": 357,
+    "open_issues_count": 60,
+    "forks_count": 50
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 2151,
-    "open_issues_count": 280,
-    "forks_count": 110
-  },
-  {
-    "full_name": "julienXX/terminal-notifier",
-    "stargazers_count": 5952,
-    "open_issues_count": 35,
-    "forks_count": 337
-  },
-  {
-    "full_name": "cloudnative-pg/cloudnative-pg",
-    "stargazers_count": 437,
-    "open_issues_count": 46,
-    "forks_count": 28
+    "stargazers_count": 2191,
+    "open_issues_count": 289,
+    "forks_count": 112
   }
 ]

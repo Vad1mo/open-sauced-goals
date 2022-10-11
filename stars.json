@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "SimonTheLeg/konf-go",
+    "stargazers_count": 103,
+    "open_issues_count": 7,
+    "forks_count": 6
+  },
+  {
+    "full_name": "slok/agebox",
+    "stargazers_count": 141,
+    "open_issues_count": 15,
+    "forks_count": 10
+  },
+  {
     "full_name": "bitnami-labs/charts-syncer",
     "stargazers_count": 68,
-    "open_issues_count": 17,
+    "open_issues_count": 16,
     "forks_count": 16
   },
   {
     "full_name": "nickzuber/notion-draw",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 1,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 10079,
-    "open_issues_count": 115,
-    "forks_count": 553
+    "stargazers_count": 10157,
+    "open_issues_count": 118,
+    "forks_count": 556
   },
   {
     "full_name": "soxoj/maigret",
-    "stargazers_count": 3976,
-    "open_issues_count": 44,
-    "forks_count": 288
+    "stargazers_count": 6381,
+    "open_issues_count": 47,
+    "forks_count": 484
   },
   {
     "full_name": "startupdeals/startupdeals",
@@ -37,38 +49,38 @@
   },
   {
     "full_name": "maxpert/marmot",
-    "stargazers_count": 445,
-    "open_issues_count": 7,
-    "forks_count": 10
+    "stargazers_count": 451,
+    "open_issues_count": 8,
+    "forks_count": 11
   },
   {
     "full_name": "kairos-io/kairos",
-    "stargazers_count": 195,
-    "open_issues_count": 79,
-    "forks_count": 30
+    "stargazers_count": 213,
+    "open_issues_count": 76,
+    "forks_count": 31
   },
   {
     "full_name": "dosisod/refurb",
-    "stargazers_count": 1353,
-    "open_issues_count": 14,
-    "forks_count": 25
+    "stargazers_count": 1506,
+    "open_issues_count": 13,
+    "forks_count": 28
   },
   {
     "full_name": "osmoscraft/osmosmemo",
-    "stargazers_count": 309,
-    "open_issues_count": 5,
+    "stargazers_count": 311,
+    "open_issues_count": 2,
     "forks_count": 12
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 1923,
+    "stargazers_count": 1933,
     "open_issues_count": 52,
-    "forks_count": 59
+    "forks_count": 58
   },
   {
     "full_name": "Miksus/rocketry",
-    "stargazers_count": 2130,
-    "open_issues_count": 16,
+    "stargazers_count": 2154,
+    "open_issues_count": 17,
     "forks_count": 43
   },
   {
@@ -85,33 +97,33 @@
   },
   {
     "full_name": "kubernetes-sigs/cluster-api",
-    "stargazers_count": 2439,
-    "open_issues_count": 289,
-    "forks_count": 964
+    "stargazers_count": 2446,
+    "open_issues_count": 291,
+    "forks_count": 969
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 10426,
-    "open_issues_count": 139,
-    "forks_count": 578
+    "stargazers_count": 10568,
+    "open_issues_count": 176,
+    "forks_count": 618
   },
   {
     "full_name": "quickwit-oss/quickwit",
-    "stargazers_count": 2439,
-    "open_issues_count": 219,
-    "forks_count": 128
+    "stargazers_count": 2524,
+    "open_issues_count": 216,
+    "forks_count": 129
   },
   {
     "full_name": "infinyon/fluvio",
-    "stargazers_count": 1408,
-    "open_issues_count": 129,
-    "forks_count": 112
+    "stargazers_count": 1417,
+    "open_issues_count": 128,
+    "forks_count": 114
   },
   {
     "full_name": "zinclabs/zinc",
-    "stargazers_count": 12423,
-    "open_issues_count": 49,
-    "forks_count": 518
+    "stargazers_count": 12447,
+    "open_issues_count": 51,
+    "forks_count": 522
   },
   {
     "full_name": "kyberorg/wait_for_harbor",
@@ -133,50 +145,38 @@
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 3904,
-    "open_issues_count": 38,
+    "stargazers_count": 3922,
+    "open_issues_count": 43,
     "forks_count": 50
   },
   {
     "full_name": "Ramilito/kubesess",
-    "stargazers_count": 115,
+    "stargazers_count": 118,
     "open_issues_count": 6,
     "forks_count": 5
   },
   {
     "full_name": "fcoury/oxide",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 11,
     "forks_count": 7
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 13035,
-    "open_issues_count": 105,
-    "forks_count": 279
+    "stargazers_count": 13230,
+    "open_issues_count": 115,
+    "forks_count": 289
   },
   {
     "full_name": "goharbor/terraform-provider-harbor",
     "stargazers_count": 65,
-    "open_issues_count": 32,
-    "forks_count": 59
+    "open_issues_count": 31,
+    "forks_count": 60
   },
   {
     "full_name": "variantdev/chartify",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 2,
     "forks_count": 12
-  },
-  {
-    "full_name": "keyval-dev/odigos",
-    "stargazers_count": 145,
-    "open_issues_count": 4,
-    "forks_count": 7
-  },
-  {
-    "full_name": "pixie-io/pixie",
-    "stargazers_count": 3899,
-    "open_issues_count": 142,
-    "forks_count": 271
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
     "full_name": "paralus/paralus",
-    "stargazers_count": 418,
-    "open_issues_count": 16,
+    "stargazers_count": 420,
+    "open_issues_count": 17,
     "forks_count": 25
   },
   {
     "full_name": "SimonTheLeg/konf-go",
-    "stargazers_count": 108,
+    "stargazers_count": 109,
     "open_issues_count": 7,
     "forks_count": 6
   },
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "bitnami-labs/charts-syncer",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 16,
     "forks_count": 16
   },
   {
     "full_name": "nickzuber/notion-draw",
-    "stargazers_count": 30,
+    "stargazers_count": 33,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 10213,
-    "open_issues_count": 123,
-    "forks_count": 566
+    "stargazers_count": 10286,
+    "open_issues_count": 122,
+    "forks_count": 577
   },
   {
     "full_name": "soxoj/maigret",
-    "stargazers_count": 6679,
-    "open_issues_count": 51,
-    "forks_count": 499
+    "stargazers_count": 6881,
+    "open_issues_count": 50,
+    "forks_count": 512
   },
   {
     "full_name": "startupdeals/startupdeals",
@@ -55,39 +55,39 @@
   },
   {
     "full_name": "maxpert/marmot",
-    "stargazers_count": 455,
-    "open_issues_count": 6,
+    "stargazers_count": 466,
+    "open_issues_count": 7,
     "forks_count": 11
   },
   {
     "full_name": "kairos-io/kairos",
-    "stargazers_count": 218,
-    "open_issues_count": 81,
+    "stargazers_count": 223,
+    "open_issues_count": 94,
     "forks_count": 32
   },
   {
     "full_name": "dosisod/refurb",
-    "stargazers_count": 1550,
-    "open_issues_count": 13,
+    "stargazers_count": 1587,
+    "open_issues_count": 12,
     "forks_count": 28
   },
   {
     "full_name": "osmoscraft/osmosmemo",
-    "stargazers_count": 313,
+    "stargazers_count": 314,
     "open_issues_count": 2,
     "forks_count": 12
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 1942,
-    "open_issues_count": 53,
+    "stargazers_count": 1952,
+    "open_issues_count": 59,
     "forks_count": 58
   },
   {
     "full_name": "Miksus/rocketry",
-    "stargazers_count": 2172,
-    "open_issues_count": 17,
-    "forks_count": 43
+    "stargazers_count": 2190,
+    "open_issues_count": 15,
+    "forks_count": 44
   },
   {
     "full_name": "Bonterms/Cloud-Terms",
@@ -103,33 +103,33 @@
   },
   {
     "full_name": "kubernetes-sigs/cluster-api",
-    "stargazers_count": 2449,
-    "open_issues_count": 287,
+    "stargazers_count": 2453,
+    "open_issues_count": 297,
     "forks_count": 969
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 10700,
-    "open_issues_count": 146,
-    "forks_count": 647
+    "stargazers_count": 10759,
+    "open_issues_count": 129,
+    "forks_count": 659
   },
   {
     "full_name": "quickwit-oss/quickwit",
-    "stargazers_count": 2539,
-    "open_issues_count": 223,
+    "stargazers_count": 2556,
+    "open_issues_count": 238,
     "forks_count": 130
   },
   {
     "full_name": "infinyon/fluvio",
-    "stargazers_count": 1428,
-    "open_issues_count": 137,
+    "stargazers_count": 1433,
+    "open_issues_count": 134,
     "forks_count": 115
   },
   {
     "full_name": "zinclabs/zinc",
-    "stargazers_count": 12479,
-    "open_issues_count": 55,
-    "forks_count": 525
+    "stargazers_count": 12502,
+    "open_issues_count": 56,
+    "forks_count": 524
   },
   {
     "full_name": "kyberorg/wait_for_harbor",
@@ -147,36 +147,36 @@
     "full_name": "maintainer-org/maintainer",
     "stargazers_count": 200,
     "open_issues_count": 15,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 3941,
+    "stargazers_count": 3952,
     "open_issues_count": 42,
-    "forks_count": 51
+    "forks_count": 50
   },
   {
     "full_name": "Ramilito/kubesess",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 6,
     "forks_count": 5
   },
   {
     "full_name": "fcoury/oxide",
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 11,
     "forks_count": 7
   },
   {
     "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 13469,
-    "open_issues_count": 123,
-    "forks_count": 307
+    "stargazers_count": 13722,
+    "open_issues_count": 125,
+    "forks_count": 311
   },
   {
     "full_name": "goharbor/terraform-provider-harbor",
     "stargazers_count": 65,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 60
   }
 ]

@@ -1,32 +1,44 @@
 [
   {
+    "full_name": "parca-dev/parca",
+    "stargazers_count": 2621,
+    "open_issues_count": 98,
+    "forks_count": 151
+  },
+  {
+    "full_name": "FiloSottile/mkcert",
+    "stargazers_count": 37323,
+    "open_issues_count": 96,
+    "forks_count": 1880
+  },
+  {
     "full_name": "shubhamgrg04/awesome-diagramming",
-    "stargazers_count": 2178,
+    "stargazers_count": 2219,
     "open_issues_count": 13,
-    "forks_count": 53
+    "forks_count": 55
   },
   {
     "full_name": "paralus/paralus",
-    "stargazers_count": 421,
+    "stargazers_count": 433,
     "open_issues_count": 19,
     "forks_count": 25
   },
   {
     "full_name": "SimonTheLeg/konf-go",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 8,
     "forks_count": 6
   },
   {
     "full_name": "slok/agebox",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 15,
     "forks_count": 10
   },
   {
     "full_name": "bitnami-labs/charts-syncer",
-    "stargazers_count": 70,
-    "open_issues_count": 16,
+    "stargazers_count": 71,
+    "open_issues_count": 17,
     "forks_count": 17
   },
   {
@@ -37,15 +49,15 @@
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 10386,
-    "open_issues_count": 124,
-    "forks_count": 583
+    "stargazers_count": 10452,
+    "open_issues_count": 126,
+    "forks_count": 590
   },
   {
     "full_name": "soxoj/maigret",
-    "stargazers_count": 6977,
-    "open_issues_count": 54,
-    "forks_count": 522
+    "stargazers_count": 7082,
+    "open_issues_count": 56,
+    "forks_count": 526
   },
   {
     "full_name": "startupdeals/startupdeals",
@@ -55,45 +67,45 @@
   },
   {
     "full_name": "melohagan/budibase-datasource-n8n-workflow",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "maxpert/marmot",
-    "stargazers_count": 473,
-    "open_issues_count": 6,
-    "forks_count": 11
+    "stargazers_count": 479,
+    "open_issues_count": 9,
+    "forks_count": 12
   },
   {
     "full_name": "kairos-io/kairos",
     "stargazers_count": 229,
-    "open_issues_count": 92,
-    "forks_count": 33
+    "open_issues_count": 103,
+    "forks_count": 35
   },
   {
     "full_name": "dosisod/refurb",
-    "stargazers_count": 1606,
-    "open_issues_count": 14,
+    "stargazers_count": 1637,
+    "open_issues_count": 10,
     "forks_count": 28
   },
   {
     "full_name": "osmoscraft/osmosmemo",
-    "stargazers_count": 315,
+    "stargazers_count": 317,
     "open_issues_count": 2,
     "forks_count": 12
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 1956,
-    "open_issues_count": 51,
-    "forks_count": 59
+    "stargazers_count": 1982,
+    "open_issues_count": 55,
+    "forks_count": 61
   },
   {
     "full_name": "Miksus/rocketry",
-    "stargazers_count": 2194,
-    "open_issues_count": 19,
-    "forks_count": 45
+    "stargazers_count": 2231,
+    "open_issues_count": 20,
+    "forks_count": 49
   },
   {
     "full_name": "Bonterms/Cloud-Terms",
@@ -109,33 +121,33 @@
   },
   {
     "full_name": "kubernetes-sigs/cluster-api",
-    "stargazers_count": 2459,
+    "stargazers_count": 2477,
     "open_issues_count": 302,
     "forks_count": 976
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 10844,
-    "open_issues_count": 128,
-    "forks_count": 673
+    "stargazers_count": 11598,
+    "open_issues_count": 139,
+    "forks_count": 721
   },
   {
     "full_name": "quickwit-oss/quickwit",
-    "stargazers_count": 2570,
-    "open_issues_count": 240,
-    "forks_count": 132
+    "stargazers_count": 2591,
+    "open_issues_count": 243,
+    "forks_count": 134
   },
   {
     "full_name": "infinyon/fluvio",
-    "stargazers_count": 1442,
-    "open_issues_count": 133,
+    "stargazers_count": 1449,
+    "open_issues_count": 121,
     "forks_count": 116
   },
   {
     "full_name": "zinclabs/zinc",
-    "stargazers_count": 12514,
-    "open_issues_count": 57,
-    "forks_count": 528
+    "stargazers_count": 12540,
+    "open_issues_count": 61,
+    "forks_count": 530
   },
   {
     "full_name": "kyberorg/wait_for_harbor",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 3966,
-    "open_issues_count": 39,
+    "stargazers_count": 3989,
+    "open_issues_count": 41,
     "forks_count": 50
   },
   {
     "full_name": "Ramilito/kubesess",
     "stargazers_count": 119,
-    "open_issues_count": 6,
+    "open_issues_count": 8,
     "forks_count": 5
-  },
-  {
-    "full_name": "fcoury/oxide",
-    "stargazers_count": 228,
-    "open_issues_count": 11,
-    "forks_count": 7
-  },
-  {
-    "full_name": "surrealdb/surrealdb",
-    "stargazers_count": 13849,
-    "open_issues_count": 123,
-    "forks_count": 312
   }
 ]

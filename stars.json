@@ -1,14 +1,14 @@
 [
   {
     "full_name": "livecycle/preevy",
-    "stargazers_count": 1186,
-    "open_issues_count": 25,
-    "forks_count": 34
+    "stargazers_count": 1351,
+    "open_issues_count": 32,
+    "forks_count": 40
   },
   {
     "full_name": "wrmilling/k3s-gitops",
     "stargazers_count": 178,
-    "open_issues_count": 3,
+    "open_issues_count": 6,
     "forks_count": 9
   },
   {
@@ -19,19 +19,19 @@
   },
   {
     "full_name": "jetpack-io/tyson",
-    "stargazers_count": 416,
+    "stargazers_count": 430,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "stefanprodan/timoni",
-    "stargazers_count": 621,
-    "open_issues_count": 23,
+    "stargazers_count": 627,
+    "open_issues_count": 25,
     "forks_count": 29
   },
   {
     "full_name": "getlago/lago",
-    "stargazers_count": 4037,
+    "stargazers_count": 4047,
     "open_issues_count": 4,
     "forks_count": 141
   },
@@ -43,39 +43,39 @@
   },
   {
     "full_name": "windmill-labs/windmill",
-    "stargazers_count": 5422,
-    "open_issues_count": 42,
-    "forks_count": 167
+    "stargazers_count": 5514,
+    "open_issues_count": 43,
+    "forks_count": 170
   },
   {
     "full_name": "shayonj/pg_easy_replicate",
-    "stargazers_count": 708,
-    "open_issues_count": 2,
+    "stargazers_count": 710,
+    "open_issues_count": 3,
     "forks_count": 7
   },
   {
     "full_name": "unpoly/unpoly",
-    "stargazers_count": 1589,
+    "stargazers_count": 1592,
     "open_issues_count": 21,
     "forks_count": 64
   },
   {
     "full_name": "valyala/quicktemplate",
-    "stargazers_count": 2810,
+    "stargazers_count": 2817,
     "open_issues_count": 36,
     "forks_count": 148
   },
   {
     "full_name": "wmariuss/awesome-devops",
-    "stargazers_count": 1284,
-    "open_issues_count": 3,
-    "forks_count": 206
+    "stargazers_count": 1313,
+    "open_issues_count": 5,
+    "forks_count": 211
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 1277,
-    "open_issues_count": 72,
-    "forks_count": 87
+    "stargazers_count": 1285,
+    "open_issues_count": 63,
+    "forks_count": 89
   },
   {
     "full_name": "DaPutzy/intellij-sops-plugin",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "nerdswords/yet-another-cloudwatch-exporter",
-    "stargazers_count": 730,
-    "open_issues_count": 167,
-    "forks_count": 277
+    "stargazers_count": 734,
+    "open_issues_count": 169,
+    "forks_count": 278
   },
   {
     "full_name": "container-registry/helm-charts-oci-proxy",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 9764,
-    "open_issues_count": 105,
-    "forks_count": 358
+    "stargazers_count": 9771,
+    "open_issues_count": 104,
+    "forks_count": 361
   },
   {
     "full_name": "exoscale/python-exoscale",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -115,20 +115,20 @@
   },
   {
     "full_name": "frain-dev/convoy",
-    "stargazers_count": 1990,
-    "open_issues_count": 59,
-    "forks_count": 100
+    "stargazers_count": 2003,
+    "open_issues_count": 56,
+    "forks_count": 103
   },
   {
     "full_name": "loggie-io/loggie",
-    "stargazers_count": 1027,
+    "stargazers_count": 1030,
     "open_issues_count": 111,
-    "forks_count": 129
+    "forks_count": 130
   },
   {
     "full_name": "enix/kube-image-keeper",
-    "stargazers_count": 230,
-    "open_issues_count": 13,
+    "stargazers_count": 232,
+    "open_issues_count": 18,
     "forks_count": 10
   },
   {
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "fluxcd/flux2-kustomize-helm-example",
-    "stargazers_count": 700,
+    "stargazers_count": 704,
     "open_issues_count": 12,
-    "forks_count": 862
+    "forks_count": 863
   },
   {
     "full_name": "homeport/dyff",
-    "stargazers_count": 956,
+    "stargazers_count": 959,
     "open_issues_count": 30,
     "forks_count": 46
   },
   {
     "full_name": "pycob/pyvibe",
-    "stargazers_count": 529,
+    "stargazers_count": 530,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "grafana/agent",
-    "stargazers_count": 1203,
-    "open_issues_count": 393,
-    "forks_count": 371
+    "stargazers_count": 1209,
+    "open_issues_count": 409,
+    "forks_count": 375
   },
   {
     "full_name": "kubero-dev/kubero",
-    "stargazers_count": 1149,
-    "open_issues_count": 7,
-    "forks_count": 41
+    "stargazers_count": 1167,
+    "open_issues_count": 8,
+    "forks_count": 42
   },
   {
     "full_name": "mui/mui-toolpad",
-    "stargazers_count": 468,
-    "open_issues_count": 222,
-    "forks_count": 80
+    "stargazers_count": 478,
+    "open_issues_count": 224,
+    "forks_count": 83
   },
   {
     "full_name": "streamlit/streamlit",
-    "stargazers_count": 26340,
-    "open_issues_count": 664,
-    "forks_count": 2319
+    "stargazers_count": 26405,
+    "open_issues_count": 669,
+    "forks_count": 2326
   }
 ]

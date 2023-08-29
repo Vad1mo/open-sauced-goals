@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "container-registry/container-vending-machine",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "kubernetes-sigs/kwok",
+    "stargazers_count": 1851,
+    "open_issues_count": 47,
+    "forks_count": 137
+  },
+  {
     "full_name": "mosparo/mosparo",
-    "stargazers_count": 71,
+    "stargazers_count": 73,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "antonmedv/walk",
-    "stargazers_count": 2118,
-    "open_issues_count": 4,
-    "forks_count": 66
+    "stargazers_count": 2369,
+    "open_issues_count": 8,
+    "forks_count": 74
   },
   {
     "full_name": "NCCloud/harbor-vulnerabilities-exporter",
@@ -19,8 +31,8 @@
   },
   {
     "full_name": "zknill/sqledge",
-    "stargazers_count": 816,
-    "open_issues_count": 7,
+    "stargazers_count": 821,
+    "open_issues_count": 8,
     "forks_count": 11
   },
   {
@@ -31,14 +43,14 @@
   },
   {
     "full_name": "livecycle/preevy",
-    "stargazers_count": 1610,
-    "open_issues_count": 25,
-    "forks_count": 50
+    "stargazers_count": 1626,
+    "open_issues_count": 22,
+    "forks_count": 51
   },
   {
     "full_name": "wrmilling/k3s-gitops",
-    "stargazers_count": 176,
-    "open_issues_count": 12,
+    "stargazers_count": 177,
+    "open_issues_count": 11,
     "forks_count": 8
   },
   {
@@ -55,56 +67,56 @@
   },
   {
     "full_name": "stefanprodan/timoni",
-    "stargazers_count": 688,
-    "open_issues_count": 30,
+    "stargazers_count": 690,
+    "open_issues_count": 29,
     "forks_count": 34
   },
   {
     "full_name": "getlago/lago",
-    "stargazers_count": 4099,
+    "stargazers_count": 4120,
     "open_issues_count": 6,
     "forks_count": 143
   },
   {
     "full_name": "EnterpriseDB/barman",
-    "stargazers_count": 1618,
+    "stargazers_count": 1622,
     "open_issues_count": 126,
     "forks_count": 173
   },
   {
     "full_name": "windmill-labs/windmill",
-    "stargazers_count": 5734,
-    "open_issues_count": 75,
-    "forks_count": 179
+    "stargazers_count": 5772,
+    "open_issues_count": 76,
+    "forks_count": 181
   },
   {
     "full_name": "shayonj/pg_easy_replicate",
-    "stargazers_count": 717,
+    "stargazers_count": 718,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "unpoly/unpoly",
-    "stargazers_count": 1627,
-    "open_issues_count": 22,
+    "stargazers_count": 1651,
+    "open_issues_count": 21,
     "forks_count": 64
   },
   {
     "full_name": "valyala/quicktemplate",
-    "stargazers_count": 2837,
+    "stargazers_count": 2844,
     "open_issues_count": 37,
     "forks_count": 148
   },
   {
     "full_name": "wmariuss/awesome-devops",
-    "stargazers_count": 1347,
-    "open_issues_count": 5,
-    "forks_count": 212
+    "stargazers_count": 1355,
+    "open_issues_count": 6,
+    "forks_count": 213
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 1394,
-    "open_issues_count": 73,
+    "stargazers_count": 1414,
+    "open_issues_count": 74,
     "forks_count": 93
   },
   {
@@ -116,18 +128,18 @@
   {
     "full_name": "nerdswords/yet-another-cloudwatch-exporter",
     "stargazers_count": 742,
-    "open_issues_count": 171,
+    "open_issues_count": 172,
     "forks_count": 281
   },
   {
     "full_name": "container-registry/helm-charts-oci-proxy",
     "stargazers_count": 14,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 9867,
+    "stargazers_count": 9881,
     "open_issues_count": 104,
     "forks_count": 365
   },
@@ -145,20 +157,20 @@
   },
   {
     "full_name": "frain-dev/convoy",
-    "stargazers_count": 2087,
-    "open_issues_count": 60,
+    "stargazers_count": 2096,
+    "open_issues_count": 61,
     "forks_count": 105
   },
   {
     "full_name": "loggie-io/loggie",
-    "stargazers_count": 1046,
-    "open_issues_count": 110,
+    "stargazers_count": 1048,
+    "open_issues_count": 115,
     "forks_count": 133
   },
   {
     "full_name": "enix/kube-image-keeper",
-    "stargazers_count": 241,
-    "open_issues_count": 20,
+    "stargazers_count": 242,
+    "open_issues_count": 22,
     "forks_count": 11
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 4,
     "forks_count": 5
-  },
-  {
-    "full_name": "fluxcd/flux2-kustomize-helm-example",
-    "stargazers_count": 714,
-    "open_issues_count": 13,
-    "forks_count": 875
-  },
-  {
-    "full_name": "homeport/dyff",
-    "stargazers_count": 976,
-    "open_issues_count": 30,
-    "forks_count": 47
   }
 ]

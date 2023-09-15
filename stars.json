@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "Permify/permify",
+    "stargazers_count": 1627,
+    "open_issues_count": 40,
+    "forks_count": 56
+  },
+  {
+    "full_name": "warrant-dev/warrant",
+    "stargazers_count": 657,
+    "open_issues_count": 23,
+    "forks_count": 15
+  },
+  {
+    "full_name": "mikespook/gorbac",
+    "stargazers_count": 1491,
+    "open_issues_count": 4,
+    "forks_count": 198
+  },
+  {
     "full_name": "zix99/rare",
     "stargazers_count": 233,
     "open_issues_count": 1,
@@ -7,9 +25,9 @@
   },
   {
     "full_name": "babarot/enhancd",
-    "stargazers_count": 2395,
-    "open_issues_count": 12,
-    "forks_count": 110
+    "stargazers_count": 2394,
+    "open_issues_count": 13,
+    "forks_count": 111
   },
   {
     "full_name": "goharbor/chartmuseum-migration-tools",
@@ -25,19 +43,19 @@
   },
   {
     "full_name": "kubernetes-sigs/kwok",
-    "stargazers_count": 1883,
-    "open_issues_count": 47,
-    "forks_count": 139
+    "stargazers_count": 1891,
+    "open_issues_count": 48,
+    "forks_count": 140
   },
   {
     "full_name": "mosparo/mosparo",
-    "stargazers_count": 86,
+    "stargazers_count": 87,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "antonmedv/walk",
-    "stargazers_count": 2500,
+    "stargazers_count": 2515,
     "open_issues_count": 7,
     "forks_count": 79
   },
@@ -49,7 +67,7 @@
   },
   {
     "full_name": "zknill/sqledge",
-    "stargazers_count": 902,
+    "stargazers_count": 913,
     "open_issues_count": 8,
     "forks_count": 13
   },
@@ -61,14 +79,14 @@
   },
   {
     "full_name": "livecycle/preevy",
-    "stargazers_count": 1651,
-    "open_issues_count": 25,
+    "stargazers_count": 1661,
+    "open_issues_count": 24,
     "forks_count": 52
   },
   {
     "full_name": "wrmilling/k3s-gitops",
-    "stargazers_count": 178,
-    "open_issues_count": 19,
+    "stargazers_count": 179,
+    "open_issues_count": 3,
     "forks_count": 8
   },
   {
@@ -79,33 +97,33 @@
   },
   {
     "full_name": "jetpack-io/tyson",
-    "stargazers_count": 485,
+    "stargazers_count": 486,
     "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "stefanprodan/timoni",
-    "stargazers_count": 718,
+    "stargazers_count": 724,
     "open_issues_count": 25,
     "forks_count": 34
   },
   {
     "full_name": "getlago/lago",
-    "stargazers_count": 4195,
+    "stargazers_count": 4201,
     "open_issues_count": 7,
-    "forks_count": 148
+    "forks_count": 149
   },
   {
     "full_name": "EnterpriseDB/barman",
-    "stargazers_count": 1635,
-    "open_issues_count": 126,
+    "stargazers_count": 1638,
+    "open_issues_count": 128,
     "forks_count": 174
   },
   {
     "full_name": "windmill-labs/windmill",
-    "stargazers_count": 5842,
+    "stargazers_count": 5861,
     "open_issues_count": 83,
-    "forks_count": 184
+    "forks_count": 183
   },
   {
     "full_name": "shayonj/pg_easy_replicate",
@@ -116,25 +134,25 @@
   {
     "full_name": "unpoly/unpoly",
     "stargazers_count": 1675,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 65
   },
   {
     "full_name": "valyala/quicktemplate",
-    "stargazers_count": 2854,
+    "stargazers_count": 2859,
     "open_issues_count": 37,
     "forks_count": 148
   },
   {
     "full_name": "wmariuss/awesome-devops",
-    "stargazers_count": 1370,
+    "stargazers_count": 1374,
     "open_issues_count": 9,
-    "forks_count": 216
+    "forks_count": 217
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 1450,
-    "open_issues_count": 75,
+    "stargazers_count": 1461,
+    "open_issues_count": 74,
     "forks_count": 97
   },
   {
@@ -145,8 +163,8 @@
   },
   {
     "full_name": "nerdswords/yet-another-cloudwatch-exporter",
-    "stargazers_count": 754,
-    "open_issues_count": 173,
+    "stargazers_count": 759,
+    "open_issues_count": 174,
     "forks_count": 284
   },
   {
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 10006,
-    "open_issues_count": 104,
+    "stargazers_count": 10026,
+    "open_issues_count": 103,
     "forks_count": 370
-  },
-  {
-    "full_name": "exoscale/python-exoscale",
-    "stargazers_count": 10,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "goharbor/community",
-    "stargazers_count": 69,
-    "open_issues_count": 30,
-    "forks_count": 72
-  },
-  {
-    "full_name": "frain-dev/convoy",
-    "stargazers_count": 2110,
-    "open_issues_count": 61,
-    "forks_count": 104
   }
 ]

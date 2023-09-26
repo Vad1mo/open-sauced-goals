@@ -1,33 +1,45 @@
 [
   {
+    "full_name": "electric-sql/electric",
+    "stargazers_count": 2328,
+    "open_issues_count": 29,
+    "forks_count": 40
+  },
+  {
+    "full_name": "acaloiaro/neoq",
+    "stargazers_count": 115,
+    "open_issues_count": 4,
+    "forks_count": 1
+  },
+  {
     "full_name": "grafana/k8s-monitoring-helm",
-    "stargazers_count": 27,
-    "open_issues_count": 25,
+    "stargazers_count": 28,
+    "open_issues_count": 26,
     "forks_count": 11
   },
   {
     "full_name": "container-registry/backstage-plugin-harbor",
     "stargazers_count": 9,
-    "open_issues_count": 12,
-    "forks_count": 17
+    "open_issues_count": 10,
+    "forks_count": 16
   },
   {
     "full_name": "Permify/permify",
-    "stargazers_count": 1633,
-    "open_issues_count": 61,
+    "stargazers_count": 1646,
+    "open_issues_count": 59,
     "forks_count": 56
   },
   {
     "full_name": "warrant-dev/warrant",
-    "stargazers_count": 663,
-    "open_issues_count": 26,
+    "stargazers_count": 667,
+    "open_issues_count": 25,
     "forks_count": 15
   },
   {
     "full_name": "mikespook/gorbac",
-    "stargazers_count": 1494,
+    "stargazers_count": 1495,
     "open_issues_count": 4,
-    "forks_count": 203
+    "forks_count": 204
   },
   {
     "full_name": "zix99/rare",
@@ -37,7 +49,7 @@
   },
   {
     "full_name": "babarot/enhancd",
-    "stargazers_count": 2399,
+    "stargazers_count": 2398,
     "open_issues_count": 13,
     "forks_count": 111
   },
@@ -55,7 +67,7 @@
   },
   {
     "full_name": "kubernetes-sigs/kwok",
-    "stargazers_count": 1899,
+    "stargazers_count": 1905,
     "open_issues_count": 52,
     "forks_count": 142
   },
@@ -67,7 +79,7 @@
   },
   {
     "full_name": "antonmedv/walk",
-    "stargazers_count": 2554,
+    "stargazers_count": 2574,
     "open_issues_count": 6,
     "forks_count": 80
   },
@@ -79,7 +91,7 @@
   },
   {
     "full_name": "zknill/sqledge",
-    "stargazers_count": 918,
+    "stargazers_count": 921,
     "open_issues_count": 8,
     "forks_count": 13
   },
@@ -87,18 +99,18 @@
     "full_name": "digitalis-io/vals-operator",
     "stargazers_count": 104,
     "open_issues_count": 3,
-    "forks_count": 5
+    "forks_count": 4
   },
   {
     "full_name": "livecycle/preevy",
-    "stargazers_count": 1676,
+    "stargazers_count": 1721,
     "open_issues_count": 28,
-    "forks_count": 52
+    "forks_count": 54
   },
   {
     "full_name": "wrmilling/k3s-gitops",
     "stargazers_count": 178,
-    "open_issues_count": 8,
+    "open_issues_count": 11,
     "forks_count": 8
   },
   {
@@ -109,74 +121,62 @@
   },
   {
     "full_name": "jetpack-io/tyson",
-    "stargazers_count": 491,
+    "stargazers_count": 490,
     "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "stefanprodan/timoni",
-    "stargazers_count": 733,
-    "open_issues_count": 25,
+    "stargazers_count": 736,
+    "open_issues_count": 21,
     "forks_count": 34
   },
   {
     "full_name": "getlago/lago",
-    "stargazers_count": 4251,
-    "open_issues_count": 7,
-    "forks_count": 153
+    "stargazers_count": 4259,
+    "open_issues_count": 5,
+    "forks_count": 155
   },
   {
     "full_name": "EnterpriseDB/barman",
-    "stargazers_count": 1640,
-    "open_issues_count": 130,
+    "stargazers_count": 1641,
+    "open_issues_count": 126,
     "forks_count": 175
   },
   {
     "full_name": "windmill-labs/windmill",
-    "stargazers_count": 5901,
-    "open_issues_count": 87,
-    "forks_count": 184
+    "stargazers_count": 5930,
+    "open_issues_count": 93,
+    "forks_count": 185
   },
   {
     "full_name": "shayonj/pg_easy_replicate",
-    "stargazers_count": 726,
-    "open_issues_count": 7,
+    "stargazers_count": 727,
+    "open_issues_count": 8,
     "forks_count": 7
   },
   {
     "full_name": "unpoly/unpoly",
-    "stargazers_count": 1682,
-    "open_issues_count": 21,
+    "stargazers_count": 1684,
+    "open_issues_count": 25,
     "forks_count": 65
   },
   {
     "full_name": "valyala/quicktemplate",
-    "stargazers_count": 2863,
+    "stargazers_count": 2866,
     "open_issues_count": 37,
     "forks_count": 149
   },
   {
     "full_name": "wmariuss/awesome-devops",
-    "stargazers_count": 1385,
-    "open_issues_count": 10,
+    "stargazers_count": 1388,
+    "open_issues_count": 4,
     "forks_count": 221
   },
   {
     "full_name": "openfga/openfga",
-    "stargazers_count": 1482,
-    "open_issues_count": 77,
+    "stargazers_count": 1490,
+    "open_issues_count": 80,
     "forks_count": 98
-  },
-  {
-    "full_name": "DaPutzy/intellij-sops-plugin",
-    "stargazers_count": 6,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "nerdswords/yet-another-cloudwatch-exporter",
-    "stargazers_count": 763,
-    "open_issues_count": 183,
-    "forks_count": 285
   }
 ]

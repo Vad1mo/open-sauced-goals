@@ -1,57 +1,57 @@
 [
   {
     "full_name": "omnigres/omnigres",
-    "stargazers_count": 757,
-    "open_issues_count": 37,
-    "forks_count": 21
+    "stargazers_count": 834,
+    "open_issues_count": 36,
+    "forks_count": 22
   },
   {
     "full_name": "Vonng/pigsty",
-    "stargazers_count": 1713,
-    "open_issues_count": 17,
+    "stargazers_count": 1722,
+    "open_issues_count": 16,
     "forks_count": 176
   },
   {
     "full_name": "openpubkey/openpubkey",
-    "stargazers_count": 333,
-    "open_issues_count": 12,
-    "forks_count": 19
+    "stargazers_count": 341,
+    "open_issues_count": 10,
+    "forks_count": 20
   },
   {
     "full_name": "airtai/faststream",
-    "stargazers_count": 1044,
-    "open_issues_count": 41,
-    "forks_count": 31
+    "stargazers_count": 1063,
+    "open_issues_count": 39,
+    "forks_count": 33
   },
   {
     "full_name": "litestar-org/litestar",
-    "stargazers_count": 3168,
-    "open_issues_count": 77,
-    "forks_count": 262
+    "stargazers_count": 3195,
+    "open_issues_count": 83,
+    "forks_count": 264
   },
   {
     "full_name": "project-copacetic/copacetic",
-    "stargazers_count": 512,
+    "stargazers_count": 525,
     "open_issues_count": 32,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "electric-sql/electric",
-    "stargazers_count": 2794,
-    "open_issues_count": 41,
+    "stargazers_count": 2809,
+    "open_issues_count": 45,
     "forks_count": 51
   },
   {
     "full_name": "acaloiaro/neoq",
-    "stargazers_count": 172,
-    "open_issues_count": 11,
+    "stargazers_count": 174,
+    "open_issues_count": 10,
     "forks_count": 2
   },
   {
     "full_name": "grafana/k8s-monitoring-helm",
-    "stargazers_count": 34,
-    "open_issues_count": 27,
-    "forks_count": 13
+    "stargazers_count": 36,
+    "open_issues_count": 26,
+    "forks_count": 14
   },
   {
     "full_name": "container-registry/backstage-plugin-harbor",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "Permify/permify",
-    "stargazers_count": 1702,
-    "open_issues_count": 59,
-    "forks_count": 59
+    "stargazers_count": 1709,
+    "open_issues_count": 58,
+    "forks_count": 60
   },
   {
     "full_name": "warrant-dev/warrant",
-    "stargazers_count": 686,
+    "stargazers_count": 687,
     "open_issues_count": 18,
     "forks_count": 17
   },
   {
     "full_name": "mikespook/gorbac",
-    "stargazers_count": 1504,
+    "stargazers_count": 1505,
     "open_issues_count": 4,
-    "forks_count": 216
+    "forks_count": 220
   },
   {
     "full_name": "zix99/rare",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "kubernetes-sigs/kwok",
-    "stargazers_count": 1950,
-    "open_issues_count": 52,
+    "stargazers_count": 1958,
+    "open_issues_count": 53,
     "forks_count": 149
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "antonmedv/walk",
-    "stargazers_count": 2612,
+    "stargazers_count": 2616,
     "open_issues_count": 6,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "NCCloud/harbor-vulnerabilities-exporter",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "zknill/sqledge",
-    "stargazers_count": 936,
+    "stargazers_count": 935,
     "open_issues_count": 8,
     "forks_count": 13
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "livecycle/preevy",
-    "stargazers_count": 1760,
-    "open_issues_count": 30,
-    "forks_count": 56
+    "stargazers_count": 1774,
+    "open_issues_count": 23,
+    "forks_count": 58
   },
   {
     "full_name": "wrmilling/k3s-gitops",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "stefanprodan/timoni",
-    "stargazers_count": 816,
+    "stargazers_count": 818,
     "open_issues_count": 19,
     "forks_count": 37
   },
   {
     "full_name": "getlago/lago",
-    "stargazers_count": 4591,
-    "open_issues_count": 4,
+    "stargazers_count": 4599,
+    "open_issues_count": 3,
     "forks_count": 166
   },
   {
     "full_name": "EnterpriseDB/barman",
-    "stargazers_count": 1675,
+    "stargazers_count": 1677,
     "open_issues_count": 123,
     "forks_count": 175
   }

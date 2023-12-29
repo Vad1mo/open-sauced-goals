@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "st8ed/aws-cost-exporter",
+    "stargazers_count": 22,
+    "open_issues_count": 2,
+    "forks_count": 13
+  },
+  {
     "full_name": "apecloud/kubeblocks",
-    "stargazers_count": 1331,
-    "open_issues_count": 372,
-    "forks_count": 91
+    "stargazers_count": 1359,
+    "open_issues_count": 383,
+    "forks_count": 94
   },
   {
     "full_name": "octohelm/harbor",
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "regclient/regclient",
-    "stargazers_count": 926,
+    "stargazers_count": 930,
     "open_issues_count": 21,
     "forks_count": 82
   },
@@ -25,79 +31,79 @@
   },
   {
     "full_name": "permitio/opal",
-    "stargazers_count": 1940,
-    "open_issues_count": 45,
+    "stargazers_count": 1948,
+    "open_issues_count": 46,
     "forks_count": 123
   },
   {
     "full_name": "uber-go/automaxprocs",
-    "stargazers_count": 3551,
+    "stargazers_count": 3559,
     "open_issues_count": 16,
-    "forks_count": 139
+    "forks_count": 141
   },
   {
     "full_name": "devcontainers/cli",
-    "stargazers_count": 1038,
+    "stargazers_count": 1041,
     "open_issues_count": 160,
-    "forks_count": 164
+    "forks_count": 165
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 2306,
-    "open_issues_count": 80,
+    "stargazers_count": 2314,
+    "open_issues_count": 81,
     "forks_count": 174
   },
   {
     "full_name": "scalar/scalar",
-    "stargazers_count": 1915,
-    "open_issues_count": 33,
-    "forks_count": 31
+    "stargazers_count": 1957,
+    "open_issues_count": 32,
+    "forks_count": 30
   },
   {
     "full_name": "headlamp-k8s/headlamp",
-    "stargazers_count": 1321,
-    "open_issues_count": 228,
+    "stargazers_count": 1333,
+    "open_issues_count": 226,
     "forks_count": 93
   },
   {
     "full_name": "tachyons-css/tachyons",
-    "stargazers_count": 11518,
+    "stargazers_count": 11520,
     "open_issues_count": 88,
-    "forks_count": 686
+    "forks_count": 687
   },
   {
     "full_name": "Opus10/django-pgpubsub",
-    "stargazers_count": 207,
+    "stargazers_count": 208,
     "open_issues_count": 10,
     "forks_count": 8
   },
   {
     "full_name": "django-q2/django-q2",
-    "stargazers_count": 193,
-    "open_issues_count": 23,
+    "stargazers_count": 195,
+    "open_issues_count": 24,
     "forks_count": 19
   },
   {
     "full_name": "xeol-io/xeol",
-    "stargazers_count": 278,
-    "open_issues_count": 11,
-    "forks_count": 13
+    "stargazers_count": 279,
+    "open_issues_count": 13,
+    "forks_count": 14
   },
   {
     "full_name": "rpardini/docker-registry-proxy",
-    "stargazers_count": 801,
+    "stargazers_count": 802,
     "open_issues_count": 49,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "metalbear-co/mirrord",
-    "stargazers_count": 3132,
-    "open_issues_count": 151,
+    "stargazers_count": 3133,
+    "open_issues_count": 143,
     "forks_count": 90
   },
   {
     "full_name": "AndrewWalsh/openapi-devtools",
-    "stargazers_count": 3582,
+    "stargazers_count": 3586,
     "open_issues_count": 1,
     "forks_count": 57
   },
@@ -109,56 +115,56 @@
   },
   {
     "full_name": "omnigres/omnigres",
-    "stargazers_count": 1036,
-    "open_issues_count": 55,
+    "stargazers_count": 1037,
+    "open_issues_count": 51,
     "forks_count": 42
   },
   {
     "full_name": "Vonng/pigsty",
-    "stargazers_count": 2201,
-    "open_issues_count": 20,
-    "forks_count": 203
+    "stargazers_count": 2211,
+    "open_issues_count": 21,
+    "forks_count": 204
   },
   {
     "full_name": "openpubkey/openpubkey",
-    "stargazers_count": 398,
+    "stargazers_count": 403,
     "open_issues_count": 22,
     "forks_count": 25
   },
   {
     "full_name": "airtai/faststream",
-    "stargazers_count": 1362,
-    "open_issues_count": 38,
+    "stargazers_count": 1374,
+    "open_issues_count": 34,
     "forks_count": 50
   },
   {
     "full_name": "litestar-org/litestar",
-    "stargazers_count": 3714,
-    "open_issues_count": 119,
-    "forks_count": 290
+    "stargazers_count": 3727,
+    "open_issues_count": 120,
+    "forks_count": 291
   },
   {
     "full_name": "project-copacetic/copacetic",
-    "stargazers_count": 649,
+    "stargazers_count": 655,
     "open_issues_count": 47,
     "forks_count": 39
   },
   {
     "full_name": "electric-sql/electric",
-    "stargazers_count": 3585,
-    "open_issues_count": 48,
-    "forks_count": 71
+    "stargazers_count": 3597,
+    "open_issues_count": 50,
+    "forks_count": 73
   },
   {
     "full_name": "acaloiaro/neoq",
-    "stargazers_count": 205,
+    "stargazers_count": 206,
     "open_issues_count": 13,
     "forks_count": 3
   },
   {
     "full_name": "grafana/k8s-monitoring-helm",
     "stargazers_count": 50,
-    "open_issues_count": 37,
+    "open_issues_count": 38,
     "forks_count": 24
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "Permify/permify",
-    "stargazers_count": 2114,
-    "open_issues_count": 61,
+    "stargazers_count": 2122,
+    "open_issues_count": 55,
     "forks_count": 93
-  },
-  {
-    "full_name": "warrant-dev/warrant",
-    "stargazers_count": 919,
-    "open_issues_count": 18,
-    "forks_count": 22
   }
 ]

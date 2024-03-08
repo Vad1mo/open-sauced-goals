@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "daytonaio/daytona",
+    "stargazers_count": 2057,
+    "open_issues_count": 29,
+    "forks_count": 37
+  },
+  {
     "full_name": "xiaods/k8e",
-    "stargazers_count": 344,
+    "stargazers_count": 346,
     "open_issues_count": 2,
     "forks_count": 25
   },
   {
     "full_name": "hyperdiv/hyperdiv",
-    "stargazers_count": 590,
-    "open_issues_count": 10,
-    "forks_count": 7
+    "stargazers_count": 604,
+    "open_issues_count": 12,
+    "forks_count": 8
   },
   {
     "full_name": "readysettech/readyset",
-    "stargazers_count": 3729,
-    "open_issues_count": 325,
+    "stargazers_count": 3742,
+    "open_issues_count": 324,
     "forks_count": 100
   },
   {
@@ -31,26 +37,26 @@
   },
   {
     "full_name": "keygen-sh/keygen-api",
-    "stargazers_count": 477,
-    "open_issues_count": 174,
+    "stargazers_count": 484,
+    "open_issues_count": 176,
     "forks_count": 26
   },
   {
     "full_name": "sqitchers/sqitch",
-    "stargazers_count": 2674,
+    "stargazers_count": 2676,
     "open_issues_count": 73,
-    "forks_count": 213
+    "forks_count": 209
   },
   {
     "full_name": "libp2p/libp2p",
-    "stargazers_count": 2487,
+    "stargazers_count": 2491,
     "open_issues_count": 39,
     "forks_count": 241
   },
   {
     "full_name": "XenitAB/spegel",
-    "stargazers_count": 677,
-    "open_issues_count": 45,
+    "stargazers_count": 688,
+    "open_issues_count": 46,
     "forks_count": 29
   },
   {
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "wxt-dev/wxt",
-    "stargazers_count": 2059,
-    "open_issues_count": 25,
-    "forks_count": 50
+    "stargazers_count": 2205,
+    "open_issues_count": 26,
+    "forks_count": 54
   },
   {
     "full_name": "goharbor/harbor-cli",
     "stargazers_count": 10,
     "open_issues_count": 17,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "amands98/harbor-cli",
@@ -79,33 +85,33 @@
   },
   {
     "full_name": "nalgeon/sqlean",
-    "stargazers_count": 3280,
+    "stargazers_count": 3288,
     "open_issues_count": 0,
     "forks_count": 102
   },
   {
     "full_name": "ThreeDotsLabs/watermill",
-    "stargazers_count": 6606,
+    "stargazers_count": 6611,
     "open_issues_count": 99,
-    "forks_count": 345
+    "forks_count": 347
   },
   {
     "full_name": "twisted/twisted",
-    "stargazers_count": 5370,
-    "open_issues_count": 2781,
-    "forks_count": 1129
+    "stargazers_count": 5374,
+    "open_issues_count": 2783,
+    "forks_count": 1130
   },
   {
     "full_name": "ergo-services/ergo",
-    "stargazers_count": 2632,
+    "stargazers_count": 2633,
     "open_issues_count": 8,
     "forks_count": 127
   },
   {
     "full_name": "containerd/runwasi",
-    "stargazers_count": 925,
+    "stargazers_count": 927,
     "open_issues_count": 45,
-    "forks_count": 71
+    "forks_count": 72
   },
   {
     "full_name": "vbalasu/pg-notify-webhook",
@@ -115,37 +121,37 @@
   },
   {
     "full_name": "timeplus-io/proton",
-    "stargazers_count": 1169,
-    "open_issues_count": 117,
-    "forks_count": 36
+    "stargazers_count": 1208,
+    "open_issues_count": 121,
+    "forks_count": 37
   },
   {
     "full_name": "traefik/yaegi",
-    "stargazers_count": 6443,
-    "open_issues_count": 126,
+    "stargazers_count": 6458,
+    "open_issues_count": 125,
     "forks_count": 325
   },
   {
     "full_name": "tembo-io/pgmq",
-    "stargazers_count": 702,
+    "stargazers_count": 716,
     "open_issues_count": 14,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "imqueue/pg-pubsub",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "microsoft/typespec",
-    "stargazers_count": 2100,
-    "open_issues_count": 393,
-    "forks_count": 121
+    "stargazers_count": 2113,
+    "open_issues_count": 401,
+    "forks_count": 123
   },
   {
     "full_name": "YS-L/csvlens",
-    "stargazers_count": 2002,
+    "stargazers_count": 2009,
     "open_issues_count": 20,
     "forks_count": 33
   },
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "nestybox/sysbox",
-    "stargazers_count": 2437,
-    "open_issues_count": 129,
+    "stargazers_count": 2444,
+    "open_issues_count": 128,
     "forks_count": 142
   },
   {
     "full_name": "heyman/heynote",
-    "stargazers_count": 3326,
-    "open_issues_count": 89,
-    "forks_count": 133
+    "stargazers_count": 3338,
+    "open_issues_count": 92,
+    "forks_count": 134
   },
   {
     "full_name": "st8ed/aws-cost-exporter",
     "stargazers_count": 24,
     "open_issues_count": 2,
     "forks_count": 14
-  },
-  {
-    "full_name": "apecloud/kubeblocks",
-    "stargazers_count": 1524,
-    "open_issues_count": 402,
-    "forks_count": 112
   }
 ]

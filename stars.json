@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "vincentgna/cdk8s-ssm-resolver",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "elevationtools/anyform",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,56 +13,56 @@
   },
   {
     "full_name": "fergusstrange/embedded-postgres",
-    "stargazers_count": 744,
+    "stargazers_count": 745,
     "open_issues_count": 7,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "ankane/pgsync",
-    "stargazers_count": 2965,
+    "stargazers_count": 2967,
     "open_issues_count": 14,
     "forks_count": 188
   },
   {
     "full_name": "alash3al/redix",
-    "stargazers_count": 1203,
+    "stargazers_count": 1204,
     "open_issues_count": 7,
     "forks_count": 76
   },
   {
     "full_name": "prest/prest",
-    "stargazers_count": 4087,
+    "stargazers_count": 4094,
     "open_issues_count": 131,
     "forks_count": 275
   },
   {
     "full_name": "jackc/pglogrepl",
-    "stargazers_count": 276,
+    "stargazers_count": 277,
     "open_issues_count": 11,
     "forks_count": 55
   },
   {
     "full_name": "uselagoon/lagoon",
-    "stargazers_count": 538,
-    "open_issues_count": 193,
+    "stargazers_count": 539,
+    "open_issues_count": 194,
     "forks_count": 146
   },
   {
     "full_name": "amalshaji/portr",
-    "stargazers_count": 1877,
-    "open_issues_count": 5,
-    "forks_count": 55
+    "stargazers_count": 1934,
+    "open_issues_count": 6,
+    "forks_count": 56
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 684,
+    "stargazers_count": 687,
     "open_issues_count": 16,
     "forks_count": 33
   },
   {
     "full_name": "k0sproject/k0smotron",
-    "stargazers_count": 360,
-    "open_issues_count": 32,
+    "stargazers_count": 363,
+    "open_issues_count": 33,
     "forks_count": 32
   },
   {
@@ -67,57 +73,57 @@
   },
   {
     "full_name": "retracedhq/retraced",
-    "stargazers_count": 301,
+    "stargazers_count": 302,
     "open_issues_count": 11,
     "forks_count": 16
   },
   {
     "full_name": "rs/zerolog",
-    "stargazers_count": 9767,
-    "open_issues_count": 122,
+    "stargazers_count": 9790,
+    "open_issues_count": 121,
     "forks_count": 550
   },
   {
     "full_name": "teableio/teable",
-    "stargazers_count": 5208,
+    "stargazers_count": 5803,
     "open_issues_count": 26,
-    "forks_count": 214
+    "forks_count": 228
   },
   {
     "full_name": "pulumiverse/pulumi-exoscale",
     "stargazers_count": 5,
-    "open_issues_count": 5,
+    "open_issues_count": 8,
     "forks_count": 2
   },
   {
     "full_name": "johannesjo/super-productivity",
-    "stargazers_count": 8332,
+    "stargazers_count": 8348,
     "open_issues_count": 160,
     "forks_count": 726
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 5371,
-    "open_issues_count": 56,
-    "forks_count": 202
+    "stargazers_count": 5396,
+    "open_issues_count": 51,
+    "forks_count": 205
   },
   {
     "full_name": "xiaods/k8e",
-    "stargazers_count": 370,
+    "stargazers_count": 372,
     "open_issues_count": 2,
     "forks_count": 25
   },
   {
     "full_name": "hyperdiv/hyperdiv",
-    "stargazers_count": 738,
+    "stargazers_count": 740,
     "open_issues_count": 9,
     "forks_count": 14
   },
   {
     "full_name": "readysettech/readyset",
     "stargazers_count": 3882,
-    "open_issues_count": 416,
-    "forks_count": 106
+    "open_issues_count": 413,
+    "forks_count": 107
   },
   {
     "full_name": "mesosphere/mindthegap",
@@ -133,26 +139,26 @@
   },
   {
     "full_name": "keygen-sh/keygen-api",
-    "stargazers_count": 527,
+    "stargazers_count": 537,
     "open_issues_count": 176,
-    "forks_count": 31
+    "forks_count": 33
   },
   {
     "full_name": "sqitchers/sqitch",
-    "stargazers_count": 2703,
+    "stargazers_count": 2707,
     "open_issues_count": 78,
     "forks_count": 210
   },
   {
     "full_name": "libp2p/libp2p",
-    "stargazers_count": 2522,
+    "stargazers_count": 2526,
     "open_issues_count": 92,
-    "forks_count": 245
+    "forks_count": 244
   },
   {
     "full_name": "spegel-org/spegel",
-    "stargazers_count": 803,
-    "open_issues_count": 40,
+    "stargazers_count": 811,
+    "open_issues_count": 44,
     "forks_count": 35
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "wxt-dev/wxt",
-    "stargazers_count": 2719,
-    "open_issues_count": 34,
-    "forks_count": 81
+    "stargazers_count": 2743,
+    "open_issues_count": 36,
+    "forks_count": 82
   },
   {
     "full_name": "goharbor/harbor-cli",
     "stargazers_count": 14,
     "open_issues_count": 22,
     "forks_count": 14
-  },
-  {
-    "full_name": "amands98/harbor-cli",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]

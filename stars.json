@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "mendableai/firecrawl",
+    "stargazers_count": 4347,
+    "open_issues_count": 38,
+    "forks_count": 322
+  },
+  {
+    "full_name": "flipt-io/reverst",
+    "stargazers_count": 759,
+    "open_issues_count": 5,
+    "forks_count": 27
+  },
+  {
     "full_name": "container-registry/harbor-satellite",
     "stargazers_count": 5,
     "open_issues_count": 5,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 3187,
-    "open_issues_count": 18,
-    "forks_count": 77
+    "stargazers_count": 3257,
+    "open_issues_count": 19,
+    "forks_count": 78
   },
   {
     "full_name": "andydunstall/piko",
-    "stargazers_count": 1304,
-    "open_issues_count": 7,
-    "forks_count": 21
+    "stargazers_count": 1388,
+    "open_issues_count": 8,
+    "forks_count": 23
   },
   {
     "full_name": "vincentgna/cdk8s-ssm-resolver",
@@ -31,13 +43,13 @@
   },
   {
     "full_name": "fergusstrange/embedded-postgres",
-    "stargazers_count": 755,
+    "stargazers_count": 759,
     "open_issues_count": 4,
     "forks_count": 83
   },
   {
     "full_name": "ankane/pgsync",
-    "stargazers_count": 2995,
+    "stargazers_count": 2999,
     "open_issues_count": 13,
     "forks_count": 191
   },
@@ -49,38 +61,38 @@
   },
   {
     "full_name": "prest/prest",
-    "stargazers_count": 4110,
+    "stargazers_count": 4117,
     "open_issues_count": 132,
     "forks_count": 277
   },
   {
     "full_name": "jackc/pglogrepl",
-    "stargazers_count": 288,
+    "stargazers_count": 289,
     "open_issues_count": 12,
     "forks_count": 57
   },
   {
     "full_name": "uselagoon/lagoon",
     "stargazers_count": 544,
-    "open_issues_count": 197,
+    "open_issues_count": 198,
     "forks_count": 146
   },
   {
     "full_name": "amalshaji/portr",
-    "stargazers_count": 2051,
+    "stargazers_count": 2058,
     "open_issues_count": 7,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "pg-sharding/spqr",
     "stargazers_count": 705,
-    "open_issues_count": 18,
+    "open_issues_count": 14,
     "forks_count": 39
   },
   {
     "full_name": "k0sproject/k0smotron",
-    "stargazers_count": 368,
-    "open_issues_count": 37,
+    "stargazers_count": 369,
+    "open_issues_count": 34,
     "forks_count": 34
   },
   {
@@ -93,19 +105,19 @@
     "full_name": "retracedhq/retraced",
     "stargazers_count": 305,
     "open_issues_count": 12,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "rs/zerolog",
-    "stargazers_count": 9914,
-    "open_issues_count": 120,
+    "stargazers_count": 9926,
+    "open_issues_count": 119,
     "forks_count": 557
   },
   {
     "full_name": "teableio/teable",
-    "stargazers_count": 7236,
-    "open_issues_count": 34,
-    "forks_count": 286
+    "stargazers_count": 7273,
+    "open_issues_count": 38,
+    "forks_count": 289
   },
   {
     "full_name": "pulumiverse/pulumi-exoscale",
@@ -115,68 +127,56 @@
   },
   {
     "full_name": "johannesjo/super-productivity",
-    "stargazers_count": 8487,
+    "stargazers_count": 8505,
     "open_issues_count": 169,
-    "forks_count": 734
+    "forks_count": 735
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 5520,
-    "open_issues_count": 53,
+    "stargazers_count": 5530,
+    "open_issues_count": 59,
     "forks_count": 210
   },
   {
     "full_name": "xiaods/k8e",
-    "stargazers_count": 373,
+    "stargazers_count": 374,
     "open_issues_count": 3,
     "forks_count": 25
   },
   {
     "full_name": "hyperdiv/hyperdiv",
-    "stargazers_count": 756,
+    "stargazers_count": 759,
     "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "readysettech/readyset",
     "stargazers_count": 3896,
-    "open_issues_count": 420,
+    "open_issues_count": 423,
     "forks_count": 108
   },
   {
     "full_name": "mesosphere/mindthegap",
     "stargazers_count": 49,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "piontec/free-oci-kubernetes",
     "stargazers_count": 10,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "keygen-sh/keygen-api",
-    "stargazers_count": 654,
+    "stargazers_count": 660,
     "open_issues_count": 174,
     "forks_count": 35
   },
   {
     "full_name": "sqitchers/sqitch",
-    "stargazers_count": 2718,
+    "stargazers_count": 2719,
     "open_issues_count": 79,
     "forks_count": 212
-  },
-  {
-    "full_name": "libp2p/libp2p",
-    "stargazers_count": 2533,
-    "open_issues_count": 87,
-    "forks_count": 248
-  },
-  {
-    "full_name": "spegel-org/spegel",
-    "stargazers_count": 859,
-    "open_issues_count": 44,
-    "forks_count": 37
   }
 ]

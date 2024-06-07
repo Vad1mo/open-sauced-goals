@@ -1,15 +1,15 @@
 [
   {
     "full_name": "postfinance/kubenurse",
-    "stargazers_count": 386,
-    "open_issues_count": 1,
-    "forks_count": 37
+    "stargazers_count": 388,
+    "open_issues_count": 2,
+    "forks_count": 38
   },
   {
     "full_name": "oracle-devrel/oke-credential-provider-for-ocir",
     "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "JonTheNiceGuy/generic-credential-provider",
@@ -19,31 +19,31 @@
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 5541,
-    "open_issues_count": 46,
-    "forks_count": 387
+    "stargazers_count": 5874,
+    "open_issues_count": 30,
+    "forks_count": 406
   },
   {
     "full_name": "flipt-io/reverst",
-    "stargazers_count": 814,
+    "stargazers_count": 816,
     "open_issues_count": 4,
     "forks_count": 32
   },
   {
     "full_name": "container-registry/harbor-satellite",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 3339,
-    "open_issues_count": 26,
+    "stargazers_count": 3366,
+    "open_issues_count": 21,
     "forks_count": 78
   },
   {
     "full_name": "andydunstall/piko",
-    "stargazers_count": 1597,
+    "stargazers_count": 1614,
     "open_issues_count": 6,
     "forks_count": 29
   },
@@ -61,26 +61,26 @@
   },
   {
     "full_name": "fergusstrange/embedded-postgres",
-    "stargazers_count": 764,
+    "stargazers_count": 765,
     "open_issues_count": 4,
     "forks_count": 84
   },
   {
     "full_name": "ankane/pgsync",
-    "stargazers_count": 3010,
+    "stargazers_count": 3011,
     "open_issues_count": 13,
     "forks_count": 191
   },
   {
     "full_name": "alash3al/redix",
-    "stargazers_count": 1207,
+    "stargazers_count": 1208,
     "open_issues_count": 7,
     "forks_count": 76
   },
   {
     "full_name": "prest/prest",
     "stargazers_count": 4129,
-    "open_issues_count": 132,
+    "open_issues_count": 133,
     "forks_count": 279
   },
   {
@@ -97,20 +97,20 @@
   },
   {
     "full_name": "amalshaji/portr",
-    "stargazers_count": 2064,
+    "stargazers_count": 2066,
     "open_issues_count": 5,
-    "forks_count": 59
+    "forks_count": 57
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 705,
-    "open_issues_count": 10,
-    "forks_count": 39
+    "stargazers_count": 707,
+    "open_issues_count": 12,
+    "forks_count": 40
   },
   {
     "full_name": "k0sproject/k0smotron",
-    "stargazers_count": 373,
-    "open_issues_count": 38,
+    "stargazers_count": 376,
+    "open_issues_count": 39,
     "forks_count": 35
   },
   {
@@ -121,20 +121,20 @@
   },
   {
     "full_name": "retracedhq/retraced",
-    "stargazers_count": 308,
-    "open_issues_count": 16,
+    "stargazers_count": 312,
+    "open_issues_count": 12,
     "forks_count": 18
   },
   {
     "full_name": "rs/zerolog",
-    "stargazers_count": 9965,
+    "stargazers_count": 9976,
     "open_issues_count": 120,
     "forks_count": 557
   },
   {
     "full_name": "teableio/teable",
-    "stargazers_count": 7386,
-    "open_issues_count": 40,
+    "stargazers_count": 7409,
+    "open_issues_count": 43,
     "forks_count": 295
   },
   {
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "johannesjo/super-productivity",
-    "stargazers_count": 8546,
-    "open_issues_count": 177,
-    "forks_count": 741
+    "stargazers_count": 8557,
+    "open_issues_count": 178,
+    "forks_count": 742
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 5605,
-    "open_issues_count": 74,
-    "forks_count": 217
+    "stargazers_count": 5633,
+    "open_issues_count": 79,
+    "forks_count": 218
   },
   {
     "full_name": "xiaods/k8e",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "hyperdiv/hyperdiv",
-    "stargazers_count": 766,
+    "stargazers_count": 767,
     "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "readysettech/readyset",
-    "stargazers_count": 3959,
-    "open_issues_count": 426,
-    "forks_count": 111
+    "stargazers_count": 3984,
+    "open_issues_count": 427,
+    "forks_count": 113
   },
   {
     "full_name": "mesosphere/mindthegap",

@@ -1,37 +1,49 @@
 [
   {
+    "full_name": "ssoready/ssoready",
+    "stargazers_count": 814,
+    "open_issues_count": 11,
+    "forks_count": 22
+  },
+  {
+    "full_name": "AnswerDotAI/fasthtml",
+    "stargazers_count": 2505,
+    "open_issues_count": 20,
+    "forks_count": 77
+  },
+  {
     "full_name": "riverqueue/river",
-    "stargazers_count": 2971,
-    "open_issues_count": 18,
-    "forks_count": 72
+    "stargazers_count": 3004,
+    "open_issues_count": 17,
+    "forks_count": 73
   },
   {
     "full_name": "bufbuild/buf",
-    "stargazers_count": 8677,
-    "open_issues_count": 55,
+    "stargazers_count": 8696,
+    "open_issues_count": 46,
     "forks_count": 258
   },
   {
     "full_name": "MarketingPipeline/Termino.js",
-    "stargazers_count": 536,
+    "stargazers_count": 539,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "poundifdef/smoothmq",
-    "stargazers_count": 1951,
+    "stargazers_count": 1963,
     "open_issues_count": 4,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2391,
+    "stargazers_count": 2423,
     "open_issues_count": 16,
     "forks_count": 27
   },
   {
     "full_name": "ctrox/zeropod",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -61,9 +73,9 @@
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 8340,
-    "open_issues_count": 77,
-    "forks_count": 607
+    "stargazers_count": 8558,
+    "open_issues_count": 79,
+    "forks_count": 627
   },
   {
     "full_name": "flipt-io/reverst",
@@ -79,14 +91,14 @@
   },
   {
     "full_name": "extension-js/extension.js",
-    "stargazers_count": 3522,
-    "open_issues_count": 27,
-    "forks_count": 82
+    "stargazers_count": 3525,
+    "open_issues_count": 28,
+    "forks_count": 84
   },
   {
     "full_name": "andydunstall/piko",
-    "stargazers_count": 1785,
-    "open_issues_count": 6,
+    "stargazers_count": 1788,
+    "open_issues_count": 1,
     "forks_count": 42
   },
   {
@@ -103,26 +115,26 @@
   },
   {
     "full_name": "fergusstrange/embedded-postgres",
-    "stargazers_count": 796,
-    "open_issues_count": 5,
+    "stargazers_count": 799,
+    "open_issues_count": 6,
     "forks_count": 84
   },
   {
     "full_name": "ankane/pgsync",
-    "stargazers_count": 3059,
+    "stargazers_count": 3065,
     "open_issues_count": 13,
-    "forks_count": 195
+    "forks_count": 197
   },
   {
     "full_name": "alash3al/redix",
-    "stargazers_count": 1210,
+    "stargazers_count": 1209,
     "open_issues_count": 7,
     "forks_count": 76
   },
   {
     "full_name": "prest/prest",
-    "stargazers_count": 4160,
-    "open_issues_count": 135,
+    "stargazers_count": 4162,
+    "open_issues_count": 133,
     "forks_count": 281
   },
   {
@@ -133,26 +145,26 @@
   },
   {
     "full_name": "uselagoon/lagoon",
-    "stargazers_count": 552,
-    "open_issues_count": 184,
-    "forks_count": 149
+    "stargazers_count": 553,
+    "open_issues_count": 186,
+    "forks_count": 148
   },
   {
     "full_name": "amalshaji/portr",
     "stargazers_count": 2129,
-    "open_issues_count": 3,
+    "open_issues_count": 5,
     "forks_count": 61
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 830,
+    "stargazers_count": 834,
     "open_issues_count": 14,
-    "forks_count": 44
+    "forks_count": 43
   },
   {
     "full_name": "k0sproject/k0smotron",
-    "stargazers_count": 437,
-    "open_issues_count": 41,
+    "stargazers_count": 441,
+    "open_issues_count": 43,
     "forks_count": 40
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "retracedhq/retraced",
-    "stargazers_count": 326,
-    "open_issues_count": 14,
+    "stargazers_count": 328,
+    "open_issues_count": 12,
     "forks_count": 19
-  },
-  {
-    "full_name": "rs/zerolog",
-    "stargazers_count": 10184,
-    "open_issues_count": 125,
-    "forks_count": 559
-  },
-  {
-    "full_name": "teableio/teable",
-    "stargazers_count": 7849,
-    "open_issues_count": 47,
-    "forks_count": 326
   }
 ]

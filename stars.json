@@ -1,43 +1,43 @@
 [
   {
     "full_name": "ssoready/ssoready",
-    "stargazers_count": 814,
-    "open_issues_count": 11,
-    "forks_count": 22
+    "stargazers_count": 889,
+    "open_issues_count": 10,
+    "forks_count": 25
   },
   {
     "full_name": "AnswerDotAI/fasthtml",
-    "stargazers_count": 2505,
-    "open_issues_count": 20,
-    "forks_count": 77
+    "stargazers_count": 3203,
+    "open_issues_count": 12,
+    "forks_count": 112
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 3004,
-    "open_issues_count": 17,
+    "stargazers_count": 3050,
+    "open_issues_count": 18,
     "forks_count": 73
   },
   {
     "full_name": "bufbuild/buf",
-    "stargazers_count": 8696,
-    "open_issues_count": 46,
-    "forks_count": 258
+    "stargazers_count": 8707,
+    "open_issues_count": 54,
+    "forks_count": 259
   },
   {
     "full_name": "MarketingPipeline/Termino.js",
-    "stargazers_count": 539,
+    "stargazers_count": 546,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "poundifdef/smoothmq",
-    "stargazers_count": 1963,
-    "open_issues_count": 4,
-    "forks_count": 35
+    "stargazers_count": 1979,
+    "open_issues_count": 5,
+    "forks_count": 36
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2423,
+    "stargazers_count": 2441,
     "open_issues_count": 16,
     "forks_count": 27
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "phuslu/log",
-    "stargazers_count": 646,
+    "stargazers_count": 645,
     "open_issues_count": 2,
     "forks_count": 43
   },
@@ -73,31 +73,31 @@
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 8558,
-    "open_issues_count": 79,
-    "forks_count": 627
+    "stargazers_count": 8721,
+    "open_issues_count": 67,
+    "forks_count": 638
   },
   {
     "full_name": "flipt-io/reverst",
-    "stargazers_count": 904,
+    "stargazers_count": 906,
     "open_issues_count": 3,
     "forks_count": 35
   },
   {
     "full_name": "container-registry/harbor-satellite",
-    "stargazers_count": 11,
-    "open_issues_count": 6,
-    "forks_count": 3
+    "stargazers_count": 12,
+    "open_issues_count": 8,
+    "forks_count": 5
   },
   {
     "full_name": "extension-js/extension.js",
-    "stargazers_count": 3525,
+    "stargazers_count": 3541,
     "open_issues_count": 28,
     "forks_count": 84
   },
   {
     "full_name": "andydunstall/piko",
-    "stargazers_count": 1788,
+    "stargazers_count": 1796,
     "open_issues_count": 1,
     "forks_count": 42
   },
@@ -115,56 +115,56 @@
   },
   {
     "full_name": "fergusstrange/embedded-postgres",
-    "stargazers_count": 799,
-    "open_issues_count": 6,
-    "forks_count": 84
+    "stargazers_count": 800,
+    "open_issues_count": 5,
+    "forks_count": 83
   },
   {
     "full_name": "ankane/pgsync",
-    "stargazers_count": 3065,
+    "stargazers_count": 3069,
     "open_issues_count": 13,
-    "forks_count": 197
+    "forks_count": 198
   },
   {
     "full_name": "alash3al/redix",
-    "stargazers_count": 1209,
+    "stargazers_count": 1210,
     "open_issues_count": 7,
     "forks_count": 76
   },
   {
     "full_name": "prest/prest",
-    "stargazers_count": 4162,
+    "stargazers_count": 4168,
     "open_issues_count": 133,
-    "forks_count": 281
+    "forks_count": 280
   },
   {
     "full_name": "jackc/pglogrepl",
     "stargazers_count": 313,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 58
   },
   {
     "full_name": "uselagoon/lagoon",
     "stargazers_count": 553,
-    "open_issues_count": 186,
+    "open_issues_count": 187,
     "forks_count": 148
   },
   {
     "full_name": "amalshaji/portr",
-    "stargazers_count": 2129,
+    "stargazers_count": 2132,
     "open_issues_count": 5,
-    "forks_count": 61
+    "forks_count": 62
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 834,
-    "open_issues_count": 14,
+    "stargazers_count": 835,
+    "open_issues_count": 15,
     "forks_count": 43
   },
   {
     "full_name": "k0sproject/k0smotron",
     "stargazers_count": 441,
-    "open_issues_count": 43,
+    "open_issues_count": 42,
     "forks_count": 40
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "retracedhq/retraced",
-    "stargazers_count": 328,
+    "stargazers_count": 330,
     "open_issues_count": 12,
     "forks_count": 19
   }

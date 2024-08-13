@@ -1,56 +1,56 @@
 [
   {
     "full_name": "kubernetes-sigs/cri-tools",
-    "stargazers_count": 1619,
+    "stargazers_count": 1621,
     "open_issues_count": 5,
-    "forks_count": 440
+    "forks_count": 442
   },
   {
     "full_name": "ssoready/ssoready",
-    "stargazers_count": 909,
-    "open_issues_count": 11,
-    "forks_count": 27
+    "stargazers_count": 959,
+    "open_issues_count": 12,
+    "forks_count": 29
   },
   {
     "full_name": "AnswerDotAI/fasthtml",
-    "stargazers_count": 3568,
-    "open_issues_count": 16,
-    "forks_count": 130
+    "stargazers_count": 3832,
+    "open_issues_count": 17,
+    "forks_count": 144
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 3072,
-    "open_issues_count": 22,
-    "forks_count": 75
+    "stargazers_count": 3093,
+    "open_issues_count": 21,
+    "forks_count": 76
   },
   {
     "full_name": "bufbuild/buf",
-    "stargazers_count": 8716,
+    "stargazers_count": 8727,
     "open_issues_count": 51,
     "forks_count": 259
   },
   {
     "full_name": "MarketingPipeline/Termino.js",
-    "stargazers_count": 548,
+    "stargazers_count": 552,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "poundifdef/smoothmq",
-    "stargazers_count": 1985,
+    "stargazers_count": 1989,
     "open_issues_count": 5,
     "forks_count": 36
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2458,
-    "open_issues_count": 16,
+    "stargazers_count": 2478,
+    "open_issues_count": 18,
     "forks_count": 28
   },
   {
     "full_name": "ctrox/zeropod",
     "stargazers_count": 25,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 8840,
-    "open_issues_count": 69,
-    "forks_count": 649
+    "stargazers_count": 8937,
+    "open_issues_count": 75,
+    "forks_count": 661
   },
   {
     "full_name": "flipt-io/reverst",
@@ -93,19 +93,19 @@
     "full_name": "container-registry/harbor-satellite",
     "stargazers_count": 12,
     "open_issues_count": 8,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "extension-js/extension.js",
-    "stargazers_count": 3555,
-    "open_issues_count": 29,
+    "stargazers_count": 3562,
+    "open_issues_count": 28,
     "forks_count": 85
   },
   {
     "full_name": "andydunstall/piko",
-    "stargazers_count": 1799,
+    "stargazers_count": 1806,
     "open_issues_count": 1,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "vincentgna/cdk8s-ssm-resolver",
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "fergusstrange/embedded-postgres",
-    "stargazers_count": 802,
+    "stargazers_count": 805,
     "open_issues_count": 5,
     "forks_count": 83
   },
   {
     "full_name": "ankane/pgsync",
-    "stargazers_count": 3071,
+    "stargazers_count": 3074,
     "open_issues_count": 13,
     "forks_count": 198
   },
   {
     "full_name": "alash3al/redix",
-    "stargazers_count": 1210,
+    "stargazers_count": 1211,
     "open_issues_count": 7,
     "forks_count": 76
   },
   {
     "full_name": "prest/prest",
-    "stargazers_count": 4167,
+    "stargazers_count": 4168,
     "open_issues_count": 133,
-    "forks_count": 280
+    "forks_count": 281
   },
   {
     "full_name": "jackc/pglogrepl",
@@ -157,20 +157,20 @@
   },
   {
     "full_name": "amalshaji/portr",
-    "stargazers_count": 2133,
-    "open_issues_count": 5,
+    "stargazers_count": 2136,
+    "open_issues_count": 6,
     "forks_count": 62
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 837,
+    "stargazers_count": 841,
     "open_issues_count": 14,
     "forks_count": 43
   },
   {
     "full_name": "k0sproject/k0smotron",
-    "stargazers_count": 450,
-    "open_issues_count": 42,
+    "stargazers_count": 452,
+    "open_issues_count": 44,
     "forks_count": 42
   },
   {

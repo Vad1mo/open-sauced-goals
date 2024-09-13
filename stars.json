@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "dadrus/heimdall",
+    "stargazers_count": 113,
+    "open_issues_count": 41,
+    "forks_count": 13
+  },
+  {
     "full_name": "piraeusdatastore/piraeus",
-    "stargazers_count": 437,
+    "stargazers_count": 438,
     "open_issues_count": 13,
     "forks_count": 50
   },
@@ -13,68 +19,68 @@
   },
   {
     "full_name": "Smana/cloud-native-ref",
-    "stargazers_count": 17,
-    "open_issues_count": 19,
+    "stargazers_count": 18,
+    "open_issues_count": 20,
     "forks_count": 5
   },
   {
     "full_name": "iamgio/quarkdown",
-    "stargazers_count": 259,
+    "stargazers_count": 260,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 7023,
+    "stargazers_count": 7035,
     "open_issues_count": 37,
-    "forks_count": 130
+    "forks_count": 131
   },
   {
     "full_name": "kubernetes-sigs/cri-tools",
-    "stargazers_count": 1635,
+    "stargazers_count": 1639,
     "open_issues_count": 3,
     "forks_count": 445
   },
   {
     "full_name": "ssoready/ssoready",
-    "stargazers_count": 1126,
+    "stargazers_count": 1139,
     "open_issues_count": 10,
     "forks_count": 34
   },
   {
     "full_name": "AnswerDotAI/fasthtml",
-    "stargazers_count": 4891,
-    "open_issues_count": 18,
-    "forks_count": 194
+    "stargazers_count": 4973,
+    "open_issues_count": 20,
+    "forks_count": 196
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 3285,
-    "open_issues_count": 26,
-    "forks_count": 87
+    "stargazers_count": 3334,
+    "open_issues_count": 27,
+    "forks_count": 89
   },
   {
     "full_name": "bufbuild/buf",
-    "stargazers_count": 8846,
-    "open_issues_count": 48,
-    "forks_count": 264
+    "stargazers_count": 8859,
+    "open_issues_count": 41,
+    "forks_count": 265
   },
   {
     "full_name": "MarketingPipeline/Termino.js",
-    "stargazers_count": 572,
+    "stargazers_count": 573,
     "open_issues_count": 4,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "poundifdef/smoothmq",
-    "stargazers_count": 2039,
-    "open_issues_count": 6,
+    "stargazers_count": 2041,
+    "open_issues_count": 7,
     "forks_count": 35
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2606,
-    "open_issues_count": 11,
+    "stargazers_count": 2637,
+    "open_issues_count": 13,
     "forks_count": 32
   },
   {
@@ -85,14 +91,14 @@
   },
   {
     "full_name": "phuslu/log",
-    "stargazers_count": 655,
+    "stargazers_count": 656,
     "open_issues_count": 2,
     "forks_count": 43
   },
   {
     "full_name": "postfinance/kubenurse",
-    "stargazers_count": 405,
-    "open_issues_count": 5,
+    "stargazers_count": 406,
+    "open_issues_count": 2,
     "forks_count": 39
   },
   {
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 13376,
-    "open_issues_count": 115,
-    "forks_count": 963
+    "stargazers_count": 13657,
+    "open_issues_count": 113,
+    "forks_count": 987
   },
   {
     "full_name": "flipt-io/reverst",
@@ -122,18 +128,18 @@
   {
     "full_name": "container-registry/harbor-satellite",
     "stargazers_count": 13,
-    "open_issues_count": 12,
+    "open_issues_count": 15,
     "forks_count": 8
   },
   {
     "full_name": "extension-js/extension.js",
-    "stargazers_count": 3614,
-    "open_issues_count": 30,
-    "forks_count": 89
+    "stargazers_count": 3623,
+    "open_issues_count": 31,
+    "forks_count": 90
   },
   {
     "full_name": "andydunstall/piko",
-    "stargazers_count": 1831,
+    "stargazers_count": 1835,
     "open_issues_count": 0,
     "forks_count": 47
   },
@@ -151,13 +157,13 @@
   },
   {
     "full_name": "fergusstrange/embedded-postgres",
-    "stargazers_count": 816,
+    "stargazers_count": 817,
     "open_issues_count": 4,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "ankane/pgsync",
-    "stargazers_count": 3104,
+    "stargazers_count": 3106,
     "open_issues_count": 13,
     "forks_count": 200
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "prest/prest",
-    "stargazers_count": 4194,
+    "stargazers_count": 4195,
     "open_issues_count": 134,
     "forks_count": 281
-  },
-  {
-    "full_name": "jackc/pglogrepl",
-    "stargazers_count": 319,
-    "open_issues_count": 13,
-    "forks_count": 58
   }
 ]

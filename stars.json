@@ -1,92 +1,110 @@
 [
   {
+    "full_name": "goharbor/harbor-scanner-trivy",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "supabase/pg_replicate",
+    "stargazers_count": 553,
+    "open_issues_count": 22,
+    "forks_count": 19
+  },
+  {
+    "full_name": "grampelberg/kty",
+    "stargazers_count": 261,
+    "open_issues_count": 2,
+    "forks_count": 4
+  },
+  {
     "full_name": "go-sprout/sprout",
     "stargazers_count": 86,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "dadrus/heimdall",
-    "stargazers_count": 113,
-    "open_issues_count": 38,
+    "stargazers_count": 114,
+    "open_issues_count": 41,
     "forks_count": 13
   },
   {
     "full_name": "piraeusdatastore/piraeus",
-    "stargazers_count": 439,
+    "stargazers_count": 440,
     "open_issues_count": 13,
     "forks_count": 50
   },
   {
     "full_name": "mintoolkit/mint",
     "stargazers_count": 125,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "Smana/cloud-native-ref",
     "stargazers_count": 19,
-    "open_issues_count": 18,
+    "open_issues_count": 21,
     "forks_count": 5
   },
   {
     "full_name": "iamgio/quarkdown",
-    "stargazers_count": 262,
+    "stargazers_count": 264,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 7045,
+    "stargazers_count": 7059,
     "open_issues_count": 35,
-    "forks_count": 131
+    "forks_count": 133
   },
   {
     "full_name": "kubernetes-sigs/cri-tools",
-    "stargazers_count": 1642,
+    "stargazers_count": 1644,
     "open_issues_count": 3,
-    "forks_count": 445
+    "forks_count": 446
   },
   {
     "full_name": "ssoready/ssoready",
-    "stargazers_count": 1146,
+    "stargazers_count": 1161,
     "open_issues_count": 10,
     "forks_count": 35
   },
   {
     "full_name": "AnswerDotAI/fasthtml",
-    "stargazers_count": 5048,
+    "stargazers_count": 5073,
     "open_issues_count": 19,
-    "forks_count": 203
+    "forks_count": 206
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 3356,
-    "open_issues_count": 28,
+    "stargazers_count": 3368,
+    "open_issues_count": 33,
     "forks_count": 89
   },
   {
     "full_name": "bufbuild/buf",
-    "stargazers_count": 8873,
-    "open_issues_count": 45,
+    "stargazers_count": 8883,
+    "open_issues_count": 41,
     "forks_count": 265
   },
   {
     "full_name": "MarketingPipeline/Termino.js",
-    "stargazers_count": 575,
+    "stargazers_count": 577,
     "open_issues_count": 4,
     "forks_count": 10
   },
   {
     "full_name": "poundifdef/smoothmq",
-    "stargazers_count": 2047,
+    "stargazers_count": 2050,
     "open_issues_count": 7,
     "forks_count": 35
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2651,
-    "open_issues_count": 11,
+    "stargazers_count": 2666,
+    "open_issues_count": 12,
     "forks_count": 32
   },
   {
@@ -97,14 +115,14 @@
   },
   {
     "full_name": "phuslu/log",
-    "stargazers_count": 657,
+    "stargazers_count": 658,
     "open_issues_count": 2,
     "forks_count": 43
   },
   {
     "full_name": "postfinance/kubenurse",
-    "stargazers_count": 406,
-    "open_issues_count": 5,
+    "stargazers_count": 407,
+    "open_issues_count": 4,
     "forks_count": 39
   },
   {
@@ -121,13 +139,13 @@
   },
   {
     "full_name": "mendableai/firecrawl",
-    "stargazers_count": 13939,
-    "open_issues_count": 120,
-    "forks_count": 1010
+    "stargazers_count": 14411,
+    "open_issues_count": 116,
+    "forks_count": 1045
   },
   {
     "full_name": "flipt-io/reverst",
-    "stargazers_count": 922,
+    "stargazers_count": 920,
     "open_issues_count": 3,
     "forks_count": 35
   },
@@ -139,15 +157,15 @@
   },
   {
     "full_name": "extension-js/extension.js",
-    "stargazers_count": 3628,
-    "open_issues_count": 25,
-    "forks_count": 90
+    "stargazers_count": 3639,
+    "open_issues_count": 21,
+    "forks_count": 91
   },
   {
     "full_name": "andydunstall/piko",
-    "stargazers_count": 1838,
+    "stargazers_count": 1840,
     "open_issues_count": 0,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "vincentgna/cdk8s-ssm-resolver",
@@ -160,23 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "fergusstrange/embedded-postgres",
-    "stargazers_count": 817,
-    "open_issues_count": 4,
-    "forks_count": 84
-  },
-  {
-    "full_name": "ankane/pgsync",
-    "stargazers_count": 3111,
-    "open_issues_count": 13,
-    "forks_count": 200
-  },
-  {
-    "full_name": "alash3al/redix",
-    "stargazers_count": 1211,
-    "open_issues_count": 7,
-    "forks_count": 76
   }
 ]

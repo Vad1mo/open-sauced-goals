@@ -1,69 +1,69 @@
 [
   {
     "full_name": "truecharts/public",
-    "stargazers_count": 1153,
-    "open_issues_count": 44,
-    "forks_count": 618
+    "stargazers_count": 1155,
+    "open_issues_count": 41,
+    "forks_count": 616
   },
   {
     "full_name": "hauler-dev/hauler",
-    "stargazers_count": 131,
-    "open_issues_count": 30,
+    "stargazers_count": 132,
+    "open_issues_count": 32,
     "forks_count": 30
   },
   {
     "full_name": "jozu-ai/kitops",
-    "stargazers_count": 505,
-    "open_issues_count": 30,
-    "forks_count": 54
+    "stargazers_count": 513,
+    "open_issues_count": 33,
+    "forks_count": 56
   },
   {
     "full_name": "hibiken/asynq",
-    "stargazers_count": 10027,
-    "open_issues_count": 201,
-    "forks_count": 716
+    "stargazers_count": 10057,
+    "open_issues_count": 202,
+    "forks_count": 719
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 17399,
-    "open_issues_count": 443,
-    "forks_count": 1049
+    "stargazers_count": 17484,
+    "open_issues_count": 441,
+    "forks_count": 1051
   },
   {
     "full_name": "jdx/mise",
-    "stargazers_count": 10177,
-    "open_issues_count": 261,
-    "forks_count": 293
+    "stargazers_count": 10225,
+    "open_issues_count": 231,
+    "forks_count": 295
   },
   {
     "full_name": "GoogleContainerTools/kpt-config-sync",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 29,
     "forks_count": 43
   },
   {
     "full_name": "AutoMQ/automq",
-    "stargazers_count": 3850,
-    "open_issues_count": 67,
-    "forks_count": 214
+    "stargazers_count": 3860,
+    "open_issues_count": 66,
+    "forks_count": 215
   },
   {
     "full_name": "maddalax/htmgo",
-    "stargazers_count": 729,
+    "stargazers_count": 736,
     "open_issues_count": 9,
     "forks_count": 19
   },
   {
     "full_name": "mikestefanello/pagoda",
-    "stargazers_count": 2206,
+    "stargazers_count": 2207,
     "open_issues_count": 8,
     "forks_count": 115
   },
   {
     "full_name": "chatwoot/chatwoot",
-    "stargazers_count": 21298,
+    "stargazers_count": 21331,
     "open_issues_count": 895,
-    "forks_count": 3598
+    "forks_count": 3605
   },
   {
     "full_name": "stackitcloud/stackit-cli",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "kubewall/kubewall",
-    "stargazers_count": 633,
+    "stargazers_count": 635,
     "open_issues_count": 8,
     "forks_count": 17
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 19421,
-    "open_issues_count": 736,
-    "forks_count": 1684
+    "stargazers_count": 19509,
+    "open_issues_count": 753,
+    "forks_count": 1693
   },
   {
     "full_name": "goharbor/harbor-scanner-trivy",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "supabase/pg_replicate",
-    "stargazers_count": 597,
-    "open_issues_count": 46,
-    "forks_count": 22
+    "stargazers_count": 598,
+    "open_issues_count": 47,
+    "forks_count": 24
   },
   {
     "full_name": "grampelberg/kty",
@@ -110,67 +110,67 @@
   {
     "full_name": "dadrus/heimdall",
     "stargazers_count": 133,
-    "open_issues_count": 44,
+    "open_issues_count": 42,
     "forks_count": 15
   },
   {
     "full_name": "piraeusdatastore/piraeus",
     "stargazers_count": 451,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 52
   },
   {
     "full_name": "mintoolkit/mint",
-    "stargazers_count": 179,
+    "stargazers_count": 182,
     "open_issues_count": 10,
     "forks_count": 10
   },
   {
     "full_name": "Smana/cloud-native-ref",
-    "stargazers_count": 26,
+    "stargazers_count": 29,
     "open_issues_count": 15,
     "forks_count": 5
   },
   {
     "full_name": "iamgio/quarkdown",
-    "stargazers_count": 295,
+    "stargazers_count": 294,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "TomWright/dasel",
-    "stargazers_count": 7174,
+    "stargazers_count": 7187,
     "open_issues_count": 42,
     "forks_count": 136
   },
   {
     "full_name": "kubernetes-sigs/cri-tools",
-    "stargazers_count": 1682,
-    "open_issues_count": 14,
-    "forks_count": 453
+    "stargazers_count": 1686,
+    "open_issues_count": 7,
+    "forks_count": 454
   },
   {
     "full_name": "ssoready/ssoready",
-    "stargazers_count": 1296,
+    "stargazers_count": 1298,
     "open_issues_count": 4,
     "forks_count": 41
   },
   {
     "full_name": "AnswerDotAI/fasthtml",
-    "stargazers_count": 5626,
-    "open_issues_count": 47,
+    "stargazers_count": 5653,
+    "open_issues_count": 43,
     "forks_count": 238
   },
   {
     "full_name": "riverqueue/river",
-    "stargazers_count": 3580,
-    "open_issues_count": 37,
-    "forks_count": 93
+    "stargazers_count": 3587,
+    "open_issues_count": 38,
+    "forks_count": 94
   },
   {
     "full_name": "bufbuild/buf",
-    "stargazers_count": 9164,
-    "open_issues_count": 48,
+    "stargazers_count": 9209,
+    "open_issues_count": 46,
     "forks_count": 278
   },
   {

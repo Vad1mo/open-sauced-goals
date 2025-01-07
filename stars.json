@@ -1,26 +1,26 @@
 [
   {
     "full_name": "air-verse/air",
-    "stargazers_count": 18794,
+    "stargazers_count": 18864,
     "open_issues_count": 158,
     "forks_count": 823
   },
   {
     "full_name": "Everduin94/better-commits",
-    "stargazers_count": 2095,
+    "stargazers_count": 2097,
     "open_issues_count": 4,
     "forks_count": 73
   },
   {
     "full_name": "mherrmann/helium",
-    "stargazers_count": 7055,
+    "stargazers_count": 7100,
     "open_issues_count": 54,
-    "forks_count": 436
+    "forks_count": 435
   },
   {
     "full_name": "flox/flox",
-    "stargazers_count": 2823,
-    "open_issues_count": 272,
+    "stargazers_count": 2838,
+    "open_issues_count": 268,
     "forks_count": 70
   },
   {
@@ -37,39 +37,39 @@
   },
   {
     "full_name": "seatgeek/mailroom",
-    "stargazers_count": 364,
+    "stargazers_count": 487,
     "open_issues_count": 1,
-    "forks_count": 12
+    "forks_count": 18
   },
   {
     "full_name": "stanfordnlp/dspy",
-    "stargazers_count": 20677,
-    "open_issues_count": 195,
-    "forks_count": 1561
+    "stargazers_count": 20792,
+    "open_issues_count": 144,
+    "forks_count": 1568
   },
   {
     "full_name": "unclecode/crawl4ai",
-    "stargazers_count": 19066,
-    "open_issues_count": 116,
-    "forks_count": 1396
+    "stargazers_count": 21492,
+    "open_issues_count": 120,
+    "forks_count": 1546
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 18475,
-    "open_issues_count": 198,
-    "forks_count": 1542
+    "stargazers_count": 19606,
+    "open_issues_count": 226,
+    "forks_count": 1665
   },
   {
     "full_name": "phidatahq/phidata",
-    "stargazers_count": 17313,
-    "open_issues_count": 77,
-    "forks_count": 2336
+    "stargazers_count": 17460,
+    "open_issues_count": 67,
+    "forks_count": 2366
   },
   {
     "full_name": "didip/tollbooth",
-    "stargazers_count": 2728,
+    "stargazers_count": 2732,
     "open_issues_count": 7,
-    "forks_count": 206
+    "forks_count": 207
   },
   {
     "full_name": "remko/age-plugin-se",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "zalando/go-keyring",
-    "stargazers_count": 900,
+    "stargazers_count": 902,
     "open_issues_count": 25,
     "forks_count": 86
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 1410,
-    "open_issues_count": 13,
+    "stargazers_count": 1418,
+    "open_issues_count": 12,
     "forks_count": 54
   },
   {
@@ -115,33 +115,33 @@
   },
   {
     "full_name": "nixiesearch/nixiesearch",
-    "stargazers_count": 385,
-    "open_issues_count": 41,
+    "stargazers_count": 386,
+    "open_issues_count": 33,
     "forks_count": 7
   },
   {
     "full_name": "MaibornWolff/SecObserve",
     "stargazers_count": 109,
-    "open_issues_count": 6,
+    "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "milvus-io/milvus",
-    "stargazers_count": 31622,
-    "open_issues_count": 798,
-    "forks_count": 2987
+    "stargazers_count": 31674,
+    "open_issues_count": 745,
+    "forks_count": 2989
   },
   {
     "full_name": "slatedb/slatedb",
-    "stargazers_count": 1704,
-    "open_issues_count": 91,
-    "forks_count": 83
+    "stargazers_count": 1723,
+    "open_issues_count": 89,
+    "forks_count": 84
   },
   {
     "full_name": "truecharts/public",
-    "stargazers_count": 1175,
-    "open_issues_count": 99,
-    "forks_count": 623
+    "stargazers_count": 1176,
+    "open_issues_count": 148,
+    "forks_count": 622
   },
   {
     "full_name": "hauler-dev/hauler",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "jozu-ai/kitops",
-    "stargazers_count": 599,
-    "open_issues_count": 33,
-    "forks_count": 61
+    "stargazers_count": 604,
+    "open_issues_count": 32,
+    "forks_count": 62
   },
   {
     "full_name": "hibiken/asynq",
-    "stargazers_count": 10403,
-    "open_issues_count": 218,
-    "forks_count": 743
+    "stargazers_count": 10417,
+    "open_issues_count": 221,
+    "forks_count": 744
   },
   {
     "full_name": "hcengineering/platform",
-    "stargazers_count": 18039,
-    "open_issues_count": 553,
-    "forks_count": 1108
+    "stargazers_count": 18086,
+    "open_issues_count": 552,
+    "forks_count": 1109
   },
   {
     "full_name": "jdx/mise",
-    "stargazers_count": 12411,
+    "stargazers_count": 12570,
     "open_issues_count": 21,
-    "forks_count": 345
+    "forks_count": 350
   },
   {
     "full_name": "GoogleContainerTools/kpt-config-sync",
-    "stargazers_count": 246,
-    "open_issues_count": 28,
+    "stargazers_count": 247,
+    "open_issues_count": 27,
     "forks_count": 44
   }
 ]

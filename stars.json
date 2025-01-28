@@ -1,38 +1,56 @@
 [
   {
+    "full_name": "dagu-org/dagu",
+    "stargazers_count": 1809,
+    "open_issues_count": 74,
+    "forks_count": 155
+  },
+  {
+    "full_name": "AxaFrance/SlimFaas",
+    "stargazers_count": 245,
+    "open_issues_count": 9,
+    "forks_count": 10
+  },
+  {
+    "full_name": "swade1987/flux2-sops-template",
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "google/osv.dev",
-    "stargazers_count": 1644,
-    "open_issues_count": 163,
+    "stargazers_count": 1659,
+    "open_issues_count": 162,
     "forks_count": 188
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 35516,
-    "open_issues_count": 163,
-    "forks_count": 1576
+    "stargazers_count": 35751,
+    "open_issues_count": 164,
+    "forks_count": 1591
   },
   {
     "full_name": "postgresml/pgcat",
-    "stargazers_count": 3208,
-    "open_issues_count": 175,
+    "stargazers_count": 3214,
+    "open_issues_count": 177,
     "forks_count": 205
   },
   {
     "full_name": "atgreen/green-orb",
-    "stargazers_count": 17,
+    "stargazers_count": 19,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "containrrr/shoutrrr",
-    "stargazers_count": 1097,
+    "stargazers_count": 1101,
     "open_issues_count": 72,
     "forks_count": 62
   },
   {
     "full_name": "alexpasmantier/television",
-    "stargazers_count": 1968,
-    "open_issues_count": 23,
+    "stargazers_count": 2044,
+    "open_issues_count": 24,
     "forks_count": 38
   },
   {
@@ -43,27 +61,27 @@
   },
   {
     "full_name": "air-verse/air",
-    "stargazers_count": 19079,
-    "open_issues_count": 156,
+    "stargazers_count": 19121,
+    "open_issues_count": 155,
     "forks_count": 828
   },
   {
     "full_name": "Everduin94/better-commits",
-    "stargazers_count": 2104,
+    "stargazers_count": 2107,
     "open_issues_count": 3,
     "forks_count": 74
   },
   {
     "full_name": "mherrmann/helium",
-    "stargazers_count": 7275,
+    "stargazers_count": 7316,
     "open_issues_count": 54,
-    "forks_count": 443
+    "forks_count": 444
   },
   {
     "full_name": "flox/flox",
-    "stargazers_count": 2926,
-    "open_issues_count": 269,
-    "forks_count": 72
+    "stargazers_count": 2940,
+    "open_issues_count": 272,
+    "forks_count": 73
   },
   {
     "full_name": "omnistrate-community/harbor-saas",
@@ -79,73 +97,73 @@
   },
   {
     "full_name": "seatgeek/mailroom",
-    "stargazers_count": 534,
+    "stargazers_count": 535,
     "open_issues_count": 1,
     "forks_count": 18
   },
   {
     "full_name": "stanfordnlp/dspy",
-    "stargazers_count": 21313,
-    "open_issues_count": 146,
-    "forks_count": 1614
+    "stargazers_count": 21448,
+    "open_issues_count": 157,
+    "forks_count": 1626
   },
   {
     "full_name": "unclecode/crawl4ai",
-    "stargazers_count": 26964,
-    "open_issues_count": 47,
-    "forks_count": 2113
+    "stargazers_count": 27546,
+    "open_issues_count": 40,
+    "forks_count": 2163
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 24057,
-    "open_issues_count": 281,
-    "forks_count": 2175
+    "stargazers_count": 25220,
+    "open_issues_count": 307,
+    "forks_count": 2281
   },
   {
     "full_name": "phidatahq/phidata",
-    "stargazers_count": 18146,
-    "open_issues_count": 46,
-    "forks_count": 2444
+    "stargazers_count": 18232,
+    "open_issues_count": 48,
+    "forks_count": 2461
   },
   {
     "full_name": "didip/tollbooth",
-    "stargazers_count": 2742,
+    "stargazers_count": 2745,
     "open_issues_count": 7,
     "forks_count": 210
   },
   {
     "full_name": "remko/age-plugin-se",
     "stargazers_count": 131,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "olareg/olareg",
-    "stargazers_count": 22,
+    "stargazers_count": 24,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "CloudNativeAI/model-spec",
-    "stargazers_count": 19,
-    "open_issues_count": 7,
+    "stargazers_count": 20,
+    "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "zalando/go-keyring",
-    "stargazers_count": 906,
+    "stargazers_count": 909,
     "open_issues_count": 25,
     "forks_count": 88
   },
   {
     "full_name": "99designs/keyring",
-    "stargazers_count": 590,
+    "stargazers_count": 592,
     "open_issues_count": 42,
-    "forks_count": 143
+    "forks_count": 145
   },
   {
     "full_name": "iximiuz/cdebug",
-    "stargazers_count": 1426,
+    "stargazers_count": 1427,
     "open_issues_count": 12,
     "forks_count": 53
   },
@@ -158,25 +176,7 @@
   {
     "full_name": "nixiesearch/nixiesearch",
     "stargazers_count": 389,
-    "open_issues_count": 33,
+    "open_issues_count": 34,
     "forks_count": 7
-  },
-  {
-    "full_name": "MaibornWolff/SecObserve",
-    "stargazers_count": 110,
-    "open_issues_count": 10,
-    "forks_count": 10
-  },
-  {
-    "full_name": "milvus-io/milvus",
-    "stargazers_count": 31996,
-    "open_issues_count": 767,
-    "forks_count": 3008
-  },
-  {
-    "full_name": "slatedb/slatedb",
-    "stargazers_count": 1762,
-    "open_issues_count": 98,
-    "forks_count": 86
   }
 ]

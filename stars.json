@@ -1,13 +1,13 @@
 [
   {
     "full_name": "viccon/sturdyc",
-    "stargazers_count": 904,
+    "stargazers_count": 1016,
     "open_issues_count": 1,
-    "forks_count": 23
+    "forks_count": 26
   },
   {
     "full_name": "cloudcoil/cloudcoil",
-    "stargazers_count": 37,
+    "stargazers_count": 48,
     "open_issues_count": 15,
     "forks_count": 0
   },
@@ -25,20 +25,20 @@
   },
   {
     "full_name": "glasskube/distr",
-    "stargazers_count": 348,
-    "open_issues_count": 8,
+    "stargazers_count": 352,
+    "open_issues_count": 10,
     "forks_count": 9
   },
   {
     "full_name": "dagu-org/dagu",
-    "stargazers_count": 1828,
-    "open_issues_count": 72,
-    "forks_count": 155
+    "stargazers_count": 1831,
+    "open_issues_count": 70,
+    "forks_count": 157
   },
   {
     "full_name": "SlimPlanet/SlimFaas",
     "stargazers_count": 253,
-    "open_issues_count": 12,
+    "open_issues_count": 10,
     "forks_count": 11
   },
   {
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "google/osv.dev",
-    "stargazers_count": 1703,
-    "open_issues_count": 144,
+    "stargazers_count": 1726,
+    "open_issues_count": 150,
     "forks_count": 193
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 36523,
-    "open_issues_count": 167,
-    "forks_count": 1639
+    "stargazers_count": 36769,
+    "open_issues_count": 173,
+    "forks_count": 1669
   },
   {
     "full_name": "postgresml/pgcat",
-    "stargazers_count": 3296,
-    "open_issues_count": 180,
-    "forks_count": 208
+    "stargazers_count": 3302,
+    "open_issues_count": 181,
+    "forks_count": 209
   },
   {
     "full_name": "atgreen/green-orb",
@@ -73,44 +73,44 @@
   },
   {
     "full_name": "containrrr/shoutrrr",
-    "stargazers_count": 1117,
-    "open_issues_count": 73,
-    "forks_count": 63
+    "stargazers_count": 1119,
+    "open_issues_count": 74,
+    "forks_count": 64
   },
   {
     "full_name": "alexpasmantier/television",
-    "stargazers_count": 2220,
+    "stargazers_count": 2266,
     "open_issues_count": 27,
-    "forks_count": 40
+    "forks_count": 42
   },
   {
     "full_name": "opencontainers/umoci",
-    "stargazers_count": 764,
+    "stargazers_count": 766,
     "open_issues_count": 64,
     "forks_count": 99
   },
   {
     "full_name": "air-verse/air",
-    "stargazers_count": 19266,
-    "open_issues_count": 159,
-    "forks_count": 830
+    "stargazers_count": 19297,
+    "open_issues_count": 160,
+    "forks_count": 831
   },
   {
     "full_name": "Everduin94/better-commits",
-    "stargazers_count": 2135,
+    "stargazers_count": 2137,
     "open_issues_count": 4,
     "forks_count": 78
   },
   {
     "full_name": "mherrmann/helium",
-    "stargazers_count": 7410,
+    "stargazers_count": 7434,
     "open_issues_count": 54,
     "forks_count": 453
   },
   {
     "full_name": "flox/flox",
-    "stargazers_count": 2988,
-    "open_issues_count": 274,
+    "stargazers_count": 2995,
+    "open_issues_count": 271,
     "forks_count": 75
   },
   {
@@ -128,32 +128,32 @@
   {
     "full_name": "seatgeek/mailroom",
     "stargazers_count": 538,
-    "open_issues_count": 2,
-    "forks_count": 18
+    "open_issues_count": 3,
+    "forks_count": 19
   },
   {
     "full_name": "stanfordnlp/dspy",
-    "stargazers_count": 21760,
-    "open_issues_count": 146,
-    "forks_count": 1645
+    "stargazers_count": 21825,
+    "open_issues_count": 150,
+    "forks_count": 1653
   },
   {
     "full_name": "unclecode/crawl4ai",
-    "stargazers_count": 29627,
-    "open_issues_count": 55,
-    "forks_count": 2380
+    "stargazers_count": 30164,
+    "open_issues_count": 44,
+    "forks_count": 2434
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 28348,
-    "open_issues_count": 367,
-    "forks_count": 2638
+    "stargazers_count": 29148,
+    "open_issues_count": 363,
+    "forks_count": 2723
   },
   {
     "full_name": "agno-agi/agno",
-    "stargazers_count": 18737,
-    "open_issues_count": 78,
-    "forks_count": 2541
+    "stargazers_count": 18863,
+    "open_issues_count": 75,
+    "forks_count": 2558
   },
   {
     "full_name": "didip/tollbooth",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "olareg/olareg",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "CloudNativeAI/model-spec",
-    "stargazers_count": 25,
-    "open_issues_count": 4,
-    "forks_count": 5
+    "stargazers_count": 26,
+    "open_issues_count": 5,
+    "forks_count": 6
   }
 ]

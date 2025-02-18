@@ -1,20 +1,20 @@
 [
   {
     "full_name": "viccon/sturdyc",
-    "stargazers_count": 1016,
+    "stargazers_count": 1072,
     "open_issues_count": 1,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "cloudcoil/cloudcoil",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 15,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "kubernetes-sigs/ingate",
-    "stargazers_count": 235,
-    "open_issues_count": 0,
+    "stargazers_count": 239,
+    "open_issues_count": 1,
     "forks_count": 8
   },
   {
@@ -25,20 +25,20 @@
   },
   {
     "full_name": "glasskube/distr",
-    "stargazers_count": 352,
-    "open_issues_count": 10,
-    "forks_count": 9
+    "stargazers_count": 358,
+    "open_issues_count": 7,
+    "forks_count": 10
   },
   {
     "full_name": "dagu-org/dagu",
-    "stargazers_count": 1831,
-    "open_issues_count": 70,
+    "stargazers_count": 1843,
+    "open_issues_count": 75,
     "forks_count": 157
   },
   {
     "full_name": "SlimPlanet/SlimFaas",
     "stargazers_count": 253,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 11
   },
   {
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "google/osv.dev",
-    "stargazers_count": 1726,
-    "open_issues_count": 150,
+    "stargazers_count": 1737,
+    "open_issues_count": 148,
     "forks_count": 193
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 36769,
-    "open_issues_count": 173,
-    "forks_count": 1669
+    "stargazers_count": 37844,
+    "open_issues_count": 178,
+    "forks_count": 1737
   },
   {
     "full_name": "postgresml/pgcat",
-    "stargazers_count": 3302,
-    "open_issues_count": 181,
-    "forks_count": 209
+    "stargazers_count": 3305,
+    "open_issues_count": 182,
+    "forks_count": 211
   },
   {
     "full_name": "atgreen/green-orb",
@@ -73,45 +73,45 @@
   },
   {
     "full_name": "containrrr/shoutrrr",
-    "stargazers_count": 1119,
-    "open_issues_count": 74,
+    "stargazers_count": 1128,
+    "open_issues_count": 73,
     "forks_count": 64
   },
   {
     "full_name": "alexpasmantier/television",
-    "stargazers_count": 2266,
-    "open_issues_count": 27,
-    "forks_count": 42
+    "stargazers_count": 2346,
+    "open_issues_count": 29,
+    "forks_count": 43
   },
   {
     "full_name": "opencontainers/umoci",
-    "stargazers_count": 766,
+    "stargazers_count": 767,
     "open_issues_count": 64,
     "forks_count": 99
   },
   {
     "full_name": "air-verse/air",
-    "stargazers_count": 19297,
-    "open_issues_count": 160,
-    "forks_count": 831
+    "stargazers_count": 19349,
+    "open_issues_count": 161,
+    "forks_count": 832
   },
   {
     "full_name": "Everduin94/better-commits",
-    "stargazers_count": 2137,
+    "stargazers_count": 2140,
     "open_issues_count": 4,
     "forks_count": 78
   },
   {
     "full_name": "mherrmann/helium",
-    "stargazers_count": 7434,
-    "open_issues_count": 54,
-    "forks_count": 453
+    "stargazers_count": 7472,
+    "open_issues_count": 55,
+    "forks_count": 456
   },
   {
     "full_name": "flox/flox",
-    "stargazers_count": 2995,
-    "open_issues_count": 271,
-    "forks_count": 75
+    "stargazers_count": 3001,
+    "open_issues_count": 278,
+    "forks_count": 76
   },
   {
     "full_name": "omnistrate-community/harbor-saas",
@@ -128,32 +128,32 @@
   {
     "full_name": "seatgeek/mailroom",
     "stargazers_count": 538,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 19
   },
   {
     "full_name": "stanfordnlp/dspy",
-    "stargazers_count": 21825,
-    "open_issues_count": 150,
-    "forks_count": 1653
+    "stargazers_count": 21899,
+    "open_issues_count": 153,
+    "forks_count": 1659
   },
   {
     "full_name": "unclecode/crawl4ai",
-    "stargazers_count": 30164,
-    "open_issues_count": 44,
-    "forks_count": 2434
+    "stargazers_count": 30661,
+    "open_issues_count": 66,
+    "forks_count": 2505
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 29148,
-    "open_issues_count": 363,
-    "forks_count": 2723
+    "stargazers_count": 29752,
+    "open_issues_count": 390,
+    "forks_count": 2822
   },
   {
     "full_name": "agno-agi/agno",
-    "stargazers_count": 18863,
-    "open_issues_count": 75,
-    "forks_count": 2558
+    "stargazers_count": 18988,
+    "open_issues_count": 68,
+    "forks_count": 2575
   },
   {
     "full_name": "didip/tollbooth",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "olareg/olareg",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "CloudNativeAI/model-spec",
-    "stargazers_count": 26,
-    "open_issues_count": 5,
+    "stargazers_count": 27,
+    "open_issues_count": 3,
     "forks_count": 6
   }
 ]

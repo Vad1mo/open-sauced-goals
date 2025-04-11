@@ -1,9 +1,9 @@
 [
   {
     "full_name": "hatchet-dev/hatchet",
-    "stargazers_count": 5285,
-    "open_issues_count": 58,
-    "forks_count": 206
+    "stargazers_count": 5332,
+    "open_issues_count": 62,
+    "forks_count": 207
   },
   {
     "full_name": "globallogicuki/provider-harbor",
@@ -13,20 +13,20 @@
   },
   {
     "full_name": "k8gb-io/k8gb",
-    "stargazers_count": 986,
-    "open_issues_count": 81,
-    "forks_count": 104
+    "stargazers_count": 991,
+    "open_issues_count": 80,
+    "forks_count": 105
   },
   {
     "full_name": "docker/model-distribution",
     "stargazers_count": 6,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "usertour/usertour",
-    "stargazers_count": 1128,
-    "open_issues_count": 7,
+    "stargazers_count": 1132,
+    "open_issues_count": 8,
     "forks_count": 56
   },
   {
@@ -38,66 +38,66 @@
   {
     "full_name": "margo/specification",
     "stargazers_count": 33,
-    "open_issues_count": 28,
+    "open_issues_count": 29,
     "forks_count": 9
   },
   {
     "full_name": "wait4x/wait4x",
-    "stargazers_count": 571,
-    "open_issues_count": 9,
+    "stargazers_count": 575,
+    "open_issues_count": 10,
     "forks_count": 29
   },
   {
     "full_name": "mountain-loop/yaak",
-    "stargazers_count": 5716,
-    "open_issues_count": 14,
-    "forks_count": 178
+    "stargazers_count": 5748,
+    "open_issues_count": 15,
+    "forks_count": 180
   },
   {
     "full_name": "uscneps/Awesome-European-Tech",
-    "stargazers_count": 859,
+    "stargazers_count": 865,
     "open_issues_count": 21,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "asg017/sqlite-vec",
-    "stargazers_count": 5397,
+    "stargazers_count": 5408,
     "open_issues_count": 128,
-    "forks_count": 203
+    "forks_count": 204
   },
   {
     "full_name": "superglue-ai/superglue",
-    "stargazers_count": 1662,
-    "open_issues_count": 6,
+    "stargazers_count": 1674,
+    "open_issues_count": 7,
     "forks_count": 74
   },
   {
     "full_name": "micro/go-micro",
-    "stargazers_count": 22215,
-    "open_issues_count": 15,
+    "stargazers_count": 22212,
+    "open_issues_count": 14,
     "forks_count": 2367
   },
   {
     "full_name": "dagger/agents",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "open_issues_count": 5,
     "forks_count": 30
   },
   {
     "full_name": "containers/ramalama",
-    "stargazers_count": 1500,
-    "open_issues_count": 63,
-    "forks_count": 149
+    "stargazers_count": 1510,
+    "open_issues_count": 70,
+    "forks_count": 152
   },
   {
     "full_name": "jonesbusy/maven-oci-extension",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "viccon/sturdyc",
-    "stargazers_count": 1185,
+    "stargazers_count": 1187,
     "open_issues_count": 3,
     "forks_count": 30
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "kubernetes-sigs/ingate",
-    "stargazers_count": 372,
-    "open_issues_count": 5,
+    "stargazers_count": 381,
+    "open_issues_count": 75,
     "forks_count": 9
   },
   {
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "glasskube/distr",
-    "stargazers_count": 492,
-    "open_issues_count": 5,
+    "stargazers_count": 507,
+    "open_issues_count": 10,
     "forks_count": 17
   },
   {
     "full_name": "dagu-org/dagu",
-    "stargazers_count": 1939,
+    "stargazers_count": 1946,
     "open_issues_count": 88,
     "forks_count": 167
   },
   {
     "full_name": "SlimPlanet/SlimFaas",
-    "stargazers_count": 260,
-    "open_issues_count": 12,
-    "forks_count": 12
+    "stargazers_count": 267,
+    "open_issues_count": 13,
+    "forks_count": 13
   },
   {
     "full_name": "swade1987/flux2-sops-template",
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "google/osv.dev",
-    "stargazers_count": 1797,
-    "open_issues_count": 143,
-    "forks_count": 197
+    "stargazers_count": 1803,
+    "open_issues_count": 148,
+    "forks_count": 200
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 44502,
-    "open_issues_count": 197,
-    "forks_count": 2118
+    "stargazers_count": 47787,
+    "open_issues_count": 209,
+    "forks_count": 2251
   },
   {
     "full_name": "postgresml/pgcat",
-    "stargazers_count": 3401,
+    "stargazers_count": 3407,
     "open_issues_count": 189,
     "forks_count": 220
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "containrrr/shoutrrr",
-    "stargazers_count": 1191,
+    "stargazers_count": 1194,
     "open_issues_count": 78,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "alexpasmantier/television",
-    "stargazers_count": 2616,
+    "stargazers_count": 2623,
     "open_issues_count": 29,
-    "forks_count": 49
+    "forks_count": 50
   }
 ]

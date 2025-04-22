@@ -1,15 +1,15 @@
 [
   {
     "full_name": "gimlet-io/capacitor",
-    "stargazers_count": 751,
+    "stargazers_count": 754,
     "open_issues_count": 36,
     "forks_count": 29
   },
   {
     "full_name": "hatchet-dev/hatchet",
-    "stargazers_count": 5435,
+    "stargazers_count": 5464,
     "open_issues_count": 60,
-    "forks_count": 209
+    "forks_count": 210
   },
   {
     "full_name": "globallogicuki/provider-harbor",
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "k8gb-io/k8gb",
-    "stargazers_count": 1004,
-    "open_issues_count": 81,
-    "forks_count": 107
+    "stargazers_count": 1007,
+    "open_issues_count": 80,
+    "forks_count": 106
   },
   {
     "full_name": "docker/model-distribution",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "usertour/usertour",
-    "stargazers_count": 1144,
-    "open_issues_count": 8,
-    "forks_count": 56
+    "stargazers_count": 1153,
+    "open_issues_count": 7,
+    "forks_count": 57
   },
   {
     "full_name": "container-registry/harbor-next",
@@ -43,57 +43,57 @@
   },
   {
     "full_name": "margo/specification",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 29,
     "forks_count": 9
   },
   {
     "full_name": "wait4x/wait4x",
-    "stargazers_count": 581,
+    "stargazers_count": 591,
     "open_issues_count": 12,
     "forks_count": 29
   },
   {
     "full_name": "mountain-loop/yaak",
-    "stargazers_count": 5816,
+    "stargazers_count": 5829,
     "open_issues_count": 9,
-    "forks_count": 183
+    "forks_count": 185
   },
   {
     "full_name": "uscneps/Awesome-European-Tech",
-    "stargazers_count": 1038,
-    "open_issues_count": 25,
+    "stargazers_count": 1069,
+    "open_issues_count": 22,
     "forks_count": 71
   },
   {
     "full_name": "asg017/sqlite-vec",
-    "stargazers_count": 5452,
-    "open_issues_count": 127,
-    "forks_count": 205
+    "stargazers_count": 5473,
+    "open_issues_count": 128,
+    "forks_count": 206
   },
   {
     "full_name": "superglue-ai/superglue",
-    "stargazers_count": 1691,
+    "stargazers_count": 1695,
     "open_issues_count": 6,
     "forks_count": 74
   },
   {
     "full_name": "micro/go-micro",
-    "stargazers_count": 22226,
-    "open_issues_count": 14,
-    "forks_count": 2367
+    "stargazers_count": 22238,
+    "open_issues_count": 15,
+    "forks_count": 2365
   },
   {
     "full_name": "dagger/agents",
     "stargazers_count": 140,
     "open_issues_count": 5,
-    "forks_count": 30
+    "forks_count": 29
   },
   {
     "full_name": "containers/ramalama",
-    "stargazers_count": 1537,
+    "stargazers_count": 1543,
     "open_issues_count": 70,
-    "forks_count": 160
+    "forks_count": 163
   },
   {
     "full_name": "jonesbusy/maven-oci-extension",
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "viccon/sturdyc",
-    "stargazers_count": 1188,
+    "stargazers_count": 1189,
     "open_issues_count": 3,
     "forks_count": 29
   },
   {
     "full_name": "cloudcoil/cloudcoil",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 15,
     "forks_count": 5
   },
   {
     "full_name": "kubernetes-sigs/ingate",
-    "stargazers_count": 399,
+    "stargazers_count": 401,
     "open_issues_count": 73,
     "forks_count": 11
   },
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "glasskube/distr",
-    "stargazers_count": 513,
-    "open_issues_count": 7,
-    "forks_count": 18
+    "stargazers_count": 514,
+    "open_issues_count": 13,
+    "forks_count": 19
   },
   {
     "full_name": "dagu-org/dagu",
     "stargazers_count": 1956,
-    "open_issues_count": 90,
+    "open_issues_count": 89,
     "forks_count": 167
   },
   {
     "full_name": "SlimPlanet/SlimFaas",
-    "stargazers_count": 311,
+    "stargazers_count": 318,
     "open_issues_count": 12,
     "forks_count": 13
   },
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "google/osv.dev",
-    "stargazers_count": 1820,
-    "open_issues_count": 150,
-    "forks_count": 200
+    "stargazers_count": 1823,
+    "open_issues_count": 147,
+    "forks_count": 201
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 49209,
-    "open_issues_count": 211,
-    "forks_count": 2371
+    "stargazers_count": 51476,
+    "open_issues_count": 218,
+    "forks_count": 2512
   },
   {
     "full_name": "postgresml/pgcat",
-    "stargazers_count": 3423,
+    "stargazers_count": 3428,
     "open_issues_count": 189,
-    "forks_count": 222
+    "forks_count": 221
   },
   {
     "full_name": "atgreen/green-orb",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "containrrr/shoutrrr",
-    "stargazers_count": 1200,
+    "stargazers_count": 1205,
     "open_issues_count": 78,
-    "forks_count": 73
+    "forks_count": 74
   }
 ]

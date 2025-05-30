@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "zenangst/KeyboardCowboy",
+    "stargazers_count": 1155,
+    "open_issues_count": 29,
+    "forks_count": 19
+  },
+  {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 56242,
-    "open_issues_count": 301,
-    "forks_count": 6319
+    "stargazers_count": 56828,
+    "open_issues_count": 321,
+    "forks_count": 6385
   },
   {
     "full_name": "project-machine/oci-viewer",
@@ -15,29 +21,29 @@
     "full_name": "webriots/rate",
     "stargazers_count": 135,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "AliRizaAynaci/gorl",
-    "stargazers_count": 72,
+    "stargazers_count": 80,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "NilsIrl/dockerc",
-    "stargazers_count": 4578,
+    "stargazers_count": 4584,
     "open_issues_count": 26,
     "forks_count": 93
   },
   {
     "full_name": "lmnr-ai/index",
-    "stargazers_count": 2190,
+    "stargazers_count": 2204,
     "open_issues_count": 6,
     "forks_count": 106
   },
   {
     "full_name": "imacrayon/alpine-ajax",
-    "stargazers_count": 838,
+    "stargazers_count": 859,
     "open_issues_count": 13,
     "forks_count": 19
   },
@@ -50,7 +56,7 @@
   {
     "full_name": "launchrctl/launchr",
     "stargazers_count": 13,
-    "open_issues_count": 16,
+    "open_issues_count": 21,
     "forks_count": 3
   },
   {
@@ -61,21 +67,21 @@
   },
   {
     "full_name": "pgdogdev/pgdog",
-    "stargazers_count": 1778,
-    "open_issues_count": 29,
-    "forks_count": 46
+    "stargazers_count": 2090,
+    "open_issues_count": 33,
+    "forks_count": 52
   },
   {
     "full_name": "gimlet-io/capacitor",
-    "stargazers_count": 783,
+    "stargazers_count": 785,
     "open_issues_count": 35,
     "forks_count": 29
   },
   {
     "full_name": "hatchet-dev/hatchet",
-    "stargazers_count": 5597,
-    "open_issues_count": 64,
-    "forks_count": 220
+    "stargazers_count": 5605,
+    "open_issues_count": 67,
+    "forks_count": 221
   },
   {
     "full_name": "globallogicuki/provider-harbor",
@@ -85,21 +91,21 @@
   },
   {
     "full_name": "k8gb-io/k8gb",
-    "stargazers_count": 1025,
-    "open_issues_count": 90,
-    "forks_count": 110
+    "stargazers_count": 1028,
+    "open_issues_count": 91,
+    "forks_count": 111
   },
   {
     "full_name": "docker/model-distribution",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 5,
     "forks_count": 3
   },
   {
     "full_name": "usertour/usertour",
-    "stargazers_count": 1229,
-    "open_issues_count": 10,
-    "forks_count": 61
+    "stargazers_count": 1275,
+    "open_issues_count": 9,
+    "forks_count": 62
   },
   {
     "full_name": "container-registry/harbor-next",
@@ -109,45 +115,45 @@
   },
   {
     "full_name": "margo/specification",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 46,
     "forks_count": 9
   },
   {
     "full_name": "wait4x/wait4x",
     "stargazers_count": 609,
-    "open_issues_count": 13,
+    "open_issues_count": 10,
     "forks_count": 30
   },
   {
     "full_name": "mountain-loop/yaak",
-    "stargazers_count": 6543,
+    "stargazers_count": 6592,
     "open_issues_count": 7,
-    "forks_count": 213
+    "forks_count": 216
   },
   {
-    "full_name": "uscneps/Awesome-European-Tech",
-    "stargazers_count": 1111,
+    "full_name": "uscne/Awesome-European-Tech",
+    "stargazers_count": 1115,
     "open_issues_count": 24,
     "forks_count": 76
   },
   {
     "full_name": "asg017/sqlite-vec",
-    "stargazers_count": 5652,
+    "stargazers_count": 5674,
     "open_issues_count": 134,
-    "forks_count": 210
+    "forks_count": 211
   },
   {
     "full_name": "superglue-ai/superglue",
-    "stargazers_count": 1770,
-    "open_issues_count": 12,
-    "forks_count": 79
+    "stargazers_count": 1771,
+    "open_issues_count": 10,
+    "forks_count": 80
   },
   {
     "full_name": "micro/go-micro",
-    "stargazers_count": 22298,
-    "open_issues_count": 17,
-    "forks_count": 2363
+    "stargazers_count": 22310,
+    "open_issues_count": 19,
+    "forks_count": 2365
   },
   {
     "full_name": "dagger/agents",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "containers/ramalama",
-    "stargazers_count": 1665,
+    "stargazers_count": 1685,
     "open_issues_count": 79,
-    "forks_count": 191
+    "forks_count": 195
   },
   {
     "full_name": "jonesbusy/maven-oci-extension",
@@ -172,11 +178,5 @@
     "stargazers_count": 1205,
     "open_issues_count": 6,
     "forks_count": 31
-  },
-  {
-    "full_name": "cloudcoil/cloudcoil",
-    "stargazers_count": 62,
-    "open_issues_count": 16,
-    "forks_count": 5
   }
 ]

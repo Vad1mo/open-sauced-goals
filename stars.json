@@ -1,33 +1,33 @@
 [
   {
     "full_name": "freelensapp/freelens",
-    "stargazers_count": 1927,
-    "open_issues_count": 100,
-    "forks_count": 58
+    "stargazers_count": 1963,
+    "open_issues_count": 103,
+    "forks_count": 59
   },
   {
     "full_name": "taishikato/chatsage",
-    "stargazers_count": 239,
+    "stargazers_count": 240,
     "open_issues_count": 1,
     "forks_count": 23
   },
   {
     "full_name": "LiveHelperChat/livehelperchat",
-    "stargazers_count": 2069,
+    "stargazers_count": 2070,
     "open_issues_count": 135,
-    "forks_count": 709
+    "forks_count": 711
   },
   {
     "full_name": "OvidijusParsiunas/deep-chat",
-    "stargazers_count": 2387,
-    "open_issues_count": 27,
-    "forks_count": 325
+    "stargazers_count": 2403,
+    "open_issues_count": 28,
+    "forks_count": 326
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 28109,
-    "open_issues_count": 190,
-    "forks_count": 3232
+    "stargazers_count": 28144,
+    "open_issues_count": 189,
+    "forks_count": 3245
   },
   {
     "full_name": "fraunhofer-iem/spha",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "zenangst/KeyboardCowboy",
-    "stargazers_count": 1229,
+    "stargazers_count": 1260,
     "open_issues_count": 29,
-    "forks_count": 19
+    "forks_count": 18
   },
   {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 57143,
-    "open_issues_count": 333,
-    "forks_count": 6458
+    "stargazers_count": 57449,
+    "open_issues_count": 340,
+    "forks_count": 6514
   },
   {
     "full_name": "project-machine/oci-viewer",
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "NilsIrl/dockerc",
-    "stargazers_count": 4592,
+    "stargazers_count": 4594,
     "open_issues_count": 26,
     "forks_count": 93
   },
   {
     "full_name": "lmnr-ai/index",
-    "stargazers_count": 2245,
+    "stargazers_count": 2256,
     "open_issues_count": 6,
-    "forks_count": 114
+    "forks_count": 116
   },
   {
     "full_name": "imacrayon/alpine-ajax",
-    "stargazers_count": 871,
+    "stargazers_count": 875,
     "open_issues_count": 13,
     "forks_count": 19
   },
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "runabol/tork",
-    "stargazers_count": 694,
+    "stargazers_count": 695,
     "open_issues_count": 12,
     "forks_count": 44
   },
   {
     "full_name": "pgdogdev/pgdog",
-    "stargazers_count": 2165,
+    "stargazers_count": 2219,
     "open_issues_count": 32,
-    "forks_count": 53
+    "forks_count": 55
   },
   {
     "full_name": "gimlet-io/capacitor",
-    "stargazers_count": 789,
+    "stargazers_count": 793,
     "open_issues_count": 35,
     "forks_count": 29
   },
   {
     "full_name": "hatchet-dev/hatchet",
-    "stargazers_count": 5614,
-    "open_issues_count": 65,
-    "forks_count": 221
+    "stargazers_count": 5630,
+    "open_issues_count": 79,
+    "forks_count": 222
   },
   {
     "full_name": "globallogicuki/provider-harbor",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "k8gb-io/k8gb",
-    "stargazers_count": 1028,
+    "stargazers_count": 1030,
     "open_issues_count": 91,
     "forks_count": 111
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "usertour/usertour",
-    "stargazers_count": 1321,
+    "stargazers_count": 1341,
     "open_issues_count": 9,
-    "forks_count": 65
+    "forks_count": 68
   },
   {
     "full_name": "container-registry/harbor-next",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "margo/specification",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 46,
     "forks_count": 9
   },
   {
     "full_name": "wait4x/wait4x",
-    "stargazers_count": 610,
-    "open_issues_count": 12,
+    "stargazers_count": 611,
+    "open_issues_count": 11,
     "forks_count": 30
   },
   {
     "full_name": "mountain-loop/yaak",
-    "stargazers_count": 6630,
-    "open_issues_count": 8,
-    "forks_count": 216
+    "stargazers_count": 6674,
+    "open_issues_count": 7,
+    "forks_count": 217
   },
   {
     "full_name": "uscne/Awesome-European-Tech",
-    "stargazers_count": 1116,
-    "open_issues_count": 24,
-    "forks_count": 76
+    "stargazers_count": 1117,
+    "open_issues_count": 25,
+    "forks_count": 78
   },
   {
     "full_name": "asg017/sqlite-vec",
-    "stargazers_count": 5691,
-    "open_issues_count": 134,
+    "stargazers_count": 5702,
+    "open_issues_count": 135,
     "forks_count": 212
   }
 ]

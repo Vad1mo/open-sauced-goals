@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "langgenius/dify",
+    "stargazers_count": 105216,
+    "open_issues_count": 804,
+    "forks_count": 15877
+  },
+  {
     "full_name": "goharbor/homebrew-tap",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -7,27 +13,27 @@
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15380,
+    "stargazers_count": 15382,
     "open_issues_count": 21,
     "forks_count": 1136
   },
   {
     "full_name": "hemanth/paws-on-mcp",
-    "stargazers_count": 323,
+    "stargazers_count": 325,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "benavlabs/crudadmin",
-    "stargazers_count": 314,
+    "stargazers_count": 318,
     "open_issues_count": 1,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "freelensapp/freelens",
-    "stargazers_count": 2162,
-    "open_issues_count": 111,
-    "forks_count": 66
+    "stargazers_count": 2257,
+    "open_issues_count": 118,
+    "forks_count": 68
   },
   {
     "full_name": "taishikato/chatsage",
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "LiveHelperChat/livehelperchat",
-    "stargazers_count": 2080,
-    "open_issues_count": 137,
+    "stargazers_count": 2082,
+    "open_issues_count": 138,
     "forks_count": 714
   },
   {
     "full_name": "OvidijusParsiunas/deep-chat",
-    "stargazers_count": 2452,
+    "stargazers_count": 2456,
     "open_issues_count": 32,
-    "forks_count": 335
+    "forks_count": 337
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 29124,
-    "open_issues_count": 202,
-    "forks_count": 3409
+    "stargazers_count": 32280,
+    "open_issues_count": 237,
+    "forks_count": 3586
   },
   {
     "full_name": "fraunhofer-iem/spha",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "zenangst/KeyboardCowboy",
-    "stargazers_count": 1294,
-    "open_issues_count": 30,
+    "stargazers_count": 1313,
+    "open_issues_count": 29,
     "forks_count": 19
   },
   {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 59284,
-    "open_issues_count": 393,
-    "forks_count": 6874
+    "stargazers_count": 59591,
+    "open_issues_count": 387,
+    "forks_count": 6939
   },
   {
     "full_name": "project-machine/oci-viewer",
@@ -91,19 +97,19 @@
   },
   {
     "full_name": "NilsIrl/dockerc",
-    "stargazers_count": 4626,
+    "stargazers_count": 4630,
     "open_issues_count": 26,
     "forks_count": 95
   },
   {
     "full_name": "lmnr-ai/index",
-    "stargazers_count": 2284,
+    "stargazers_count": 2286,
     "open_issues_count": 6,
-    "forks_count": 121
+    "forks_count": 120
   },
   {
     "full_name": "imacrayon/alpine-ajax",
-    "stargazers_count": 899,
+    "stargazers_count": 902,
     "open_issues_count": 15,
     "forks_count": 20
   },
@@ -116,7 +122,7 @@
   {
     "full_name": "launchrctl/launchr",
     "stargazers_count": 13,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 4
   },
   {
@@ -127,21 +133,21 @@
   },
   {
     "full_name": "pgdogdev/pgdog",
-    "stargazers_count": 2382,
-    "open_issues_count": 39,
-    "forks_count": 62
+    "stargazers_count": 2393,
+    "open_issues_count": 40,
+    "forks_count": 63
   },
   {
     "full_name": "gimlet-io/capacitor",
-    "stargazers_count": 807,
+    "stargazers_count": 808,
     "open_issues_count": 36,
     "forks_count": 30
   },
   {
     "full_name": "hatchet-dev/hatchet",
-    "stargazers_count": 5755,
-    "open_issues_count": 73,
-    "forks_count": 232
+    "stargazers_count": 5771,
+    "open_issues_count": 75,
+    "forks_count": 238
   },
   {
     "full_name": "globallogicuki/provider-harbor",
@@ -151,20 +157,20 @@
   },
   {
     "full_name": "k8gb-io/k8gb",
-    "stargazers_count": 1046,
-    "open_issues_count": 82,
+    "stargazers_count": 1050,
+    "open_issues_count": 86,
     "forks_count": 114
   },
   {
     "full_name": "docker/model-distribution",
     "stargazers_count": 15,
-    "open_issues_count": 6,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "usertour/usertour",
-    "stargazers_count": 1420,
-    "open_issues_count": 14,
+    "stargazers_count": 1426,
+    "open_issues_count": 15,
     "forks_count": 76
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 19,
     "forks_count": 4
-  },
-  {
-    "full_name": "margo/specification",
-    "stargazers_count": 39,
-    "open_issues_count": 48,
-    "forks_count": 9
   }
 ]

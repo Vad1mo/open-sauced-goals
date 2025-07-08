@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "sst/opencode",
+    "stargazers_count": 10259,
+    "open_issues_count": 328,
+    "forks_count": 561
+  },
+  {
+    "full_name": "edubart/nelua-lang",
+    "stargazers_count": 2241,
+    "open_issues_count": 22,
+    "forks_count": 73
+  },
+  {
     "full_name": "langgenius/dify",
-    "stargazers_count": 105651,
-    "open_issues_count": 776,
-    "forks_count": 15960
+    "stargazers_count": 106040,
+    "open_issues_count": 770,
+    "forks_count": 16036
   },
   {
     "full_name": "goharbor/homebrew-tap",
@@ -13,27 +25,27 @@
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15382,
+    "stargazers_count": 15384,
     "open_issues_count": 21,
     "forks_count": 1136
   },
   {
     "full_name": "hemanth/paws-on-mcp",
-    "stargazers_count": 325,
-    "open_issues_count": 0,
-    "forks_count": 17
+    "stargazers_count": 326,
+    "open_issues_count": 1,
+    "forks_count": 18
   },
   {
     "full_name": "benavlabs/crudadmin",
-    "stargazers_count": 326,
-    "open_issues_count": 2,
-    "forks_count": 14
+    "stargazers_count": 333,
+    "open_issues_count": 1,
+    "forks_count": 16
   },
   {
     "full_name": "freelensapp/freelens",
-    "stargazers_count": 2372,
-    "open_issues_count": 127,
-    "forks_count": 70
+    "stargazers_count": 2413,
+    "open_issues_count": 117,
+    "forks_count": 72
   },
   {
     "full_name": "taishikato/chatsage",
@@ -43,21 +55,21 @@
   },
   {
     "full_name": "LiveHelperChat/livehelperchat",
-    "stargazers_count": 2084,
-    "open_issues_count": 138,
-    "forks_count": 715
+    "stargazers_count": 2085,
+    "open_issues_count": 135,
+    "forks_count": 716
   },
   {
     "full_name": "OvidijusParsiunas/deep-chat",
-    "stargazers_count": 2466,
-    "open_issues_count": 31,
-    "forks_count": 337
+    "stargazers_count": 2473,
+    "open_issues_count": 22,
+    "forks_count": 340
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 33080,
+    "stargazers_count": 33435,
     "open_issues_count": 222,
-    "forks_count": 3652
+    "forks_count": 3701
   },
   {
     "full_name": "fraunhofer-iem/spha",
@@ -67,15 +79,15 @@
   },
   {
     "full_name": "zenangst/KeyboardCowboy",
-    "stargazers_count": 1320,
+    "stargazers_count": 1331,
     "open_issues_count": 30,
     "forks_count": 19
   },
   {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 59832,
-    "open_issues_count": 387,
-    "forks_count": 6992
+    "stargazers_count": 60044,
+    "open_issues_count": 394,
+    "forks_count": 7014
   },
   {
     "full_name": "project-machine/oci-viewer",
@@ -91,25 +103,25 @@
   },
   {
     "full_name": "AliRizaAynaci/gorl",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "NilsIrl/dockerc",
-    "stargazers_count": 4634,
+    "stargazers_count": 4638,
     "open_issues_count": 26,
     "forks_count": 95
   },
   {
     "full_name": "lmnr-ai/index",
-    "stargazers_count": 2292,
+    "stargazers_count": 2299,
     "open_issues_count": 6,
-    "forks_count": 120
+    "forks_count": 122
   },
   {
     "full_name": "imacrayon/alpine-ajax",
-    "stargazers_count": 905,
+    "stargazers_count": 908,
     "open_issues_count": 15,
     "forks_count": 21
   },
@@ -127,27 +139,27 @@
   },
   {
     "full_name": "runabol/tork",
-    "stargazers_count": 705,
+    "stargazers_count": 707,
     "open_issues_count": 11,
-    "forks_count": 46
+    "forks_count": 47
   },
   {
     "full_name": "pgdogdev/pgdog",
-    "stargazers_count": 2413,
-    "open_issues_count": 45,
-    "forks_count": 65
+    "stargazers_count": 2423,
+    "open_issues_count": 46,
+    "forks_count": 67
   },
   {
     "full_name": "gimlet-io/capacitor",
-    "stargazers_count": 810,
-    "open_issues_count": 36,
+    "stargazers_count": 814,
+    "open_issues_count": 17,
     "forks_count": 30
   },
   {
     "full_name": "hatchet-dev/hatchet",
-    "stargazers_count": 5783,
-    "open_issues_count": 78,
-    "forks_count": 240
+    "stargazers_count": 5796,
+    "open_issues_count": 80,
+    "forks_count": 243
   },
   {
     "full_name": "globallogicuki/provider-harbor",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "k8gb-io/k8gb",
-    "stargazers_count": 1052,
-    "open_issues_count": 89,
+    "stargazers_count": 1055,
+    "open_issues_count": 88,
     "forks_count": 115
   },
   {
     "full_name": "docker/model-distribution",
     "stargazers_count": 16,
-    "open_issues_count": 5,
-    "forks_count": 4
-  },
-  {
-    "full_name": "usertour/usertour",
-    "stargazers_count": 1430,
-    "open_issues_count": 16,
-    "forks_count": 77
-  },
-  {
-    "full_name": "container-registry/harbor-next",
-    "stargazers_count": 4,
-    "open_issues_count": 19,
+    "open_issues_count": 4,
     "forks_count": 4
   }
 ]

@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "tidwall/pogocache",
+    "stargazers_count": 913,
+    "open_issues_count": 7,
+    "forks_count": 19
+  },
+  {
+    "full_name": "k8sstormcenter/bobctl",
+    "stargazers_count": 5,
+    "open_issues_count": 13,
+    "forks_count": 1
+  },
+  {
     "full_name": "foks-proj/go-foks",
-    "stargazers_count": 311,
-    "open_issues_count": 32,
+    "stargazers_count": 319,
+    "open_issues_count": 31,
     "forks_count": 14
   },
   {
@@ -19,21 +31,21 @@
   },
   {
     "full_name": "sst/opencode",
-    "stargazers_count": 14153,
-    "open_issues_count": 458,
-    "forks_count": 830
+    "stargazers_count": 14752,
+    "open_issues_count": 505,
+    "forks_count": 884
   },
   {
     "full_name": "edubart/nelua-lang",
-    "stargazers_count": 2246,
+    "stargazers_count": 2248,
     "open_issues_count": 22,
     "forks_count": 73
   },
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 107869,
-    "open_issues_count": 756,
-    "forks_count": 16387
+    "stargazers_count": 108299,
+    "open_issues_count": 785,
+    "forks_count": 16465
   },
   {
     "full_name": "goharbor/homebrew-tap",
@@ -43,27 +55,27 @@
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15386,
+    "stargazers_count": 15387,
     "open_issues_count": 21,
     "forks_count": 1133
   },
   {
     "full_name": "hemanth/paws-on-mcp",
-    "stargazers_count": 331,
+    "stargazers_count": 333,
     "open_issues_count": 1,
     "forks_count": 18
   },
   {
     "full_name": "benavlabs/crudadmin",
-    "stargazers_count": 346,
+    "stargazers_count": 347,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "freelensapp/freelens",
-    "stargazers_count": 2646,
-    "open_issues_count": 119,
-    "forks_count": 80
+    "stargazers_count": 2678,
+    "open_issues_count": 125,
+    "forks_count": 81
   },
   {
     "full_name": "taishikato/chatsage",
@@ -73,21 +85,21 @@
   },
   {
     "full_name": "LiveHelperChat/livehelperchat",
-    "stargazers_count": 2093,
+    "stargazers_count": 2098,
     "open_issues_count": 134,
-    "forks_count": 716
+    "forks_count": 717
   },
   {
     "full_name": "OvidijusParsiunas/deep-chat",
-    "stargazers_count": 2512,
-    "open_issues_count": 24,
+    "stargazers_count": 2524,
+    "open_issues_count": 23,
     "forks_count": 343
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 34265,
-    "open_issues_count": 183,
-    "forks_count": 3845
+    "stargazers_count": 34420,
+    "open_issues_count": 193,
+    "forks_count": 3865
   },
   {
     "full_name": "fraunhofer-iem/spha",
@@ -97,15 +109,15 @@
   },
   {
     "full_name": "zenangst/KeyboardCowboy",
-    "stargazers_count": 1558,
+    "stargazers_count": 1580,
     "open_issues_count": 34,
-    "forks_count": 22
+    "forks_count": 24
   },
   {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 60887,
-    "open_issues_count": 402,
-    "forks_count": 7188
+    "stargazers_count": 61110,
+    "open_issues_count": 395,
+    "forks_count": 7213
   },
   {
     "full_name": "project-machine/oci-viewer",
@@ -127,7 +139,7 @@
   },
   {
     "full_name": "NilsIrl/dockerc",
-    "stargazers_count": 4771,
+    "stargazers_count": 4784,
     "open_issues_count": 26,
     "forks_count": 96
   },
@@ -135,11 +147,11 @@
     "full_name": "lmnr-ai/index",
     "stargazers_count": 2305,
     "open_issues_count": 6,
-    "forks_count": 123
+    "forks_count": 122
   },
   {
     "full_name": "imacrayon/alpine-ajax",
-    "stargazers_count": 923,
+    "stargazers_count": 925,
     "open_issues_count": 15,
     "forks_count": 21
   },
@@ -152,31 +164,19 @@
   {
     "full_name": "launchrctl/launchr",
     "stargazers_count": 13,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 4
   },
   {
     "full_name": "runabol/tork",
-    "stargazers_count": 714,
+    "stargazers_count": 716,
     "open_issues_count": 11,
     "forks_count": 47
   },
   {
     "full_name": "pgdogdev/pgdog",
-    "stargazers_count": 2465,
-    "open_issues_count": 55,
+    "stargazers_count": 2467,
+    "open_issues_count": 54,
     "forks_count": 69
-  },
-  {
-    "full_name": "gimlet-io/capacitor",
-    "stargazers_count": 834,
-    "open_issues_count": 13,
-    "forks_count": 31
-  },
-  {
-    "full_name": "hatchet-dev/hatchet",
-    "stargazers_count": 5843,
-    "open_issues_count": 85,
-    "forks_count": 246
   }
 ]

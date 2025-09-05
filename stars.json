@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "sharedvolume/shared-volume",
+    "stargazers_count": 14,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "tbottlik/Bexio-MCP-Server",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "kbwo/ccmanager",
-    "stargazers_count": 475,
+    "stargazers_count": 489,
     "open_issues_count": 5,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "tanaikech/ToolsForMCPServer",
@@ -19,14 +25,14 @@
   },
   {
     "full_name": "kingler/n8n_agent",
-    "stargazers_count": 149,
+    "stargazers_count": 153,
     "open_issues_count": 1,
     "forks_count": 25
   },
   {
     "full_name": "jkroepke/access-log-exporter",
-    "stargazers_count": 143,
-    "open_issues_count": 1,
+    "stargazers_count": 144,
+    "open_issues_count": 2,
     "forks_count": 6
   },
   {
@@ -38,7 +44,7 @@
   {
     "full_name": "McPringle/komunumo",
     "stargazers_count": 15,
-    "open_issues_count": 30,
+    "open_issues_count": 29,
     "forks_count": 14
   },
   {
@@ -50,25 +56,25 @@
   {
     "full_name": "container-registry/harbor-next",
     "stargazers_count": 5,
-    "open_issues_count": 21,
+    "open_issues_count": 19,
     "forks_count": 4
   },
   {
     "full_name": "tidwall/pogocache",
-    "stargazers_count": 1682,
-    "open_issues_count": 15,
-    "forks_count": 53
+    "stargazers_count": 1827,
+    "open_issues_count": 16,
+    "forks_count": 60
   },
   {
     "full_name": "k8sstormcenter/bobctl",
     "stargazers_count": 13,
-    "open_issues_count": 15,
+    "open_issues_count": 14,
     "forks_count": 1
   },
   {
     "full_name": "foks-proj/go-foks",
-    "stargazers_count": 343,
-    "open_issues_count": 37,
+    "stargazers_count": 344,
+    "open_issues_count": 36,
     "forks_count": 17
   },
   {
@@ -81,25 +87,25 @@
     "full_name": "arturoeanton/goscim",
     "stargazers_count": 21,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "sst/opencode",
-    "stargazers_count": 21766,
-    "open_issues_count": 839,
-    "forks_count": 1483
+    "stargazers_count": 22072,
+    "open_issues_count": 864,
+    "forks_count": 1510
   },
   {
     "full_name": "edubart/nelua-lang",
-    "stargazers_count": 2264,
-    "open_issues_count": 22,
-    "forks_count": 73
+    "stargazers_count": 2268,
+    "open_issues_count": 23,
+    "forks_count": 74
   },
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 112746,
-    "open_issues_count": 703,
-    "forks_count": 17236
+    "stargazers_count": 113107,
+    "open_issues_count": 737,
+    "forks_count": 17315
   },
   {
     "full_name": "goharbor/homebrew-tap",
@@ -115,21 +121,21 @@
   },
   {
     "full_name": "hemanth/paws-on-mcp",
-    "stargazers_count": 333,
+    "stargazers_count": 332,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "benavlabs/crudadmin",
-    "stargazers_count": 373,
+    "stargazers_count": 376,
     "open_issues_count": 4,
     "forks_count": 22
   },
   {
     "full_name": "freelensapp/freelens",
-    "stargazers_count": 2991,
-    "open_issues_count": 130,
-    "forks_count": 96
+    "stargazers_count": 3010,
+    "open_issues_count": 132,
+    "forks_count": 97
   },
   {
     "full_name": "taishikato/chatsage",
@@ -139,21 +145,21 @@
   },
   {
     "full_name": "LiveHelperChat/livehelperchat",
-    "stargazers_count": 2117,
+    "stargazers_count": 2119,
     "open_issues_count": 134,
     "forks_count": 721
   },
   {
     "full_name": "OvidijusParsiunas/deep-chat",
-    "stargazers_count": 2667,
-    "open_issues_count": 31,
-    "forks_count": 357
+    "stargazers_count": 2675,
+    "open_issues_count": 32,
+    "forks_count": 359
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 35227,
-    "open_issues_count": 242,
-    "forks_count": 4066
+    "stargazers_count": 35276,
+    "open_issues_count": 241,
+    "forks_count": 4084
   },
   {
     "full_name": "fraunhofer-iem/spha",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "zenangst/KeyboardCowboy",
-    "stargazers_count": 1863,
+    "stargazers_count": 1867,
     "open_issues_count": 37,
     "forks_count": 32
   },
   {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 63029,
+    "stargazers_count": 63186,
     "open_issues_count": 495,
-    "forks_count": 7533
-  },
-  {
-    "full_name": "project-machine/oci-viewer",
-    "stargazers_count": 19,
-    "open_issues_count": 3,
-    "forks_count": 2
+    "forks_count": 7558
   }
 ]

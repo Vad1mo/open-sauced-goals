@@ -1,14 +1,26 @@
 [
   {
+    "full_name": "danny-avila/LibreChat",
+    "stargazers_count": 30007,
+    "open_issues_count": 274,
+    "forks_count": 5703
+  },
+  {
+    "full_name": "sequinstream/sequin",
+    "stargazers_count": 1601,
+    "open_issues_count": 63,
+    "forks_count": 83
+  },
+  {
     "full_name": "willibrandon/mtlog",
-    "stargazers_count": 49,
+    "stargazers_count": 59,
     "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "sharedvolume/shared-volume",
-    "stargazers_count": 39,
-    "open_issues_count": 1,
+    "stargazers_count": 56,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -19,19 +31,19 @@
   },
   {
     "full_name": "kbwo/ccmanager",
-    "stargazers_count": 507,
+    "stargazers_count": 522,
     "open_issues_count": 6,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "tanaikech/ToolsForMCPServer",
-    "stargazers_count": 54,
+    "stargazers_count": 57,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "kingler/n8n_agent",
-    "stargazers_count": 161,
+    "stargazers_count": 163,
     "open_issues_count": 1,
     "forks_count": 25
   },
@@ -61,15 +73,15 @@
   },
   {
     "full_name": "container-registry/harbor-next",
-    "stargazers_count": 5,
-    "open_issues_count": 19,
+    "stargazers_count": 6,
+    "open_issues_count": 20,
     "forks_count": 5
   },
   {
     "full_name": "tidwall/pogocache",
-    "stargazers_count": 1967,
+    "stargazers_count": 2002,
     "open_issues_count": 16,
-    "forks_count": 64
+    "forks_count": 67
   },
   {
     "full_name": "k8sstormcenter/bobctl",
@@ -79,7 +91,7 @@
   },
   {
     "full_name": "foks-proj/go-foks",
-    "stargazers_count": 345,
+    "stargazers_count": 346,
     "open_issues_count": 33,
     "forks_count": 17
   },
@@ -91,27 +103,27 @@
   },
   {
     "full_name": "arturoeanton/goscim",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "sst/opencode",
-    "stargazers_count": 22823,
-    "open_issues_count": 910,
-    "forks_count": 1578
+    "stargazers_count": 23472,
+    "open_issues_count": 921,
+    "forks_count": 1626
   },
   {
     "full_name": "edubart/nelua-lang",
-    "stargazers_count": 2271,
+    "stargazers_count": 2273,
     "open_issues_count": 23,
     "forks_count": 74
   },
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 113766,
-    "open_issues_count": 627,
-    "forks_count": 17442
+    "stargazers_count": 114052,
+    "open_issues_count": 572,
+    "forks_count": 17510
   },
   {
     "full_name": "goharbor/homebrew-tap",
@@ -121,7 +133,7 @@
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15403,
+    "stargazers_count": 15401,
     "open_issues_count": 21,
     "forks_count": 1135
   },
@@ -133,15 +145,15 @@
   },
   {
     "full_name": "benavlabs/crudadmin",
-    "stargazers_count": 377,
+    "stargazers_count": 380,
     "open_issues_count": 4,
-    "forks_count": 22
+    "forks_count": 21
   },
   {
     "full_name": "freelensapp/freelens",
-    "stargazers_count": 3049,
-    "open_issues_count": 137,
-    "forks_count": 99
+    "stargazers_count": 3307,
+    "open_issues_count": 140,
+    "forks_count": 111
   },
   {
     "full_name": "taishikato/chatsage",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "LiveHelperChat/livehelperchat",
-    "stargazers_count": 2123,
+    "stargazers_count": 2125,
     "open_issues_count": 134,
-    "forks_count": 723
+    "forks_count": 724
   },
   {
     "full_name": "OvidijusParsiunas/deep-chat",
-    "stargazers_count": 2690,
-    "open_issues_count": 34,
-    "forks_count": 361
+    "stargazers_count": 2701,
+    "open_issues_count": 35,
+    "forks_count": 362
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 35382,
-    "open_issues_count": 243,
-    "forks_count": 4128
-  },
-  {
-    "full_name": "fraunhofer-iem/spha",
-    "stargazers_count": 7,
-    "open_issues_count": 6,
-    "forks_count": 2
-  },
-  {
-    "full_name": "zenangst/KeyboardCowboy",
-    "stargazers_count": 1877,
-    "open_issues_count": 37,
-    "forks_count": 32
+    "stargazers_count": 35450,
+    "open_issues_count": 239,
+    "forks_count": 4139
   }
 ]

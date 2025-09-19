@@ -1,25 +1,37 @@
 [
   {
+    "full_name": "harlan-zw/mdream",
+    "stargazers_count": 390,
+    "open_issues_count": 1,
+    "forks_count": 24
+  },
+  {
+    "full_name": "HarborGuard/HarborGuard",
+    "stargazers_count": 399,
+    "open_issues_count": 16,
+    "forks_count": 12
+  },
+  {
     "full_name": "danny-avila/LibreChat",
-    "stargazers_count": 30007,
-    "open_issues_count": 274,
-    "forks_count": 5703
+    "stargazers_count": 30085,
+    "open_issues_count": 276,
+    "forks_count": 5728
   },
   {
     "full_name": "sequinstream/sequin",
-    "stargazers_count": 1601,
+    "stargazers_count": 1605,
     "open_issues_count": 63,
     "forks_count": 83
   },
   {
     "full_name": "willibrandon/mtlog",
-    "stargazers_count": 59,
+    "stargazers_count": 65,
     "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "sharedvolume/shared-volume",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -31,26 +43,26 @@
   },
   {
     "full_name": "kbwo/ccmanager",
-    "stargazers_count": 522,
-    "open_issues_count": 6,
+    "stargazers_count": 528,
+    "open_issues_count": 5,
     "forks_count": 43
   },
   {
     "full_name": "tanaikech/ToolsForMCPServer",
-    "stargazers_count": 57,
+    "stargazers_count": 59,
     "open_issues_count": 0,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "kingler/n8n_agent",
-    "stargazers_count": 163,
+    "stargazers_count": 166,
     "open_issues_count": 1,
     "forks_count": 25
   },
   {
     "full_name": "jkroepke/access-log-exporter",
-    "stargazers_count": 147,
-    "open_issues_count": 1,
+    "stargazers_count": 148,
+    "open_issues_count": 2,
     "forks_count": 6
   },
   {
@@ -79,13 +91,13 @@
   },
   {
     "full_name": "tidwall/pogocache",
-    "stargazers_count": 2002,
+    "stargazers_count": 2019,
     "open_issues_count": 16,
     "forks_count": 67
   },
   {
     "full_name": "k8sstormcenter/bobctl",
-    "stargazers_count": 14,
+    "stargazers_count": 18,
     "open_issues_count": 16,
     "forks_count": 1
   },
@@ -103,27 +115,27 @@
   },
   {
     "full_name": "arturoeanton/goscim",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "sst/opencode",
-    "stargazers_count": 23472,
-    "open_issues_count": 921,
-    "forks_count": 1626
+    "stargazers_count": 24291,
+    "open_issues_count": 933,
+    "forks_count": 1707
   },
   {
     "full_name": "edubart/nelua-lang",
-    "stargazers_count": 2273,
+    "stargazers_count": 2274,
     "open_issues_count": 23,
     "forks_count": 74
   },
   {
     "full_name": "langgenius/dify",
-    "stargazers_count": 114052,
-    "open_issues_count": 572,
-    "forks_count": 17510
+    "stargazers_count": 114350,
+    "open_issues_count": 578,
+    "forks_count": 17567
   },
   {
     "full_name": "goharbor/homebrew-tap",
@@ -133,7 +145,7 @@
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15401,
+    "stargazers_count": 15404,
     "open_issues_count": 21,
     "forks_count": 1135
   },
@@ -145,14 +157,14 @@
   },
   {
     "full_name": "benavlabs/crudadmin",
-    "stargazers_count": 380,
+    "stargazers_count": 385,
     "open_issues_count": 4,
     "forks_count": 21
   },
   {
     "full_name": "freelensapp/freelens",
-    "stargazers_count": 3307,
-    "open_issues_count": 140,
+    "stargazers_count": 3384,
+    "open_issues_count": 147,
     "forks_count": 111
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "LiveHelperChat/livehelperchat",
-    "stargazers_count": 2125,
+    "stargazers_count": 2127,
     "open_issues_count": 134,
     "forks_count": 724
-  },
-  {
-    "full_name": "OvidijusParsiunas/deep-chat",
-    "stargazers_count": 2701,
-    "open_issues_count": 35,
-    "forks_count": 362
-  },
-  {
-    "full_name": "twentyhq/twenty",
-    "stargazers_count": 35450,
-    "open_issues_count": 239,
-    "forks_count": 4139
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
     "full_name": "uptrace/bun",
-    "stargazers_count": 4432,
-    "open_issues_count": 23,
+    "stargazers_count": 4438,
+    "open_issues_count": 25,
     "forks_count": 258
   },
   {
     "full_name": "go-jet/jet",
-    "stargazers_count": 3427,
+    "stargazers_count": 3435,
     "open_issues_count": 39,
     "forks_count": 163
   },
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "BeehiveInnovations/zen-mcp-server",
-    "stargazers_count": 9325,
-    "open_issues_count": 45,
-    "forks_count": 777
+    "stargazers_count": 9388,
+    "open_issues_count": 50,
+    "forks_count": 781
   },
   {
     "full_name": "reproducible-containers/diffoci",
-    "stargazers_count": 509,
+    "stargazers_count": 510,
     "open_issues_count": 12,
     "forks_count": 12
   },
@@ -45,41 +45,41 @@
     "full_name": "authorizerdev/authorizer",
     "stargazers_count": 1922,
     "open_issues_count": 89,
-    "forks_count": 203
+    "forks_count": 204
   },
   {
     "full_name": "s2-streamstore/cachey",
-    "stargazers_count": 514,
+    "stargazers_count": 515,
     "open_issues_count": 2,
     "forks_count": 11
   },
   {
     "full_name": "harlan-zw/mdream",
-    "stargazers_count": 667,
-    "open_issues_count": 8,
+    "stargazers_count": 672,
+    "open_issues_count": 7,
     "forks_count": 40
   },
   {
     "full_name": "HarborGuard/HarborGuard",
-    "stargazers_count": 514,
+    "stargazers_count": 515,
     "open_issues_count": 16,
     "forks_count": 17
   },
   {
     "full_name": "danny-avila/LibreChat",
-    "stargazers_count": 31080,
-    "open_issues_count": 340,
-    "forks_count": 6019
+    "stargazers_count": 31159,
+    "open_issues_count": 341,
+    "forks_count": 6044
   },
   {
     "full_name": "sequinstream/sequin",
-    "stargazers_count": 1725,
+    "stargazers_count": 1734,
     "open_issues_count": 45,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "willibrandon/mtlog",
-    "stargazers_count": 89,
+    "stargazers_count": 90,
     "open_issues_count": 4,
     "forks_count": 1
   },
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "kbwo/ccmanager",
-    "stargazers_count": 597,
+    "stargazers_count": 608,
     "open_issues_count": 7,
     "forks_count": 49
   },
   {
     "full_name": "tanaikech/ToolsForMCPServer",
-    "stargazers_count": 69,
+    "stargazers_count": 71,
     "open_issues_count": 0,
     "forks_count": 16
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "McPringle/komunumo",
-    "stargazers_count": 20,
-    "open_issues_count": 32,
-    "forks_count": 20
+    "stargazers_count": 22,
+    "open_issues_count": 34,
+    "forks_count": 22
   },
   {
     "full_name": "CommonPaper/SLA",
@@ -145,25 +145,25 @@
   },
   {
     "full_name": "pogocache/pogocache",
-    "stargazers_count": 2338,
+    "stargazers_count": 2355,
     "open_issues_count": 16,
-    "forks_count": 74
+    "forks_count": 75
   },
   {
     "full_name": "k8sstormcenter/bob",
     "stargazers_count": 42,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 1
   },
   {
     "full_name": "foks-proj/go-foks",
     "stargazers_count": 368,
-    "open_issues_count": 34,
+    "open_issues_count": 33,
     "forks_count": 21
   },
   {
     "full_name": "pipelight/pipelight",
-    "stargazers_count": 848,
+    "stargazers_count": 849,
     "open_issues_count": 12,
     "forks_count": 19
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "sst/opencode",
-    "stargazers_count": 29266,
-    "open_issues_count": 1173,
-    "forks_count": 2240
+    "stargazers_count": 29816,
+    "open_issues_count": 1200,
+    "forks_count": 2292
   }
 ]

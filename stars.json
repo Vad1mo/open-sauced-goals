@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "container-registry/harbor-on-openshift",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "go-wire/wire",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -19,25 +25,25 @@
   },
   {
     "full_name": "humanlayer/humanlayer",
-    "stargazers_count": 7742,
-    "open_issues_count": 86,
-    "forks_count": 637
+    "stargazers_count": 7923,
+    "open_issues_count": 87,
+    "forks_count": 654
   },
   {
     "full_name": "smallstep/autocert",
-    "stargazers_count": 770,
+    "stargazers_count": 771,
     "open_issues_count": 19,
     "forks_count": 65
   },
   {
     "full_name": "werf/nelm",
-    "stargazers_count": 911,
+    "stargazers_count": 923,
     "open_issues_count": 42,
     "forks_count": 23
   },
   {
     "full_name": "aliasvault/aliasvault",
-    "stargazers_count": 1760,
+    "stargazers_count": 1771,
     "open_issues_count": 80,
     "forks_count": 46
   },
@@ -49,13 +55,13 @@
   },
   {
     "full_name": "cased/kit",
-    "stargazers_count": 1181,
+    "stargazers_count": 1189,
     "open_issues_count": 16,
-    "forks_count": 70
+    "forks_count": 69
   },
   {
     "full_name": "tidwall/redcon",
-    "stargazers_count": 2283,
+    "stargazers_count": 2287,
     "open_issues_count": 14,
     "forks_count": 166
   },
@@ -67,51 +73,51 @@
   },
   {
     "full_name": "googleapis/genai-toolbox",
-    "stargazers_count": 11754,
-    "open_issues_count": 180,
-    "forks_count": 1040
+    "stargazers_count": 11781,
+    "open_issues_count": 187,
+    "forks_count": 1044
   },
   {
     "full_name": "olric-data/olric",
-    "stargazers_count": 3393,
+    "stargazers_count": 3394,
     "open_issues_count": 14,
     "forks_count": 135
   },
   {
     "full_name": "deepnoodle-ai/risor",
-    "stargazers_count": 851,
+    "stargazers_count": 854,
     "open_issues_count": 9,
     "forks_count": 37
   },
   {
     "full_name": "nalgeon/redka",
-    "stargazers_count": 4404,
+    "stargazers_count": 4412,
     "open_issues_count": 4,
     "forks_count": 130
   },
   {
     "full_name": "runmedev/runme",
-    "stargazers_count": 1754,
+    "stargazers_count": 1757,
     "open_issues_count": 134,
     "forks_count": 75
   },
   {
     "full_name": "boringSQL/regresql",
-    "stargazers_count": 301,
+    "stargazers_count": 305,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "yaml/yamlscript",
-    "stargazers_count": 581,
+    "stargazers_count": 584,
     "open_issues_count": 13,
     "forks_count": 57
   },
   {
     "full_name": "microsoft/amplifier",
-    "stargazers_count": 2678,
-    "open_issues_count": 7,
-    "forks_count": 210
+    "stargazers_count": 2691,
+    "open_issues_count": 9,
+    "forks_count": 211
   },
   {
     "full_name": "jackielii/structpages",
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "uptrace/bun",
-    "stargazers_count": 4515,
-    "open_issues_count": 34,
+    "stargazers_count": 4525,
+    "open_issues_count": 33,
     "forks_count": 261
   },
   {
     "full_name": "go-jet/jet",
-    "stargazers_count": 3488,
-    "open_issues_count": 42,
-    "forks_count": 167
+    "stargazers_count": 3490,
+    "open_issues_count": 44,
+    "forks_count": 169
   },
   {
     "full_name": "riptideslabs/tokenex",
@@ -139,13 +145,13 @@
   },
   {
     "full_name": "BeehiveInnovations/pal-mcp-server",
-    "stargazers_count": 10435,
-    "open_issues_count": 79,
-    "forks_count": 887
+    "stargazers_count": 10495,
+    "open_issues_count": 74,
+    "forks_count": 893
   },
   {
     "full_name": "reproducible-containers/diffoci",
-    "stargazers_count": 527,
+    "stargazers_count": 529,
     "open_issues_count": 17,
     "forks_count": 13
   },
@@ -158,25 +164,19 @@
   {
     "full_name": "clyso/chorus",
     "stargazers_count": 112,
-    "open_issues_count": 35,
+    "open_issues_count": 36,
     "forks_count": 15
   },
   {
     "full_name": "authorizerdev/authorizer",
-    "stargazers_count": 1934,
+    "stargazers_count": 1935,
     "open_issues_count": 90,
-    "forks_count": 204
+    "forks_count": 203
   },
   {
     "full_name": "s2-streamstore/cachey",
     "stargazers_count": 543,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 13
-  },
-  {
-    "full_name": "harlan-zw/mdream",
-    "stargazers_count": 685,
-    "open_issues_count": 12,
-    "forks_count": 43
   }
 ]

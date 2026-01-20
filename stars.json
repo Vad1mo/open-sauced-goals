@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "steveyegge/beads",
+    "stargazers_count": 11406,
+    "open_issues_count": 102,
+    "forks_count": 691
+  },
+  {
+    "full_name": "steveyegge/gastown",
+    "stargazers_count": 4728,
+    "open_issues_count": 280,
+    "forks_count": 401
+  },
+  {
     "full_name": "arcjet/arcjet-py",
-    "stargazers_count": 20,
+    "stargazers_count": 23,
     "open_issues_count": 4,
     "forks_count": 1
   },
   {
     "full_name": "goforj/wire",
-    "stargazers_count": 162,
+    "stargazers_count": 168,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "ruvnet/claude-flow",
-    "stargazers_count": 12031,
-    "open_issues_count": 338,
-    "forks_count": 1507
+    "stargazers_count": 12486,
+    "open_issues_count": 351,
+    "forks_count": 1532
   },
   {
     "full_name": "lazaronixon/css-zero",
@@ -49,27 +61,27 @@
   },
   {
     "full_name": "humanlayer/humanlayer",
-    "stargazers_count": 8625,
-    "open_issues_count": 63,
-    "forks_count": 722
+    "stargazers_count": 8746,
+    "open_issues_count": 65,
+    "forks_count": 730
   },
   {
     "full_name": "smallstep/autocert",
-    "stargazers_count": 774,
+    "stargazers_count": 776,
     "open_issues_count": 19,
     "forks_count": 65
   },
   {
     "full_name": "werf/nelm",
-    "stargazers_count": 950,
+    "stargazers_count": 1005,
     "open_issues_count": 45,
     "forks_count": 24
   },
   {
     "full_name": "aliasvault/aliasvault",
-    "stargazers_count": 1872,
-    "open_issues_count": 91,
-    "forks_count": 50
+    "stargazers_count": 1901,
+    "open_issues_count": 90,
+    "forks_count": 51
   },
   {
     "full_name": "stakater/application",
@@ -79,7 +91,7 @@
   },
   {
     "full_name": "cased/kit",
-    "stargazers_count": 1221,
+    "stargazers_count": 1236,
     "open_issues_count": 11,
     "forks_count": 73
   },
@@ -97,51 +109,51 @@
   },
   {
     "full_name": "googleapis/genai-toolbox",
-    "stargazers_count": 12424,
-    "open_issues_count": 153,
-    "forks_count": 1130
+    "stargazers_count": 12538,
+    "open_issues_count": 156,
+    "forks_count": 1138
   },
   {
     "full_name": "olric-data/olric",
-    "stargazers_count": 3399,
-    "open_issues_count": 14,
-    "forks_count": 137
+    "stargazers_count": 3402,
+    "open_issues_count": 16,
+    "forks_count": 138
   },
   {
     "full_name": "deepnoodle-ai/risor",
-    "stargazers_count": 856,
+    "stargazers_count": 857,
     "open_issues_count": 9,
     "forks_count": 37
   },
   {
     "full_name": "nalgeon/redka",
-    "stargazers_count": 4444,
+    "stargazers_count": 4447,
     "open_issues_count": 4,
     "forks_count": 131
   },
   {
     "full_name": "runmedev/runme",
-    "stargazers_count": 1899,
+    "stargazers_count": 1909,
     "open_issues_count": 144,
     "forks_count": 78
   },
   {
     "full_name": "boringSQL/regresql",
-    "stargazers_count": 317,
+    "stargazers_count": 319,
     "open_issues_count": 3,
     "forks_count": 9
   },
   {
     "full_name": "yaml/yamlscript",
-    "stargazers_count": 593,
+    "stargazers_count": 594,
     "open_issues_count": 13,
     "forks_count": 59
   },
   {
     "full_name": "microsoft/amplifier",
-    "stargazers_count": 2784,
-    "open_issues_count": 5,
-    "forks_count": 220
+    "stargazers_count": 2798,
+    "open_issues_count": 11,
+    "forks_count": 224
   },
   {
     "full_name": "jackielii/structpages",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "uptrace/bun",
-    "stargazers_count": 4615,
-    "open_issues_count": 37,
+    "stargazers_count": 4623,
+    "open_issues_count": 36,
     "forks_count": 264
   },
   {
     "full_name": "go-jet/jet",
-    "stargazers_count": 3533,
-    "open_issues_count": 49,
-    "forks_count": 171
+    "stargazers_count": 3539,
+    "open_issues_count": 50,
+    "forks_count": 172
   },
   {
     "full_name": "riptideslabs/tokenex",
     "stargazers_count": 65,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "BeehiveInnovations/pal-mcp-server",
-    "stargazers_count": 10846,
-    "open_issues_count": 94,
-    "forks_count": 922
-  },
-  {
-    "full_name": "reproducible-containers/diffoci",
-    "stargazers_count": 541,
-    "open_issues_count": 15,
-    "forks_count": 13
   }
 ]

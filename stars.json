@@ -1,49 +1,73 @@
 [
   {
+    "full_name": "Capnjbrown/c0ntextKeeper",
+    "stargazers_count": 46,
+    "open_issues_count": 11,
+    "forks_count": 6
+  },
+  {
+    "full_name": "yoanbernabeu/grepai",
+    "stargazers_count": 951,
+    "open_issues_count": 8,
+    "forks_count": 69
+  },
+  {
+    "full_name": "sters/diffnest",
+    "stargazers_count": 8,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "container-registry/harbor-next",
+    "stargazers_count": 3,
+    "open_issues_count": 10,
+    "forks_count": 0
+  },
+  {
     "full_name": "RohanAdwankar/oxdraw",
-    "stargazers_count": 2171,
+    "stargazers_count": 2174,
     "open_issues_count": 25,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "streamfold/rotel",
-    "stargazers_count": 321,
-    "open_issues_count": 20,
-    "forks_count": 19
+    "stargazers_count": 325,
+    "open_issues_count": 21,
+    "forks_count": 20
   },
   {
     "full_name": "steveyegge/beads",
-    "stargazers_count": 12127,
-    "open_issues_count": 118,
-    "forks_count": 729
+    "stargazers_count": 12986,
+    "open_issues_count": 152,
+    "forks_count": 782
   },
   {
     "full_name": "steveyegge/gastown",
-    "stargazers_count": 5403,
-    "open_issues_count": 248,
-    "forks_count": 451
+    "stargazers_count": 6185,
+    "open_issues_count": 295,
+    "forks_count": 520
   },
   {
     "full_name": "arcjet/arcjet-py",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "goforj/wire",
-    "stargazers_count": 171,
+    "stargazers_count": 176,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "ruvnet/claude-flow",
-    "stargazers_count": 12705,
-    "open_issues_count": 357,
-    "forks_count": 1547
+    "stargazers_count": 13021,
+    "open_issues_count": 374,
+    "forks_count": 1565
   },
   {
     "full_name": "lazaronixon/css-zero",
-    "stargazers_count": 833,
+    "stargazers_count": 834,
     "open_issues_count": 11,
     "forks_count": 27
   },
@@ -73,9 +97,9 @@
   },
   {
     "full_name": "humanlayer/humanlayer",
-    "stargazers_count": 8873,
-    "open_issues_count": 67,
-    "forks_count": 749
+    "stargazers_count": 8970,
+    "open_issues_count": 69,
+    "forks_count": 760
   },
   {
     "full_name": "smallstep/autocert",
@@ -85,27 +109,27 @@
   },
   {
     "full_name": "werf/nelm",
-    "stargazers_count": 1013,
-    "open_issues_count": 47,
+    "stargazers_count": 1019,
+    "open_issues_count": 45,
     "forks_count": 26
   },
   {
     "full_name": "aliasvault/aliasvault",
-    "stargazers_count": 1913,
-    "open_issues_count": 94,
+    "stargazers_count": 1926,
+    "open_issues_count": 95,
     "forks_count": 51
   },
   {
     "full_name": "stakater/application",
     "stargazers_count": 339,
-    "open_issues_count": 29,
+    "open_issues_count": 28,
     "forks_count": 119
   },
   {
     "full_name": "cased/kit",
-    "stargazers_count": 1237,
+    "stargazers_count": 1238,
     "open_issues_count": 11,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "tidwall/redcon",
@@ -121,9 +145,9 @@
   },
   {
     "full_name": "googleapis/genai-toolbox",
-    "stargazers_count": 12583,
-    "open_issues_count": 160,
-    "forks_count": 1145
+    "stargazers_count": 12622,
+    "open_issues_count": 156,
+    "forks_count": 1153
   },
   {
     "full_name": "olric-data/olric",
@@ -133,50 +157,26 @@
   },
   {
     "full_name": "deepnoodle-ai/risor",
-    "stargazers_count": 859,
+    "stargazers_count": 860,
     "open_issues_count": 9,
     "forks_count": 37
   },
   {
     "full_name": "nalgeon/redka",
-    "stargazers_count": 4446,
+    "stargazers_count": 4444,
     "open_issues_count": 4,
     "forks_count": 131
   },
   {
     "full_name": "runmedev/runme",
-    "stargazers_count": 1940,
-    "open_issues_count": 146,
-    "forks_count": 82
+    "stargazers_count": 1956,
+    "open_issues_count": 138,
+    "forks_count": 83
   },
   {
     "full_name": "boringSQL/regresql",
-    "stargazers_count": 320,
+    "stargazers_count": 323,
     "open_issues_count": 3,
     "forks_count": 9
-  },
-  {
-    "full_name": "yaml/yamlscript",
-    "stargazers_count": 594,
-    "open_issues_count": 13,
-    "forks_count": 60
-  },
-  {
-    "full_name": "microsoft/amplifier",
-    "stargazers_count": 2841,
-    "open_issues_count": 12,
-    "forks_count": 226
-  },
-  {
-    "full_name": "jackielii/structpages",
-    "stargazers_count": 10,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "uptrace/bun",
-    "stargazers_count": 4626,
-    "open_issues_count": 36,
-    "forks_count": 264
   }
 ]

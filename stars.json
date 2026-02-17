@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "lynaghk/vibe",
+    "stargazers_count": 719,
+    "open_issues_count": 3,
+    "forks_count": 31
+  },
+  {
     "full_name": "Dammyjay93/interface-design",
-    "stargazers_count": 3105,
-    "open_issues_count": 4,
-    "forks_count": 220
+    "stargazers_count": 3286,
+    "open_issues_count": 6,
+    "forks_count": 228
   },
   {
     "full_name": "Priivacy-ai/spec-kitty",
-    "stargazers_count": 684,
-    "open_issues_count": 16,
-    "forks_count": 51
+    "stargazers_count": 721,
+    "open_issues_count": 17,
+    "forks_count": 56
   },
   {
     "full_name": "mitchellh/vouch",
-    "stargazers_count": 2781,
-    "open_issues_count": 9,
-    "forks_count": 43
+    "stargazers_count": 3094,
+    "open_issues_count": 8,
+    "forks_count": 46
   },
   {
     "full_name": "xieyuschen/gopls-mcp",
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "container-registry/harbor-next",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 11,
     "forks_count": 2
   },
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "obra/superpowers",
-    "stargazers_count": 50575,
-    "open_issues_count": 119,
-    "forks_count": 3827
+    "stargazers_count": 52919,
+    "open_issues_count": 145,
+    "forks_count": 4016
   },
   {
     "full_name": "8gears/godebug-agentic",
@@ -49,39 +55,39 @@
   },
   {
     "full_name": "SuperClaude-Org/SuperClaude_Framework",
-    "stargazers_count": 20774,
-    "open_issues_count": 59,
-    "forks_count": 1770
+    "stargazers_count": 20829,
+    "open_issues_count": 60,
+    "forks_count": 1769
   },
   {
     "full_name": "dani-garcia/vaultwarden",
-    "stargazers_count": 54913,
-    "open_issues_count": 27,
-    "forks_count": 2546
+    "stargazers_count": 55088,
+    "open_issues_count": 31,
+    "forks_count": 2558
   },
   {
     "full_name": "NevaMind-AI/memU",
-    "stargazers_count": 9102,
-    "open_issues_count": 61,
-    "forks_count": 695
+    "stargazers_count": 9308,
+    "open_issues_count": 63,
+    "forks_count": 717
   },
   {
     "full_name": "openclaw/openclaw",
-    "stargazers_count": 189267,
-    "open_issues_count": 6282,
-    "forks_count": 32083
+    "stargazers_count": 201889,
+    "open_issues_count": 6751,
+    "forks_count": 36223
   },
   {
     "full_name": "gsd-build/get-shit-done",
-    "stargazers_count": 13499,
-    "open_issues_count": 245,
-    "forks_count": 1289
+    "stargazers_count": 14916,
+    "open_issues_count": 130,
+    "forks_count": 1392
   },
   {
     "full_name": "Use-Tusk/fence",
-    "stargazers_count": 524,
+    "stargazers_count": 535,
     "open_issues_count": 2,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "Capnjbrown/c0ntextKeeper",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "yoanbernabeu/grepai",
-    "stargazers_count": 1219,
-    "open_issues_count": 26,
-    "forks_count": 97
+    "stargazers_count": 1244,
+    "open_issues_count": 28,
+    "forks_count": 96
   },
   {
     "full_name": "sters/diffnest",
@@ -103,45 +109,45 @@
   },
   {
     "full_name": "RohanAdwankar/oxdraw",
-    "stargazers_count": 2198,
+    "stargazers_count": 2201,
     "open_issues_count": 26,
     "forks_count": 76
   },
   {
     "full_name": "streamfold/rotel",
-    "stargazers_count": 336,
-    "open_issues_count": 24,
+    "stargazers_count": 337,
+    "open_issues_count": 23,
     "forks_count": 22
   },
   {
     "full_name": "steveyegge/beads",
-    "stargazers_count": 16098,
-    "open_issues_count": 200,
-    "forks_count": 957
+    "stargazers_count": 16444,
+    "open_issues_count": 211,
+    "forks_count": 985
   },
   {
     "full_name": "steveyegge/gastown",
-    "stargazers_count": 9234,
-    "open_issues_count": 276,
-    "forks_count": 708
+    "stargazers_count": 9533,
+    "open_issues_count": 110,
+    "forks_count": 736
   },
   {
     "full_name": "arcjet/arcjet-py",
     "stargazers_count": 29,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "goforj/wire",
-    "stargazers_count": 187,
+    "stargazers_count": 189,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "ruvnet/claude-flow",
-    "stargazers_count": 14005,
-    "open_issues_count": 453,
-    "forks_count": 1665
+    "stargazers_count": 14115,
+    "open_issues_count": 472,
+    "forks_count": 1659
   },
   {
     "full_name": "lazaronixon/css-zero",
@@ -172,11 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "humanlayer/humanlayer",
-    "stargazers_count": 9290,
-    "open_issues_count": 76,
-    "forks_count": 790
   }
 ]

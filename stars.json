@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "luongnv89/claude-howto",
+    "stargazers_count": 21477,
+    "open_issues_count": 19,
+    "forks_count": 2542
+  },
+  {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 85735,
-    "open_issues_count": 227,
-    "forks_count": 9915
+    "stargazers_count": 86278,
+    "open_issues_count": 225,
+    "forks_count": 9984
   },
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 64407,
-    "open_issues_count": 166,
-    "forks_count": 9123
+    "stargazers_count": 67353,
+    "open_issues_count": 177,
+    "forks_count": 9695
   },
   {
     "full_name": "interlynk-io/sbomqs",
-    "stargazers_count": 283,
-    "open_issues_count": 24,
+    "stargazers_count": 286,
+    "open_issues_count": 23,
     "forks_count": 30
   },
   {
     "full_name": "rtvkiz/minimal",
-    "stargazers_count": 422,
-    "open_issues_count": 3,
-    "forks_count": 14
+    "stargazers_count": 424,
+    "open_issues_count": 4,
+    "forks_count": 15
   },
   {
     "full_name": "righteouslabs/microshift-docker-compose",
@@ -31,99 +37,99 @@
   },
   {
     "full_name": "ReScienceLab/opc-skills",
-    "stargazers_count": 662,
+    "stargazers_count": 682,
     "open_issues_count": 3,
-    "forks_count": 76
+    "forks_count": 78
   },
   {
     "full_name": "Termix-SSH/Termix",
-    "stargazers_count": 12072,
-    "open_issues_count": 19,
+    "stargazers_count": 12127,
+    "open_issues_count": 29,
     "forks_count": 486
   },
   {
     "full_name": "onecli/onecli",
-    "stargazers_count": 1624,
-    "open_issues_count": 11,
-    "forks_count": 77
+    "stargazers_count": 1671,
+    "open_issues_count": 9,
+    "forks_count": 80
   },
   {
     "full_name": "coreyhaines31/marketingskills",
-    "stargazers_count": 18469,
-    "open_issues_count": 10,
-    "forks_count": 2821
+    "stargazers_count": 19215,
+    "open_issues_count": 6,
+    "forks_count": 2972
   },
   {
     "full_name": "f/prompts.chat",
-    "stargazers_count": 156756,
-    "open_issues_count": 38,
-    "forks_count": 20567
+    "stargazers_count": 157706,
+    "open_issues_count": 42,
+    "forks_count": 20642
   },
   {
     "full_name": "CodesWhat/drydock",
-    "stargazers_count": 171,
-    "open_issues_count": 15,
+    "stargazers_count": 174,
+    "open_issues_count": 13,
     "forks_count": 10
   },
   {
     "full_name": "shanraisshan/claude-code-best-practice",
-    "stargazers_count": 31070,
-    "open_issues_count": 4,
-    "forks_count": 2754
+    "stargazers_count": 32477,
+    "open_issues_count": 3,
+    "forks_count": 2977
   },
   {
     "full_name": "bschaatsbergen/cek",
-    "stargazers_count": 288,
-    "open_issues_count": 3,
+    "stargazers_count": 300,
+    "open_issues_count": 4,
     "forks_count": 6
   },
   {
     "full_name": "veloxpack/csi-driver-rclone",
-    "stargazers_count": 314,
+    "stargazers_count": 313,
     "open_issues_count": 6,
     "forks_count": 8
   },
   {
     "full_name": "container-registry/harbor-next",
     "stargazers_count": 13,
-    "open_issues_count": 22,
+    "open_issues_count": 29,
     "forks_count": 8
   },
   {
     "full_name": "pranshuparmar/witr",
-    "stargazers_count": 14223,
+    "stargazers_count": 14245,
     "open_issues_count": 4,
-    "forks_count": 357
+    "forks_count": 359
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 23612,
-    "open_issues_count": 57,
-    "forks_count": 1167
+    "stargazers_count": 23984,
+    "open_issues_count": 63,
+    "forks_count": 1203
   },
   {
     "full_name": "dotdc/grafana-dashboards-kubernetes",
-    "stargazers_count": 3545,
-    "open_issues_count": 3,
+    "stargazers_count": 3549,
+    "open_issues_count": 7,
     "forks_count": 465
   },
   {
     "full_name": "kubernetes-monitoring/kubernetes-mixin",
-    "stargazers_count": 2407,
+    "stargazers_count": 2408,
     "open_issues_count": 8,
     "forks_count": 638
   },
   {
     "full_name": "OpenHub-Store/GitHub-Store",
-    "stargazers_count": 10113,
-    "open_issues_count": 22,
-    "forks_count": 370
+    "stargazers_count": 11012,
+    "open_issues_count": 27,
+    "forks_count": 389
   },
   {
     "full_name": "boyter/scc",
-    "stargazers_count": 8250,
-    "open_issues_count": 54,
-    "forks_count": 312
+    "stargazers_count": 8265,
+    "open_issues_count": 53,
+    "forks_count": 311
   },
   {
     "full_name": "johnproblems/formaltask",
@@ -133,50 +139,44 @@
   },
   {
     "full_name": "j178/prek",
-    "stargazers_count": 7152,
-    "open_issues_count": 80,
-    "forks_count": 200
+    "stargazers_count": 7210,
+    "open_issues_count": 90,
+    "forks_count": 204
   },
   {
     "full_name": "vroonhof/opensteuerauszug",
-    "stargazers_count": 234,
-    "open_issues_count": 35,
-    "forks_count": 33
+    "stargazers_count": 238,
+    "open_issues_count": 37,
+    "forks_count": 34
   },
   {
     "full_name": "sbom-tool/sbom-tools",
-    "stargazers_count": 139,
-    "open_issues_count": 2,
+    "stargazers_count": 144,
+    "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "papercomputeco/tapes",
-    "stargazers_count": 214,
-    "open_issues_count": 15,
-    "forks_count": 16
+    "stargazers_count": 216,
+    "open_issues_count": 17,
+    "forks_count": 19
   },
   {
     "full_name": "dlvhdr/diffnav",
-    "stargazers_count": 1237,
-    "open_issues_count": 28,
+    "stargazers_count": 1244,
+    "open_issues_count": 26,
     "forks_count": 30
   },
   {
     "full_name": "alibaba/zvec",
-    "stargazers_count": 9223,
-    "open_issues_count": 41,
-    "forks_count": 528
+    "stargazers_count": 9250,
+    "open_issues_count": 44,
+    "forks_count": 533
   },
   {
     "full_name": "mindsdb/mindsdb",
-    "stargazers_count": 38891,
-    "open_issues_count": 102,
-    "forks_count": 6173
-  },
-  {
-    "full_name": "bugsink/bugsink",
-    "stargazers_count": 1653,
-    "open_issues_count": 124,
-    "forks_count": 88
+    "stargazers_count": 38915,
+    "open_issues_count": 96,
+    "forks_count": 6180
   }
 ]

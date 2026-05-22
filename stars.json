@@ -1,27 +1,27 @@
 [
   {
     "full_name": "rohitg00/agentmemory",
-    "stargazers_count": 12998,
-    "open_issues_count": 130,
-    "forks_count": 1099
+    "stargazers_count": 15897,
+    "open_issues_count": 156,
+    "forks_count": 1315
   },
   {
     "full_name": "getagentseal/codeburn",
-    "stargazers_count": 6704,
-    "open_issues_count": 38,
-    "forks_count": 508
+    "stargazers_count": 6849,
+    "open_issues_count": 43,
+    "forks_count": 521
   },
   {
     "full_name": "container-registry/harbor-next",
-    "stargazers_count": 14,
-    "open_issues_count": 27,
+    "stargazers_count": 15,
+    "open_issues_count": 29,
     "forks_count": 8
   },
   {
     "full_name": "rtk-ai/rtk",
-    "stargazers_count": 50061,
-    "open_issues_count": 944,
-    "forks_count": 3055
+    "stargazers_count": 52452,
+    "open_issues_count": 993,
+    "forks_count": 3186
   },
   {
     "full_name": "LanikSJ/dfimage",
@@ -50,73 +50,73 @@
   {
     "full_name": "seebom-labs/seebom",
     "stargazers_count": 10,
-    "open_issues_count": 16,
+    "open_issues_count": 30,
     "forks_count": 5
   },
   {
     "full_name": "cocoindex-io/cocoindex",
-    "stargazers_count": 9867,
-    "open_issues_count": 53,
-    "forks_count": 768
+    "stargazers_count": 9960,
+    "open_issues_count": 51,
+    "forks_count": 778
   },
   {
     "full_name": "tobi/qmd",
-    "stargazers_count": 25107,
-    "open_issues_count": 317,
-    "forks_count": 1582
+    "stargazers_count": 25323,
+    "open_issues_count": 92,
+    "forks_count": 1597
   },
   {
     "full_name": "google/osv-scanner",
-    "stargazers_count": 10241,
-    "open_issues_count": 119,
-    "forks_count": 701
+    "stargazers_count": 10297,
+    "open_issues_count": 123,
+    "forks_count": 703
   },
   {
     "full_name": "smol-machines/smolvm",
-    "stargazers_count": 3312,
-    "open_issues_count": 50,
-    "forks_count": 142
+    "stargazers_count": 3358,
+    "open_issues_count": 47,
+    "forks_count": 147
   },
   {
     "full_name": "zilliztech/claude-context",
-    "stargazers_count": 11416,
-    "open_issues_count": 105,
-    "forks_count": 840
+    "stargazers_count": 11517,
+    "open_issues_count": 110,
+    "forks_count": 848
   },
   {
     "full_name": "a-h/templ",
-    "stargazers_count": 10307,
-    "open_issues_count": 35,
+    "stargazers_count": 10313,
+    "open_issues_count": 37,
     "forks_count": 358
   },
   {
     "full_name": "luongnv89/claude-howto",
-    "stargazers_count": 33429,
-    "open_issues_count": 30,
-    "forks_count": 4093
+    "stargazers_count": 33757,
+    "open_issues_count": 29,
+    "forks_count": 4134
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 94534,
-    "open_issues_count": 233,
-    "forks_count": 10669
+    "stargazers_count": 95023,
+    "open_issues_count": 228,
+    "forks_count": 10708
   },
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 81764,
-    "open_issues_count": 181,
-    "forks_count": 11882
+    "stargazers_count": 82605,
+    "open_issues_count": 182,
+    "forks_count": 11986
   },
   {
     "full_name": "interlynk-io/sbomqs",
-    "stargazers_count": 291,
-    "open_issues_count": 15,
+    "stargazers_count": 293,
+    "open_issues_count": 18,
     "forks_count": 33
   },
   {
     "full_name": "rtvkiz/minimal",
-    "stargazers_count": 477,
-    "open_issues_count": 3,
+    "stargazers_count": 479,
+    "open_issues_count": 5,
     "forks_count": 19
   },
   {
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "ReScienceLab/opc-skills",
-    "stargazers_count": 875,
+    "stargazers_count": 878,
     "open_issues_count": 4,
     "forks_count": 99
   },
   {
     "full_name": "Termix-SSH/Termix",
-    "stargazers_count": 12879,
+    "stargazers_count": 12943,
     "open_issues_count": 5,
-    "forks_count": 526
+    "forks_count": 529
   },
   {
     "full_name": "onecli/onecli",
-    "stargazers_count": 2196,
-    "open_issues_count": 31,
-    "forks_count": 114
+    "stargazers_count": 2230,
+    "open_issues_count": 38,
+    "forks_count": 116
   },
   {
     "full_name": "coreyhaines31/marketingskills",
-    "stargazers_count": 29356,
+    "stargazers_count": 29937,
     "open_issues_count": 17,
-    "forks_count": 4797
+    "forks_count": 4919
   },
   {
     "full_name": "f/prompts.chat",
-    "stargazers_count": 162484,
-    "open_issues_count": 46,
-    "forks_count": 21154
+    "stargazers_count": 162629,
+    "open_issues_count": 48,
+    "forks_count": 21163
   },
   {
     "full_name": "CodesWhat/drydock",
     "stargazers_count": 198,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 10
   },
   {
     "full_name": "shanraisshan/claude-code-best-practice",
-    "stargazers_count": 53606,
-    "open_issues_count": 15,
-    "forks_count": 5372
+    "stargazers_count": 54245,
+    "open_issues_count": 12,
+    "forks_count": 5439
   },
   {
     "full_name": "bschaatsbergen/cek",
-    "stargazers_count": 307,
+    "stargazers_count": 309,
     "open_issues_count": 3,
     "forks_count": 6
   },
   {
     "full_name": "veloxpack/csi-driver-rclone",
     "stargazers_count": 321,
-    "open_issues_count": 6,
+    "open_issues_count": 11,
     "forks_count": 8
   }
 ]

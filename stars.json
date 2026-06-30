@@ -1,21 +1,21 @@
 [
   {
     "full_name": "tursodatabase/turso",
-    "stargazers_count": 22203,
-    "open_issues_count": 743,
-    "forks_count": 1114
+    "stargazers_count": 22457,
+    "open_issues_count": 759,
+    "forks_count": 1128
   },
   {
     "full_name": "heygen-com/hyperframes",
-    "stargazers_count": 31353,
-    "open_issues_count": 58,
-    "forks_count": 2914
+    "stargazers_count": 32189,
+    "open_issues_count": 61,
+    "forks_count": 2993
   },
   {
     "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
-    "stargazers_count": 21296,
-    "open_issues_count": 31,
-    "forks_count": 2453
+    "stargazers_count": 23119,
+    "open_issues_count": 29,
+    "forks_count": 2629
   },
   {
     "full_name": "picatz/taint",
@@ -25,33 +25,33 @@
   },
   {
     "full_name": "deepfence/SecretScanner",
-    "stargazers_count": 3364,
+    "stargazers_count": 3365,
     "open_issues_count": 25,
     "forks_count": 347
   },
   {
     "full_name": "goodwithtech/dockle",
-    "stargazers_count": 3266,
+    "stargazers_count": 3268,
     "open_issues_count": 42,
     "forks_count": 163
   },
   {
     "full_name": "builderz-labs/mission-control",
-    "stargazers_count": 5421,
-    "open_issues_count": 21,
-    "forks_count": 935
+    "stargazers_count": 5467,
+    "open_issues_count": 24,
+    "forks_count": 937
   },
   {
     "full_name": "paperclipai/paperclip",
-    "stargazers_count": 71549,
-    "open_issues_count": 4868,
-    "forks_count": 13324
+    "stargazers_count": 72208,
+    "open_issues_count": 4933,
+    "forks_count": 13446
   },
   {
     "full_name": "apple/container",
-    "stargazers_count": 43258,
-    "open_issues_count": 388,
-    "forks_count": 1270
+    "stargazers_count": 44793,
+    "open_issues_count": 399,
+    "forks_count": 1325
   },
   {
     "full_name": "8gears/godebug-agentic",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "manaflow-ai/cmux",
-    "stargazers_count": 22930,
-    "open_issues_count": 2874,
-    "forks_count": 1808
+    "stargazers_count": 23162,
+    "open_issues_count": 3056,
+    "forks_count": 1832
   },
   {
     "full_name": "coder/ghostty-web",
-    "stargazers_count": 2559,
-    "open_issues_count": 48,
-    "forks_count": 139
+    "stargazers_count": 2569,
+    "open_issues_count": 49,
+    "forks_count": 141
   },
   {
     "full_name": "wiedymi/restty",
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "garrytan/gstack",
-    "stargazers_count": 115879,
-    "open_issues_count": 735,
-    "forks_count": 17176
+    "stargazers_count": 118135,
+    "open_issues_count": 752,
+    "forks_count": 17581
   },
   {
     "full_name": "kitlangton/stack",
-    "stargazers_count": 499,
+    "stargazers_count": 500,
     "open_issues_count": 12,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "oramasearch/orama",
-    "stargazers_count": 10445,
-    "open_issues_count": 28,
-    "forks_count": 394
+    "stargazers_count": 10457,
+    "open_issues_count": 19,
+    "forks_count": 395
   },
   {
     "full_name": "VioletCranberry/coco-search",
@@ -104,14 +104,14 @@
   {
     "full_name": "datum-cloud/awesome-alt-clouds",
     "stargazers_count": 84,
-    "open_issues_count": 14,
+    "open_issues_count": 12,
     "forks_count": 19
   },
   {
     "full_name": "zizmorcore/zizmor",
-    "stargazers_count": 5733,
-    "open_issues_count": 149,
-    "forks_count": 220
+    "stargazers_count": 5751,
+    "open_issues_count": 145,
+    "forks_count": 221
   },
   {
     "full_name": "kuberik/kuberik",
@@ -134,32 +134,32 @@
   {
     "full_name": "modelpack/modctl",
     "stargazers_count": 77,
-    "open_issues_count": 40,
+    "open_issues_count": 45,
     "forks_count": 29
   },
   {
     "full_name": "rohitg00/agentmemory",
-    "stargazers_count": 24063,
-    "open_issues_count": 330,
-    "forks_count": 1976
+    "stargazers_count": 24305,
+    "open_issues_count": 345,
+    "forks_count": 1995
   },
   {
     "full_name": "getagentseal/codeburn",
-    "stargazers_count": 8264,
-    "open_issues_count": 43,
-    "forks_count": 649
+    "stargazers_count": 8332,
+    "open_issues_count": 34,
+    "forks_count": 650
   },
   {
     "full_name": "container-registry/harbor-next",
     "stargazers_count": 22,
-    "open_issues_count": 40,
-    "forks_count": 8
+    "open_issues_count": 49,
+    "forks_count": 10
   },
   {
     "full_name": "rtk-ai/rtk",
-    "stargazers_count": 66140,
-    "open_issues_count": 1363,
-    "forks_count": 4084
+    "stargazers_count": 67066,
+    "open_issues_count": 1444,
+    "forks_count": 4142
   },
   {
     "full_name": "LanikSJ/dfimage",

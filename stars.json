@@ -1,63 +1,75 @@
 [
   {
+    "full_name": "tinyauthapp/tinyauth",
+    "stargazers_count": 8163,
+    "open_issues_count": 30,
+    "forks_count": 264
+  },
+  {
+    "full_name": "volcengine/OpenViking",
+    "stargazers_count": 33000,
+    "open_issues_count": 525,
+    "forks_count": 2515
+  },
+  {
     "full_name": "BatterWorks/Hatchdoor",
-    "stargazers_count": 26,
-    "open_issues_count": 17,
+    "stargazers_count": 29,
+    "open_issues_count": 21,
     "forks_count": 1
   },
   {
     "full_name": "container-registry/harbor-scanner-trivy",
     "stargazers_count": 1,
-    "open_issues_count": 10,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "anthropics/claude-code-security-review",
-    "stargazers_count": 5967,
+    "stargazers_count": 6043,
     "open_issues_count": 81,
-    "forks_count": 648
+    "forks_count": 656
   },
   {
     "full_name": "fluxcd/flux-mirror",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "EveryInc/compound-engineering-plugin",
-    "stargazers_count": 24410,
-    "open_issues_count": 81,
-    "forks_count": 2014
+    "stargazers_count": 24512,
+    "open_issues_count": 79,
+    "forks_count": 2021
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 226697,
-    "open_issues_count": 375,
-    "forks_count": 19439
+    "stargazers_count": 235475,
+    "open_issues_count": 392,
+    "forks_count": 20065
   },
   {
     "full_name": "dmmulroy/jj-starship",
-    "stargazers_count": 224,
+    "stargazers_count": 226,
     "open_issues_count": 7,
     "forks_count": 17
   },
   {
     "full_name": "bmad-code-org/BMAD-METHOD",
-    "stargazers_count": 52120,
-    "open_issues_count": 146,
-    "forks_count": 5946
+    "stargazers_count": 52231,
+    "open_issues_count": 127,
+    "forks_count": 5954
   },
   {
     "full_name": "denoland/celld",
-    "stargazers_count": 4034,
-    "open_issues_count": 11,
-    "forks_count": 127
+    "stargazers_count": 4180,
+    "open_issues_count": 13,
+    "forks_count": 139
   },
   {
     "full_name": "schemathesis/schemathesis",
-    "stargazers_count": 3545,
-    "open_issues_count": 11,
-    "forks_count": 224
+    "stargazers_count": 3559,
+    "open_issues_count": 8,
+    "forks_count": 223
   },
   {
     "full_name": "yaml/yamlstar",
@@ -67,116 +79,104 @@
   },
   {
     "full_name": "serenedb/serenedb",
-    "stargazers_count": 691,
-    "open_issues_count": 250,
+    "stargazers_count": 698,
+    "open_issues_count": 257,
     "forks_count": 43
   },
   {
     "full_name": "zellij-org/zellij",
-    "stargazers_count": 35019,
-    "open_issues_count": 1859,
-    "forks_count": 1392
+    "stargazers_count": 35097,
+    "open_issues_count": 1871,
+    "forks_count": 1403
   },
   {
     "full_name": "Vincentwei1021/video-shotcraft",
-    "stargazers_count": 5682,
-    "open_issues_count": 6,
-    "forks_count": 495
+    "stargazers_count": 6251,
+    "open_issues_count": 4,
+    "forks_count": 548
   },
   {
     "full_name": "capitalone/VulnHunter",
-    "stargazers_count": 939,
-    "open_issues_count": 16,
-    "forks_count": 133
+    "stargazers_count": 947,
+    "open_issues_count": 17,
+    "forks_count": 136
   },
   {
     "full_name": "crawlseo/crawlseo",
-    "stargazers_count": 551,
-    "open_issues_count": 6,
-    "forks_count": 82
+    "stargazers_count": 558,
+    "open_issues_count": 5,
+    "forks_count": 84
   },
   {
     "full_name": "psviderski/uncloud",
-    "stargazers_count": 5461,
+    "stargazers_count": 5465,
     "open_issues_count": 89,
-    "forks_count": 174
+    "forks_count": 175
   },
   {
     "full_name": "AlmanacCode/codealmanac",
-    "stargazers_count": 802,
-    "open_issues_count": 49,
+    "stargazers_count": 812,
+    "open_issues_count": 52,
     "forks_count": 71
   },
   {
     "full_name": "rest-sh/restish",
-    "stargazers_count": 1361,
+    "stargazers_count": 1365,
     "open_issues_count": 33,
     "forks_count": 103
   },
   {
     "full_name": "PhialsBasement/LibreCrawl",
-    "stargazers_count": 869,
+    "stargazers_count": 877,
     "open_issues_count": 22,
-    "forks_count": 183
+    "forks_count": 187
   },
   {
     "full_name": "kusari-oss/waybill",
     "stargazers_count": 15,
-    "open_issues_count": 58,
+    "open_issues_count": 59,
     "forks_count": 5
   },
   {
     "full_name": "addyosmani/agent-skills",
-    "stargazers_count": 88827,
-    "open_issues_count": 107,
-    "forks_count": 9519
+    "stargazers_count": 89501,
+    "open_issues_count": 114,
+    "forks_count": 9592
   },
   {
     "full_name": "BayramAnnakov/claude-reflect",
-    "stargazers_count": 1411,
+    "stargazers_count": 1412,
     "open_issues_count": 16,
     "forks_count": 118
   },
   {
     "full_name": "cobusgreyling/loop-engineering",
-    "stargazers_count": 10512,
-    "open_issues_count": 15,
-    "forks_count": 1437
+    "stargazers_count": 10642,
+    "open_issues_count": 16,
+    "forks_count": 1462
   },
   {
     "full_name": "tursodatabase/turso",
-    "stargazers_count": 23947,
-    "open_issues_count": 861,
-    "forks_count": 1278
+    "stargazers_count": 23993,
+    "open_issues_count": 875,
+    "forks_count": 1285
   },
   {
     "full_name": "heygen-com/hyperframes",
-    "stargazers_count": 41847,
-    "open_issues_count": 253,
-    "forks_count": 4011
+    "stargazers_count": 42479,
+    "open_issues_count": 232,
+    "forks_count": 4070
   },
   {
     "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
-    "stargazers_count": 30378,
-    "open_issues_count": 47,
-    "forks_count": 3612
+    "stargazers_count": 31000,
+    "open_issues_count": 42,
+    "forks_count": 3692
   },
   {
     "full_name": "picatz/taint",
     "stargazers_count": 85,
     "open_issues_count": 1,
     "forks_count": 4
-  },
-  {
-    "full_name": "deepfence/SecretScanner",
-    "stargazers_count": 3381,
-    "open_issues_count": 25,
-    "forks_count": 346
-  },
-  {
-    "full_name": "goodwithtech/dockle",
-    "stargazers_count": 3289,
-    "open_issues_count": 53,
-    "forks_count": 166
   }
 ]

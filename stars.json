@@ -1,81 +1,105 @@
 [
   {
+    "full_name": "safedep/vet",
+    "stargazers_count": 1106,
+    "open_issues_count": 98,
+    "forks_count": 110
+  },
+  {
+    "full_name": "thedotmack/claude-mem",
+    "stargazers_count": 93645,
+    "open_issues_count": 337,
+    "forks_count": 8233
+  },
+  {
+    "full_name": "blader/humanizer",
+    "stargazers_count": 46504,
+    "open_issues_count": 9,
+    "forks_count": 3806
+  },
+  {
+    "full_name": "nodivbyzero/try",
+    "stargazers_count": 51,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "every-app/open-seo",
-    "stargazers_count": 17723,
-    "open_issues_count": 150,
-    "forks_count": 2235
+    "stargazers_count": 18293,
+    "open_issues_count": 161,
+    "forks_count": 2314
   },
   {
     "full_name": "gowebly/gowebly",
-    "stargazers_count": 1229,
+    "stargazers_count": 1230,
     "open_issues_count": 6,
     "forks_count": 47
   },
   {
     "full_name": "goforj/godump",
-    "stargazers_count": 1759,
+    "stargazers_count": 1761,
     "open_issues_count": 3,
     "forks_count": 35
   },
   {
     "full_name": "bzsanti/oxidizePdf",
-    "stargazers_count": 187,
-    "open_issues_count": 10,
+    "stargazers_count": 188,
+    "open_issues_count": 9,
     "forks_count": 27
   },
   {
     "full_name": "Ataraxy-Labs/weave",
-    "stargazers_count": 1270,
-    "open_issues_count": 10,
+    "stargazers_count": 1275,
+    "open_issues_count": 7,
     "forks_count": 42
   },
   {
     "full_name": "external-secrets/external-secrets",
-    "stargazers_count": 6840,
-    "open_issues_count": 278,
-    "forks_count": 1416
+    "stargazers_count": 6848,
+    "open_issues_count": 283,
+    "forks_count": 1422
   },
   {
     "full_name": "karust/openserp",
-    "stargazers_count": 1352,
+    "stargazers_count": 1372,
     "open_issues_count": 20,
-    "forks_count": 154
+    "forks_count": 156
   },
   {
     "full_name": "stackrox/stackrox",
     "stargazers_count": 1309,
-    "open_issues_count": 683,
-    "forks_count": 189
+    "open_issues_count": 658,
+    "forks_count": 190
   },
   {
     "full_name": "tinyauthapp/tinyauth",
-    "stargazers_count": 8213,
-    "open_issues_count": 28,
-    "forks_count": 265
+    "stargazers_count": 8234,
+    "open_issues_count": 30,
+    "forks_count": 266
   },
   {
     "full_name": "volcengine/OpenViking",
-    "stargazers_count": 35947,
-    "open_issues_count": 672,
-    "forks_count": 2742
+    "stargazers_count": 36528,
+    "open_issues_count": 687,
+    "forks_count": 2798
   },
   {
     "full_name": "BatterWorks/Hatchdoor",
     "stargazers_count": 31,
-    "open_issues_count": 26,
-    "forks_count": 3
+    "open_issues_count": 32,
+    "forks_count": 4
   },
   {
     "full_name": "container-registry/harbor-scanner-trivy",
     "stargazers_count": 1,
-    "open_issues_count": 13,
+    "open_issues_count": 10,
     "forks_count": 0
   },
   {
     "full_name": "anthropics/claude-code-security-review",
-    "stargazers_count": 6179,
-    "open_issues_count": 93,
-    "forks_count": 681
+    "stargazers_count": 6201,
+    "open_issues_count": 94,
+    "forks_count": 682
   },
   {
     "full_name": "fluxcd/flux-mirror",
@@ -85,38 +109,38 @@
   },
   {
     "full_name": "EveryInc/compound-engineering-plugin",
-    "stargazers_count": 24938,
-    "open_issues_count": 99,
-    "forks_count": 2053
+    "stargazers_count": 25010,
+    "open_issues_count": 98,
+    "forks_count": 2038
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 256133,
-    "open_issues_count": 472,
-    "forks_count": 21572
+    "stargazers_count": 258899,
+    "open_issues_count": 486,
+    "forks_count": 21811
   },
   {
     "full_name": "dmmulroy/jj-starship",
-    "stargazers_count": 233,
+    "stargazers_count": 237,
     "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "bmad-code-org/BMAD-METHOD",
-    "stargazers_count": 52768,
-    "open_issues_count": 32,
-    "forks_count": 5978
+    "stargazers_count": 52870,
+    "open_issues_count": 33,
+    "forks_count": 5982
   },
   {
     "full_name": "denoland/celld",
-    "stargazers_count": 4565,
-    "open_issues_count": 14,
-    "forks_count": 164
+    "stargazers_count": 4593,
+    "open_issues_count": 15,
+    "forks_count": 167
   },
   {
     "full_name": "schemathesis/schemathesis",
-    "stargazers_count": 3585,
-    "open_issues_count": 14,
+    "stargazers_count": 3596,
+    "open_issues_count": 11,
     "forks_count": 223
   },
   {
@@ -127,56 +151,32 @@
   },
   {
     "full_name": "serenedb/serenedb",
-    "stargazers_count": 715,
-    "open_issues_count": 262,
-    "forks_count": 46
+    "stargazers_count": 721,
+    "open_issues_count": 289,
+    "forks_count": 48
   },
   {
     "full_name": "zellij-org/zellij",
-    "stargazers_count": 35311,
-    "open_issues_count": 1903,
-    "forks_count": 1434
+    "stargazers_count": 35369,
+    "open_issues_count": 1915,
+    "forks_count": 1437
   },
   {
     "full_name": "Vincentwei1021/video-shotcraft",
-    "stargazers_count": 7706,
-    "open_issues_count": 4,
-    "forks_count": 687
+    "stargazers_count": 8020,
+    "open_issues_count": 5,
+    "forks_count": 729
   },
   {
     "full_name": "capitalone/VulnHunter",
-    "stargazers_count": 982,
+    "stargazers_count": 988,
     "open_issues_count": 19,
-    "forks_count": 140
+    "forks_count": 141
   },
   {
     "full_name": "crawlseo/crawlseo",
-    "stargazers_count": 579,
+    "stargazers_count": 582,
     "open_issues_count": 7,
-    "forks_count": 88
-  },
-  {
-    "full_name": "psviderski/uncloud",
-    "stargazers_count": 5484,
-    "open_issues_count": 90,
-    "forks_count": 177
-  },
-  {
-    "full_name": "AlmanacCode/codealmanac",
-    "stargazers_count": 997,
-    "open_issues_count": 53,
-    "forks_count": 73
-  },
-  {
-    "full_name": "rest-sh/restish",
-    "stargazers_count": 1369,
-    "open_issues_count": 42,
-    "forks_count": 105
-  },
-  {
-    "full_name": "PhialsBasement/LibreCrawl",
-    "stargazers_count": 905,
-    "open_issues_count": 22,
-    "forks_count": 194
+    "forks_count": 87
   }
 ]
